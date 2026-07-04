@@ -4,7 +4,7 @@ from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
 JST = timezone(timedelta(hours=9))
-DAYS_LIMIT = 7
+DAYS_LIMIT = 365
 MAX_ITEMS = 30
 
 QUERIES = [

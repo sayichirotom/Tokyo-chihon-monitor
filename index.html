@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>東京地本 世論モニター</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">Tokyo Chihon Monitor</p>
+      <h1>東京地本 世論モニター</h1>
+      <p class="lead">公開情報を収集し、肯定・中立・否定、話題、リスクを日次で整理します。</p>
+    </div>
+    <div class="status" id="status">読込中</div>
+  </header>
+
+  <main>
+    <section class="cards">
+      <article><span>取得件数</span><strong id="total">-</strong></article>
+      <article><span>肯定</span><strong id="positive">-</strong></article>
+      <article><span>中立</span><strong id="neutral">-</strong></article>
+      <article><span>否定</span><strong id="negative">-</strong></article>
+    </section>
+
+    <section class="panel">
+      <h2>AI風サマリー</h2>
+      <p id="summary">読込中です。</p>
+    </section>
+
+    <section class="grid">
+      <article class="panel">
+        <h2>感情構成</h2>
+        <div class="bars">
+          <label>肯定 <meter id="bar-positive" min="0" max="100" value="0"></meter></label>
+          <label>中立 <meter id="bar-neutral" min="0" max="100" value="0"></meter></label>
+          <label>否定 <meter id="bar-negative" min="0" max="100" value="0"></meter></label>
+        </div>
+      </article>
+      <article class="panel">
+        <h2>注目キーワード</h2>
+        <div id="keywords" class="chips"></div>
+      </article>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>収集結果</h2>
+        <input id="filter" placeholder="検索：防衛大学校、航空学生、東京地本など" />
+      </div>
+      <div id="items" class="items"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>公開情報・RSS等を対象にした分析補助ツールです。非公開情報やログインが必要な情報は収集しません。</p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

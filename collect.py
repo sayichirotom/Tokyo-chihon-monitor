@@ -81,9 +81,6 @@ def main():
                     continue
 
                 text = title + " " + snippet
-                if not any(k in text for k in ["東京地本", "東京地方協力本部", "自衛隊東京", "自衛隊 東京"]):
-                    continue
-
                 key = title[:80]
                 if key in seen:
                     continue

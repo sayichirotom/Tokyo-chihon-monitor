@@ -1,4 +1,4 @@
-import json, re, urllib.parse, urllib.request
+import os, json, re, urllib.parse, urllib.request
 from datetime import datetime, timezone, timedelta
 import xml.etree.ElementTree as ET
 from collections import Counter
@@ -93,6 +93,6 @@ data = {
     "keywords": [w for w, c in counter.most_common(15)],
     "items": items
 }
-
+os.makedirs("data", exist_ok=True)
 with open("data/results.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)

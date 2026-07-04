@@ -21,12 +21,13 @@ jobs:
 
       - run: pip install feedparser requests
 
-      - run: python collect.py
+      
 
       - run: |
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
           git pull --rebase
+          python collect.py
           git add results.json
           git commit -m "update" || exit 0
           git push

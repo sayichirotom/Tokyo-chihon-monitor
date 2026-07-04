@@ -1,5 +1,5 @@
 async function loadData(){
-  const res = await fetch('data/results.json?ts=' + Date.now());
+  const res = await fetch('results.json?ts=' + Date.now());
   const data = await res.json();
   const items = data.items || [];
   document.getElementById('updated').textContent = data.updated || '-';

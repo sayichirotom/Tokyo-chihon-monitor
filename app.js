@@ -27,6 +27,7 @@ async function loadData(){
       div.innerHTML = `<a href="${i.link}" target="_blank" rel="noopener">${i.title}</a>
         <div class="meta"><span class="badge ${i.sentiment}">${i.sentiment}</span>${i.source || ''} / ${i.date || ''}</div>
         <p>${i.snippet || ''}</p>`;
+        <p class="reason">判定理由：${i.sentiment_reason || i.reason || '理由なし'}</p>
       box.appendChild(div);
     });
   };

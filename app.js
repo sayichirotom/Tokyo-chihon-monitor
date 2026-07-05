@@ -24,7 +24,11 @@ async function loadData(){
     items.filter(i => !q || JSON.stringify(i).includes(q)).forEach(i => {
       const div = document.createElement('div');
       div.className = 'item';
-      const snippet = i.snippet && i.snippet !== i.title ? i.snippet : '';
+      const sameText = (a, b) =>
+  (a || '').replace(/\s+/g, '').replace(/[｜|-].*$/, '') ===
+  (b || '').replace(/\s+/g, '').replace(/[｜|-].*$/, '');
+
+const snippet = i.snippet && !sameText(i.snippet, i.title) ? i.snippet : '';
 
 div.innerHTML = `<a href="${i.link}" target="_blank" rel="noopener">${i.title}</a>
   <div class="meta"><span class="badge ${i.sentiment}">${i.sentiment}</span> ${i.source || ''} / ${i.date || ''}</div>

@@ -4,7 +4,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
 JST = timezone(timedelta(hours=9))
-DAYS_LIMIT = 365
+DAYS_LIMIT = 90
 MAX_ITEMS = 30
 
 QUERIES = [
@@ -17,7 +17,11 @@ QUERIES = [
 
 REQUIRED_WORDS = [
     "東京地方協力本部", "東京地本", "自衛隊東京地方協力本部",
-    "新小岩募集案内所", "大田出張所"
+    "新小岩募集案内所", "大田出張所", "港出張所", "世田谷募集案内所",
+    "渋谷募集案内所", "豊島出張所", "北地域事務所", "練馬地域事務所",
+    "高円寺募集案内所", "江東出張所", "文京出張所", "足立地域事務所",
+    "新小岩募集案内所", "立川出張所", "西東京地域事務所", "八王子地域事務所",
+    "町田募集案内所", "福生募集案内所",
 ]
 
 EXCLUDE_WORDS = [

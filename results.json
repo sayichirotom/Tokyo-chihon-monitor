@@ -1,290 +1,320 @@
 {
-  "updated": "2026-07-05 01:09",
-  "summary": "直近365日間の公開情報から30件を抽出。肯定17件、中立8件、否定5件。否定・リスク語を含む項目を優先表示します。",
+  "updated": "2026-07-05 16:38",
+  "summary": "直近365日間の公開情報から30件を抽出。肯定28件、中立0件、否定2件。判定理由を各記事に表示します。",
   "keywords": [
+    "font",
     "陸自調査団",
-    "東京地方協力本部",
-    "東京新聞デジタル",
-    "陸上自衛隊",
-    "自衛隊東京地方協力本部",
-    "新小岩募集案内所",
-    "動画",
-    "ハフポスト",
-    "自衛隊が公開",
-    "エアコンの節約術",
-    "がSNSで話題",
-    "公開2週間で1万7000の"
+    "href",
+    "news",
+    "google",
+    "com",
+    "rss",
+    "articles",
+    "oc",
+    "target",
+    "blank",
+    "color"
   ],
   "items": [
     {
-      "title": "全国の小学校に配った「防衛白書」は「子どもの権利条約」に違反している…教職員団体の直談判に政府側は - 東京新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEdFUtZHJldWhnbFdDd3kzLVZUTU5Gd1FWRmtENnY5VjF6YmNFd0pjOVM3V3pFYVh5QmhaVnVabHRQanhkTy1JUzJCQVVkQnpxamsw?oc=5",
-      "snippet": "全国の小学校に配った「防衛白書」は「子どもの権利条約」に違反している…教職員団体の直談判に政府側は&nbsp;&nbsp;東京新聞デジタル",
-      "source": "GoogleニュースRSS",
-      "date": "2025-12-02 17:00",
-      "sentiment": "否定",
-      "query": "自衛隊 東京 募集"
-    },
-    {
       "title": "「もしもの際に役立てていただければ…」 大規模災害を経て変化した\"発信する意味\" フォロワーが1年で5000人→10万人超に急増した自衛隊東京地方協力本部のSNS戦略とは - Hint-Pot | ヒントポット",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80Q1hOQlQxaVNCQUVYV05qX3VVMExEck5GNVhmMjdCOWxTYXF3WklkYXZLcEM4dElROE8yNkY5TEFTNjlHb19oM0hDOA?oc=5",
-      "snippet": "「もしもの際に役立てていただければ…」 大規模災害を経て変化した\"発信する意味\" フォロワーが1年で5000人→10万人超に急増した自衛隊東京地方協力本部のSNS戦略とは&nbsp;&nbsp;Hint-Pot | ヒントポット",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE80Q1hOQlQxaVNCQUVYV05qX3VVMExEck5GNVhmMjdCOWxTYXF3WklkYXZLcEM4dElROE8yNkY5TEFTNjlHb19oM0hDOA?oc=5\" target=\"_blank\">「もしもの際に役立てていただければ…」 大規模災害を経て変化した\"発信する意味\" フォロワーが1年で5000人→10万人超に急増した自衛隊東京地方協力本部のSNS戦略とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hint-Pot | ヒントポット</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-01-01 17:00",
       "sentiment": "否定",
+      "sentiment_reason": "否定語・リスク語（SNS）を含むため",
       "query": "東京地方協力本部"
-    },
-    {
-      "title": "住宅密集地のデータセンター、江東区でも問題化 水害リスクあるのに地下に重油貯蔵スペース計画…住民動揺 - 東京新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pZzctS2szY1R1T2E4dlNlOUFCY01PZlBDdG9TZzZod3ZDOGxhdWRfUUZNN3RocVdBUzQ5SThqVThvRm9tNFFEUXRhNUM5NWxiWjcw?oc=5",
-      "snippet": "住宅密集地のデータセンター、江東区でも問題化 水害リスクあるのに地下に重油貯蔵スペース計画…住民動揺&nbsp;&nbsp;東京新聞デジタル",
-      "source": "GoogleニュースRSS",
-      "date": "2026-02-12 17:00",
-      "sentiment": "否定",
-      "query": "東京地本 説明会"
     },
     {
       "title": "自衛隊が公開『エアコンの節約術』がSNSで話題 公開2週間で1万7000の「いいね」 自衛隊東京地方協力本部 - TBS NEWS DIG",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CcUJkaEJLTFRuclFFZzVzZnFyTVFsZjVjaTE0bk5KZjFFTEtrc3E2Y1JvNHk5aVZ5T0R6ZGVRRHk1X1dnSGpYS2Vvck51d3hzUFlNaG9zYw?oc=5",
-      "snippet": "自衛隊が公開『エアコンの節約術』がSNSで話題 公開2週間で1万7000の「いいね」 自衛隊東京地方協力本部&nbsp;&nbsp;TBS NEWS DIG",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CcUJkaEJLTFRuclFFZzVzZnFyTVFsZjVjaTE0bk5KZjFFTEtrc3E2Y1JvNHk5aVZ5T0R6ZGVRRHk1X1dnSGpYS2Vvck51d3hzUFlNaG9zYw?oc=5\" target=\"_blank\">自衛隊が公開『エアコンの節約術』がSNSで話題 公開2週間で1万7000の「いいね」 自衛隊東京地方協力本部</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-06-01 16:00",
       "sentiment": "否定",
-      "query": "東京地方協力本部"
-    },
-    {
-      "title": "自衛隊が公開『エアコンの節約術』がSNSで話題 公開2週間で1万7000の「いいね」 自衛隊東京地方協力本部 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PaldOOW92djlfZGNqUkJhWkFScGxveTNtWFdob3VHd2ZVSnJjUXR0S3FYa3hwZ3ZTLVdPTzJwRDZEeGxNZTY0UVZ2WmJWOWJUSWVxeGE3TmVDb0RMWHFvamFWbWQzcjRYMGRCb2ZOY9IBdEFVX3lxTE1OaG94amdHUTRPY1F6djlScDEtdVlIeWJjam8yZnpHcFhfYTB2UkRXZTFabktxYmhUT2U0OFlLR0oxRW92VEZFc1NsWHBBNDV0OHNWakM3b2JfS0VZdEJZcE11YWdGcHliZC1XbnJ0VklZTmVG?oc=5",
-      "snippet": "自衛隊が公開『エアコンの節約術』がSNSで話題 公開2週間で1万7000の「いいね」 自衛隊東京地方協力本部&nbsp;&nbsp;ｄメニューニュース",
-      "source": "GoogleニュースRSS",
-      "date": "2026-06-01 16:00",
-      "sentiment": "否定",
+      "sentiment_reason": "否定語・リスク語（SNS）を含むため",
       "query": "東京地方協力本部"
     },
     {
       "title": "陸上自衛隊 第1空挺団（習志野駐屯地）見学ツアー 東京地方協力本部｜2025年7月8日(火) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHBPbUhFYnVJYmRERkhJRTVvaHYydldyTzV1djFsTmR4WmlsYVllOURqekVEaFZ0THQ3bmpSRDg1NlRJcU5JODJid1I0N0E2X3hIRW0za0FvZVJxSDJSUlUwaDREbklyZEoxbGVrM192TnNSajc1eWlhckYzNHRQRzBfWGlyTWZtemh4Wl9n?oc=5",
-      "snippet": "陸上自衛隊 第1空挺団（習志野駐屯地）見学ツアー 東京地方協力本部｜2025年7月8日(火)&nbsp;&nbsp;陸自調査団",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHBPbUhFYnVJYmRERkhJRTVvaHYydldyTzV1djFsTmR4WmlsYVllOURqekVEaFZ0THQ3bmpSRDg1NlRJcU5JODJid1I0N0E2X3hIRW0za0FvZVJxSDJSUlUwaDREbklyZEoxbGVrM192TnNSajc1eWlhckYzNHRQRzBfWGlyTWZtemh4Wl9n?oc=5\" target=\"_blank\">陸上自衛隊 第1空挺団（習志野駐屯地）見学ツアー 東京地方協力本部｜2025年7月8日(火)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
       "date": "2025-07-08 16:00",
       "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力、見学）を含むため",
       "query": "東京地本 自衛隊"
-    },
-    {
-      "title": "陸上自衛隊「Landpower Forum in Japan」を12月に開催予定 出展企業を募集（7月4日） - J ディフェンス ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02eHgtMEtfclVlMmtVUWdVSTh2a0ZYNU5GbFRxYVRWd0tGODFYYnRrbi1WaXNaSGM2bWRsQkxpUGFOYWFYUUtTeXJDelppQmplb0FYNjA2T3UtYk91?oc=5",
-      "snippet": "陸上自衛隊「Landpower Forum in Japan」を12月に開催予定 出展企業を募集（7月4日）&nbsp;&nbsp;J ディフェンス ニュース",
-      "source": "GoogleニュースRSS",
-      "date": "2025-07-08 16:00",
-      "sentiment": "肯定",
-      "query": "自衛隊 東京 募集"
     },
     {
       "title": "自衛隊広報イベント2025 in アリオ亀有 東京地方協力本部｜2025年7月12日(土) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2FxdG5YdENIVlYzd2xyeTFnSUZFLXdFRkhpenAyWko4RXNxQU5hTnJ6T3FwRWpJaUF5MXl2S1ZqTHp2ZDhva08wZ0YwZUtROGMxYkVzUWZWVlU5aVF0UTdzTW9pWEU5ZHRiMkw4a3AyWS11UXg4SmRLS1Q2VlBKWXRXQlFrSkVzNlBfZUk2RQ?oc=5",
-      "snippet": "自衛隊広報イベント2025 in アリオ亀有 東京地方協力本部｜2025年7月12日(土)&nbsp;&nbsp;陸自調査団",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2FxdG5YdENIVlYzd2xyeTFnSUZFLXdFRkhpenAyWko4RXNxQU5hTnJ6T3FwRWpJaUF5MXl2S1ZqTHp2ZDhva08wZ0YwZUtROGMxYkVzUWZWVlU5aVF0UTdzTW9pWEU5ZHRiMkw4a3AyWS11UXg4SmRLS1Q2VlBKWXRXQlFrSkVzNlBfZUk2RQ?oc=5\" target=\"_blank\">自衛隊広報イベント2025 in アリオ亀有 東京地方協力本部｜2025年7月12日(土)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
       "date": "2025-07-12 16:00",
       "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（イベント、協力）を含むため",
       "query": "東京地方協力本部"
     },
     {
       "title": "【実施中止】海上自衛隊 横須賀基地見学会（護衛艦見学等）新小岩募集案内所｜2025年7月19日(土) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmJhR3NIa2lYQjZja1RURUdGdTdiSWxBRWFQcm5CMlptdm9nNzh4RjZQWFh6cmZtbnI2dGtiX0F0OUxxLVdTN2VzYVdMMXJKdDhKZkhSeGYwN1ZCY0pQZXR3OUxzTEhfbDd0b1RSM0NmVk1ROGhPWXo1LWpoZEx5X1IxSjltN1pRanBkSFpFbzdVZw?oc=5",
-      "snippet": "【実施中止】海上自衛隊 横須賀基地見学会（護衛艦見学等）新小岩募集案内所｜2025年7月19日(土)&nbsp;&nbsp;陸自調査団",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmJhR3NIa2lYQjZja1RURUdGdTdiSWxBRWFQcm5CMlptdm9nNzh4RjZQWFh6cmZtbnI2dGtiX0F0OUxxLVdTN2VzYVdMMXJKdDhKZkhSeGYwN1ZCY0pQZXR3OUxzTEhfbDd0b1RSM0NmVk1ROGhPWXo1LWpoZEx5X1IxSjltN1pRanBkSFpFbzdVZw?oc=5\" target=\"_blank\">【実施中止】海上自衛隊 横須賀基地見学会（護衛艦見学等）新小岩募集案内所｜2025年7月19日(土)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
       "date": "2025-07-19 16:00",
       "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（募集、見学）を含むため",
       "query": "自衛隊 東京 募集"
     },
     {
       "title": "自衛隊防災フェス2025 summer in イオンモール日の出 東京地方協力本部｜2025年7月21日(月･祝) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVJXUzhzdjJTdkVMeHAtMjhaTGV2TXNCTTV6T0dPdzR4MjNSbzh6X2VKbEVUNHRzWWZFU01aaGNEWkFsNjNUck1FdnpZSGtDQzRHNG5yNU1FUkhpZ2JPZ1Y0U2xCeHBTeVlydkdULXY1T3NCS29yQWdHNnZwSkwtM3NMalA4Z1dZbjdFVG5SVQ?oc=5",
-      "snippet": "自衛隊防災フェス2025 summer in イオンモール日の出 東京地方協力本部｜2025年7月21日(月･祝)&nbsp;&nbsp;陸自調査団",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVJXUzhzdjJTdkVMeHAtMjhaTGV2TXNCTTV6T0dPdzR4MjNSbzh6X2VKbEVUNHRzWWZFU01aaGNEWkFsNjNUck1FdnpZSGtDQzRHNG5yNU1FUkhpZ2JPZ1Y0U2xCeHBTeVlydkdULXY1T3NCS29yQWdHNnZwSkwtM3NMalA4Z1dZbjdFVG5SVQ?oc=5\" target=\"_blank\">自衛隊防災フェス2025 summer in イオンモール日の出 東京地方協力本部｜2025年7月21日(月･祝)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
       "date": "2025-07-21 16:00",
       "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
       "query": "東京地方協力本部"
     },
     {
-      "title": "2026年1月施行！～下請法は取適法へ～改正ポイント説明会の実施について - jftc.go.jp",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNXzBvLWx3ZVBtajZ1TWRsNFAtcFZzbHU1cUVwdjFCQUt4bzc0ODd0dEF2aUJoMHBramlsS2JzX3FzYmVfRE1mMEdVTnYxUmo0cTNEbzBRRlBRZVpmcG1qRThR?oc=5",
-      "snippet": "2026年1月施行！～下請法は取適法へ～改正ポイント説明会の実施について&nbsp;&nbsp;jftc.go.jp",
+      "title": "海上自衛隊 下総航空基地 航空機シミュレーター体験ツアー 東京地方協力本部｜2025年8月29(金) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVjZlSEkzdVdjcko0TEN5eEpwdTVfV3lzQlhlNFNKYjZVel9jYkhKdWtTSDY1enBIdDJkb3lSLTlSSmRzVXRBUHpkMkl6VUoxSTI2bFZ2cFMxVkpKTkQ3UWRBRVZJY2JQd3lhNmNuamR3UGFZS1pPTDE4ek5WWWdVcV9IZWYwbDVyZm5ZdnItUDc?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPVjZlSEkzdVdjcko0TEN5eEpwdTVfV3lzQlhlNFNKYjZVel9jYkhKdWtTSDY1enBIdDJkb3lSLTlSSmRzVXRBUHpkMkl6VUoxSTI2bFZ2cFMxVkpKTkQ3UWRBRVZJY2JQd3lhNmNuamR3UGFZS1pPTDE4ek5WWWdVcV9IZWYwbDVyZm5ZdnItUDc?oc=5\" target=\"_blank\">海上自衛隊 下総航空基地 航空機シミュレーター体験ツアー 東京地方協力本部｜2025年8月29(金)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
-      "date": "2025-07-24 12:02",
+      "date": "2025-07-28 16:00",
       "sentiment": "肯定",
-      "query": "東京地本 説明会"
-    },
-    {
-      "title": "茨城地本だより - mod.go.jp",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iMk1mQ1RONWJOdzY5VWlLUUViUU9BNWlGT3FtZDFaa2pUY05JSUNjTzJFQTBhREJHekxPUmJVWWdZb0thaTFiVkNiSWtJTDNTdFkxSi1qNzZNVjJKcFpJUktBUQ?oc=5",
-      "snippet": "茨城地本だより&nbsp;&nbsp;mod.go.jp",
-      "source": "GoogleニュースRSS",
-      "date": "2025-07-25 16:30",
-      "sentiment": "中立",
-      "query": "東京地本 説明会"
-    },
-    {
-      "title": "自衛隊サマーフレンドシップキャンペーン2025 in イオンモール多摩平の森｜2025年7月30日(水)･8月25日(月) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRW9UNi1kdkVZNDQtSktleml5Tm1GWUZtWHJtby1NTGg5Ym9nQ1BTckh4eGFJQmpkODJoNXh4TmptbFZmOUIyOG04TVlSdkR1cUNINktLbjdoSUFYWG9nVnIzRGduOU83aG1WdlU0MzJNNVRNLVF5SWg2S3lyQ1U0XzVjOHQ1VFNlRXFtSA?oc=5",
-      "snippet": "自衛隊サマーフレンドシップキャンペーン2025 in イオンモール多摩平の森｜2025年7月30日(水)･8月25日(月)&nbsp;&nbsp;陸自調査団",
-      "source": "GoogleニュースRSS",
-      "date": "2025-07-30 16:00",
-      "sentiment": "中立",
+      "sentiment_reason": "募集・イベント等の肯定語（協力、体験）を含むため",
       "query": "東京地方協力本部"
     },
     {
       "title": "自衛隊リアルキャンプイベント in 東富士演習場 東京地方協力本部｜2025年8月2日(土)～3日(日) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM2o5eGVsU3hBQVdyQ2ZhOXdCWi03SU5IVTIyNlFvR1AyZEk3RzdlVVk1TXNBZ0hwTEo2WWNEajdhZWpHU1hPNjBvOGpRcEtGX3NwVFJiU0Rxcy1LUlNqZG43eEphb3I1OURjZklZaW9QbVFkd2pjSnpQRXc5UFZHZVBDb1BXSlhqNXVlNEwzV1g?oc=5",
-      "snippet": "自衛隊リアルキャンプイベント in 東富士演習場 東京地方協力本部｜2025年8月2日(土)～3日(日)&nbsp;&nbsp;陸自調査団",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNM2o5eGVsU3hBQVdyQ2ZhOXdCWi03SU5IVTIyNlFvR1AyZEk3RzdlVVk1TXNBZ0hwTEo2WWNEajdhZWpHU1hPNjBvOGpRcEtGX3NwVFJiU0Rxcy1LUlNqZG43eEphb3I1OURjZklZaW9QbVFkd2pjSnpQRXc5UFZHZVBDb1BXSlhqNXVlNEwzV1g?oc=5\" target=\"_blank\">自衛隊リアルキャンプイベント in 東富士演習場 東京地方協力本部｜2025年8月2日(土)～3日(日)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
       "date": "2025-08-02 16:00",
       "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（イベント、協力）を含むため",
       "query": "東京地方協力本部"
-    },
-    {
-      "title": "令和7年度 宮城県企業立地セミナー in Tokyo 開催状況 - pref.miyagi.jp",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wanhLUTROeWZJWGlwMmtvbW15cThuQmh0NlZWejV1SHNhTmc3R2pqVE9QaTE5dXdVWEF2ZUx2cXFJTDc1a0xBSzk2TXY4cEVfZGpiT09BZ2JEX0FjT0txYVZvNU9TTFRyRjJudExoMA?oc=5",
-      "snippet": "令和7年度 宮城県企業立地セミナー in Tokyo 開催状況&nbsp;&nbsp;pref.miyagi.jp",
-      "source": "GoogleニュースRSS",
-      "date": "2025-08-05 16:00",
-      "sentiment": "肯定",
-      "query": "東京地本 説明会"
-    },
-    {
-      "title": "【動画】コンパクトに服を畳む方法がこれだ - ハフポスト",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zMVNQRnVWeTQ2blNMd05kd3AwMnF0Z0dhMkVydzBxbW1RdHllN0FtSXB4eTNpSjVaZXB0c0ktTC1xUjBadENHYW9sZmMxbVVTZFlRUEZ4SGNCbGxORU82U2REdTR0SnozdDlrSkRkNFVENVYtTWptRQ?oc=5",
-      "snippet": "【動画】コンパクトに服を畳む方法がこれだ&nbsp;&nbsp;ハフポスト",
-      "source": "GoogleニュースRSS",
-      "date": "2025-08-12 16:00",
-      "sentiment": "中立",
-      "query": "東京地本 自衛隊"
     },
     {
       "title": "自衛隊東京地方協力本部 大田出張所 夏休み自衛隊体験会2025｜2025年8月20日(水)～22日(金) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeS1EdkhQMHV3YXJHSDJHd3NXUTJ1a1ZJZmdoeHlib1hkc3NwemhqTVhodUdDWEY2dUFiMjFjMlJCcUV5Nmo3S0Q2YWtlZmotMG9veWxqakUxdnB5eWlTZGxmanpOZ0ZPN3o3T3RvajctVExhYzJRN1lSbUdrVnFnOFJrWDNVQQ?oc=5",
-      "snippet": "自衛隊東京地方協力本部 大田出張所 夏休み自衛隊体験会2025｜2025年8月20日(水)～22日(金)&nbsp;&nbsp;陸自調査団",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPeS1EdkhQMHV3YXJHSDJHd3NXUTJ1a1ZJZmdoeHlib1hkc3NwemhqTVhodUdDWEY2dUFiMjFjMlJCcUV5Nmo3S0Q2YWtlZmotMG9veWxqakUxdnB5eWlTZGxmanpOZ0ZPN3o3T3RvajctVExhYzJRN1lSbUdrVnFnOFJrWDNVQQ?oc=5\" target=\"_blank\">自衛隊東京地方協力本部 大田出張所 夏休み自衛隊体験会2025｜2025年8月20日(水)～22日(金)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
       "date": "2025-08-20 16:00",
       "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力、体験）を含むため",
       "query": "東京地方協力本部"
-    },
-    {
-      "title": "【動画】自衛隊直伝の「筋トレ」。“背中”編がこれだ - ハフポスト",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50WVp0SDVHUlJsZFNKM2hFZms5eFRvOG5SOERWYjVtOVpMTGROMldNMks3czFDS0Z6cWJsbk9xUC0xaWZ5emU5amw5SXFKdVo1QVVpNVlsUjIyZXJpUDNuUERzZ2p2TUpCcTBWUGpHV0owRnFXY2hfSg?oc=5",
-      "snippet": "【動画】自衛隊直伝の「筋トレ」。“背中”編がこれだ&nbsp;&nbsp;ハフポスト",
-      "source": "GoogleニュースRSS",
-      "date": "2025-08-20 16:00",
-      "sentiment": "中立",
-      "query": "東京地本 自衛隊"
     },
     {
       "title": "陸上自衛隊 第1空挺団 水上降下訓練見学 in 保田海岸 新小岩募集案内所｜2025年8月21日(木) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZXFNdERYbTlLa2N2SlJ6cDN2Nk1IM1pDMmFIQ3dNM0IxclVmMnE5Z1BXMU9hT0pZR21FQ0dzdUtCMXVQQl92bjl3cGdxczlmZ3EzS3I4Y0xlaVBGNEUzbjBKUVJUdElobzRvUGt5X2l0SHVCaXFuci12ZXVBV0Uybl84WFdJR05sVjBwRVlBMjlIOHc1?oc=5",
-      "snippet": "陸上自衛隊 第1空挺団 水上降下訓練見学 in 保田海岸 新小岩募集案内所｜2025年8月21日(木)&nbsp;&nbsp;陸自調査団",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQZXFNdERYbTlLa2N2SlJ6cDN2Nk1IM1pDMmFIQ3dNM0IxclVmMnE5Z1BXMU9hT0pZR21FQ0dzdUtCMXVQQl92bjl3cGdxczlmZ3EzS3I4Y0xlaVBGNEUzbjBKUVJUdElobzRvUGt5X2l0SHVCaXFuci12ZXVBV0Uybl84WFdJR05sVjBwRVlBMjlIOHc1?oc=5\" target=\"_blank\">陸上自衛隊 第1空挺団 水上降下訓練見学 in 保田海岸 新小岩募集案内所｜2025年8月21日(木)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
       "date": "2025-08-21 16:00",
       "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（募集、見学）を含むため",
       "query": "自衛隊 東京 募集"
-    },
-    {
-      "title": "高島平団地タワマン化計画 住民につきつけられた4つの「選択肢」 URが25日から計画説明会〈最新情報〉 - 東京新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xb1FCUWlhVnphOW9qODJ5VFl4MkVBMVl6NjFVRTBTQ0lCVjVPTDByOUVRNGE4RnBuWE0ta0wzY0xtLUZMSjg3RE4zYUZFWG1mVkZv?oc=5",
-      "snippet": "高島平団地タワマン化計画 住民につきつけられた4つの「選択肢」 URが25日から計画説明会〈最新情報〉&nbsp;&nbsp;東京新聞デジタル",
-      "source": "GoogleニュースRSS",
-      "date": "2025-08-22 16:00",
-      "sentiment": "肯定",
-      "query": "東京地本 説明会"
     },
     {
       "title": "陸上自衛隊 富士駐屯地見学ツアー（装甲車体験搭乗等）新小岩募集案内所｜2025年8月28日(木) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMHhKa1dZTFdEc3NodHlPQXVDZEt3RTdvOU1VT0gyMEZzeWtvTkNFMmFtSm9ZOVNSb0NQYjQ2TDBNWGV1Y0R3YmJ3Y0JCTFhqdDJLYmZCdHJ5Zm9sYUhuT3VZcmVMR3RZZjVCdGEzZlRkWVc3WnlmcEJpdzk5WVpJV3JnU3ZnTlJpMEhFUA?oc=5",
-      "snippet": "陸上自衛隊 富士駐屯地見学ツアー（装甲車体験搭乗等）新小岩募集案内所｜2025年8月28日(木)&nbsp;&nbsp;陸自調査団",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMHhKa1dZTFdEc3NodHlPQXVDZEt3RTdvOU1VT0gyMEZzeWtvTkNFMmFtSm9ZOVNSb0NQYjQ2TDBNWGV1Y0R3YmJ3Y0JCTFhqdDJLYmZCdHJ5Zm9sYUhuT3VZcmVMR3RZZjVCdGEzZlRkWVc3WnlmcEJpdzk5WVpJV3JnU3ZnTlJpMEhFUA?oc=5\" target=\"_blank\">陸上自衛隊 富士駐屯地見学ツアー（装甲車体験搭乗等）新小岩募集案内所｜2025年8月28日(木)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
       "date": "2025-08-28 16:00",
       "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（募集、見学、体験）を含むため",
       "query": "東京地本 自衛隊"
-    },
-    {
-      "title": "茂みに「迷彩服の自衛官」が2人います⇨「わからん…」「参った」。あなたは見つけられる？「かくれんぼ」動画 - ハフポスト",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kdDRkeWVWSzhiLTFYV1h1MkVoNFc0Y0pyWVE5czhCRUxDVEYtZF9JMi1PUkhTclNtSkZvS0RXOGs1WUp4SXlaTzFsel9Kem04NTdfa3doY0g2YU9CRWdWRGc0R0lGTHR5dmQ2aS1lN3FtZmdSYjBFTA?oc=5",
-      "snippet": "茂みに「迷彩服の自衛官」が2人います⇨「わからん…」「参った」。あなたは見つけられる？「かくれんぼ」動画&nbsp;&nbsp;ハフポスト",
-      "source": "GoogleニュースRSS",
-      "date": "2025-09-01 16:00",
-      "sentiment": "中立",
-      "query": "東京地方協力本部"
-    },
-    {
-      "title": "災害時、車内に閉じ込められた…自衛隊が教える“脱出方法”に「目からうろこ」 - オトナンサー",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EWmQ3djZVQl91b3M2eTBWNUliM2FkRTdDVTRUSEo1VzQ5aGx3QVFUQTFQZE5EcV9pamlXakxUQS1PMzFZOUhLZWtKOA?oc=5",
-      "snippet": "災害時、車内に閉じ込められた…自衛隊が教える“脱出方法”に「目からうろこ」&nbsp;&nbsp;オトナンサー",
-      "source": "GoogleニュースRSS",
-      "date": "2025-09-03 18:07",
-      "sentiment": "中立",
-      "query": "東京地方協力本部"
-    },
-    {
-      "title": "[photo]令和７年度インターンシップ - mod.go.jp",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11NFg3U294aHA2bV9LU1gweV95UVV3RElGc3Z0QzFaMl9Ga2pJbHEwVWNPTmFpRU5nQnpETkQ1ZWFRTjhGaHlXTHAzTW0zcnJuNm5DLVFCZlI2Z0JBR2RRT1FpM184Zm9RblE?oc=5",
-      "snippet": "[photo]令和７年度インターンシップ&nbsp;&nbsp;mod.go.jp",
-      "source": "GoogleニュースRSS",
-      "date": "2025-09-04 23:07",
-      "sentiment": "中立",
-      "query": "自衛隊 東京 募集"
     },
     {
       "title": "【10/18(土)福岡戦】自衛隊東京地方協力本部PRブース - zelvia.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Ea2VvUzNoekVOaElLMUVaandaa29EU284Q0RudmtiRlhOTUg3UEUxREp4UWRMSzVEU2xVbldMYVVCTnNnSHdBWFdCMnlaOWxaVWQ0cw?oc=5",
-      "snippet": "【10/18(土)福岡戦】自衛隊東京地方協力本部PRブース&nbsp;&nbsp;zelvia.co.jp",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Ea2VvUzNoekVOaElLMUVaandaa29EU284Q0RudmtiRlhOTUg3UEUxREp4UWRMSzVEU2xVbldMYVVCTnNnSHdBWFdCMnlaOWxaVWQ0cw?oc=5\" target=\"_blank\">【10/18(土)福岡戦】自衛隊東京地方協力本部PRブース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zelvia.co.jp</font>",
       "source": "GoogleニュースRSS",
       "date": "2025-09-09 16:00",
       "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
       "query": "東京地方協力本部"
-    },
-    {
-      "title": "「８番出口」とコラボして話題になっている自衛隊岡山地方協力本部、とてもフットワークが軽くて過去にもいろんな作品とコラボしているらしい - Togetter",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0zYm5ydThzc1FrVXlKWXRMLVYtT3BsZkxtWUNyb0VzX2F1UVpxRHJxUTFrT2E0RlZEdWlTeXhNVjE0bHE3ekE?oc=5",
-      "snippet": "「８番出口」とコラボして話題になっている自衛隊岡山地方協力本部、とてもフットワークが軽くて過去にもいろんな作品とコラボしているらしい&nbsp;&nbsp;Togetter",
-      "source": "GoogleニュースRSS",
-      "date": "2025-09-09 16:00",
-      "sentiment": "肯定",
-      "query": "東京地本 自衛隊"
-    },
-    {
-      "title": "神奈川県内における当社工事による流域下水道の下水管損傷事案 - tepco.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93WFMwaTY1QlBHaDNCRnFyZ0F2ckFlUXBYcHRVVEtQVXhFZGZuVFY1T0VISjJyc2hHTTJsNE1MallEb0VWWnNrYl9EZUp5UnpFaFk2UTRGazVqUE1qdXc?oc=5",
-      "snippet": "神奈川県内における当社工事による流域下水道の下水管損傷事案&nbsp;&nbsp;tepco.co.jp",
-      "source": "GoogleニュースRSS",
-      "date": "2025-09-17 13:54",
-      "sentiment": "中立",
-      "query": "東京地本 説明会"
     },
     {
       "title": "自衛隊を知ろう2025 in おかちまちパンダ広場 東京地方協力本部｜2025年9月21日(日) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnpDbUZWOGJyUnZDSUJONll2V243Q1h6YjgtaE1tSDMtbkRkZFQtMW9OQ1ZWTHZIcHFWb1VKYXVDcy1kZXJaRDZ1eUZsYUpLT3B6em0yQUZITUFCaTBOVFIzbDBkSXk4M2l2OXVaQl9laG1kZ0tzZE1VTVhJX3FpbnEtMHR2SkJMNmdZUXFicy0?oc=5",
-      "snippet": "自衛隊を知ろう2025 in おかちまちパンダ広場 東京地方協力本部｜2025年9月21日(日)&nbsp;&nbsp;陸自調査団",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnpDbUZWOGJyUnZDSUJONll2V243Q1h6YjgtaE1tSDMtbkRkZFQtMW9OQ1ZWTHZIcHFWb1VKYXVDcy1kZXJaRDZ1eUZsYUpLT3B6em0yQUZITUFCaTBOVFIzbDBkSXk4M2l2OXVaQl9laG1kZ0tzZE1VTVhJX3FpbnEtMHR2SkJMNmdZUXFicy0?oc=5\" target=\"_blank\">自衛隊を知ろう2025 in おかちまちパンダ広場 東京地方協力本部｜2025年9月21日(日)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
       "date": "2025-09-21 16:00",
       "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
       "query": "東京地方協力本部"
     },
     {
-      "title": "高島平団地タワマン計画の説明会、住民はどう感じた？ 「うば捨て山だ」「ここに住み続けたい！」 - 東京新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VaWRPQXZZRFJsQVhxQ3NlaWRUU3lOVm10cVc1MHVwZy14ZGdUSWtSNThSSEhmTmlHenZ3VUk5MzExVE1XQ1hXNVVOV2s0bl9rSF9J?oc=5",
-      "snippet": "高島平団地タワマン計画の説明会、住民はどう感じた？ 「うば捨て山だ」「ここに住み続けたい！」&nbsp;&nbsp;東京新聞デジタル",
+      "title": "【大変だ‼️防衛大臣、陸幕長が蒲田に視察❗️】自衛隊東京地方協力本部大田出張所が蒲田駅西口から... - 選挙ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ya2NKd0tqdkpHT0lfOW5ubXdZc08zM2tIaWNDNGFqQzBia295UWxKdjFjNTZNQnFmQS14ejV6VzBmR3RxZEJiSE1RdmZhWlIxeVVqejI2cVdFMEg4Qnc?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ya2NKd0tqdkpHT0lfOW5ubXdZc08zM2tIaWNDNGFqQzBia295UWxKdjFjNTZNQnFmQS14ejV6VzBmR3RxZEJiSE1RdmZhWlIxeVVqejI2cVdFMEg4Qnc?oc=5\" target=\"_blank\">【大変だ‼️防衛大臣、陸幕長が蒲田に視察❗️】自衛隊東京地方協力本部大田出張所が蒲田駅西口から...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">選挙ドットコム</font>",
       "source": "GoogleニュースRSS",
-      "date": "2025-09-24 16:00",
+      "date": "2025-10-01 16:00",
       "sentiment": "肯定",
-      "query": "東京地本 説明会"
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地方協力本部"
     },
     {
-      "title": "教員１割超 自衛隊で研修 防衛省が募集活動に利用 - 日本共産党 東京都委員会",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JOUlDcWNYNDlHUlBxcl8yRzFPMjRJYm52akxPTmEtZl9EM3hqN2xTM3BHQ0hYSXBrZEtMaU5aTk5pTktlQ1Voc2plYVVIUWZBbHJBNQ?oc=5",
-      "snippet": "教員１割超 自衛隊で研修 防衛省が募集活動に利用&nbsp;&nbsp;日本共産党 東京都委員会",
+      "title": "自衛隊東京地方協力本部 大田出張所 大田スポーツデー2025｜2025年10月10日(金)･14日(火) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0YzU0xpQmdhd0lpT09uSlJBNkU3c21NU29XS3oyblVIYUVXVWdEMFdBQVZKaUZZbVRHZVB3cHcxU2tad3dLLUlPZDNKa2VIM0lnVjRMdVl0cjExaTVMVWRjX2cta0EtM09mVFVkb3RTQmpaNFczMXJlcVpybVpvMXV4X3JGUFl1dDhJ?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0YzU0xpQmdhd0lpT09uSlJBNkU3c21NU29XS3oyblVIYUVXVWdEMFdBQVZKaUZZbVRHZVB3cHcxU2tad3dLLUlPZDNKa2VIM0lnVjRMdVl0cjExaTVMVWRjX2cta0EtM09mVFVkb3RTQmpaNFczMXJlcVpybVpvMXV4X3JGUFl1dDhJ?oc=5\" target=\"_blank\">自衛隊東京地方協力本部 大田出張所 大田スポーツデー2025｜2025年10月10日(金)･14日(火)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
-      "date": "2025-09-25 16:00",
+      "date": "2025-10-10 16:00",
       "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "【自衛隊東京地方協力本部長より感謝状拝受】勤労感謝の日の今日、グランドヒル市ヶ谷(防衛省共済組... - 選挙ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3RmV0bkZreDIzeDRLT29kdEdtUXpfcXZLYjA2djZoOWFleG1NY3htb3liU0pGaWNrVmxJRFdxeWFNYW5FNTgwRGpHNnNUQzVjTDZtSl8xVUhDWDZrNXc?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3RmV0bkZreDIzeDRLT29kdEdtUXpfcXZLYjA2djZoOWFleG1NY3htb3liU0pGaWNrVmxJRFdxeWFNYW5FNTgwRGpHNnNUQzVjTDZtSl8xVUhDWDZrNXc?oc=5\" target=\"_blank\">【自衛隊東京地方協力本部長より感謝状拝受】勤労感謝の日の今日、グランドヒル市ヶ谷(防衛省共済組...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">選挙ドットコム</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2025-11-23 17:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "航空自衛隊 百里基地のいろはが分かる見学ツアー 東京地方協力本部｜2025年11月27日(木) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3FPcS1oQnJ3aWFEVUFJa0psMTdONWtLa1dDclMxbUhTZkhHckRsQjVNb1FveHh5Q1p0LUtOTms2SXc0UUpDMXozYjFnalBPVW5QdkIyR3FoakROYjlrQU4wUXBmMVhNXzluUDVXQ1lhaWIxaVFON21iS2VNcmFpYnp0WTMxZXgwSGFB?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3FPcS1oQnJ3aWFEVUFJa0psMTdONWtLa1dDclMxbUhTZkhHckRsQjVNb1FveHh5Q1p0LUtOTms2SXc0UUpDMXozYjFnalBPVW5QdkIyR3FoakROYjlrQU4wUXBmMVhNXzluUDVXQ1lhaWIxaVFON21iS2VNcmFpYnp0WTMxZXgwSGFB?oc=5\" target=\"_blank\">航空自衛隊 百里基地のいろはが分かる見学ツアー 東京地方協力本部｜2025年11月27日(木)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2025-11-27 17:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力、見学）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "海上自衛隊 横須賀基地 研修ツアー（艦艇見学･体験喫食）東京地方協力本部｜2025年12月3日(水) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2NDRjlfbFhjLVZTd0ZJMXN4TEpLT1lGbHJ3RzlJYmJodkFmalBmd3pXWFNKSktwekhUbmU1M0tlZjNJWTZyaC0xNmRCMFZ5TnBBNEhiU2xHdjBhWVJqV0Q4bjhBWTJkcEFJdTRuZktaczZSX2d4Y0s3bVJVSEI1cXI2RW5aQ2ZWRFlGOThR?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2NDRjlfbFhjLVZTd0ZJMXN4TEpLT1lGbHJ3RzlJYmJodkFmalBmd3pXWFNKSktwekhUbmU1M0tlZjNJWTZyaC0xNmRCMFZ5TnBBNEhiU2xHdjBhWVJqV0Q4bjhBWTJkcEFJdTRuZktaczZSX2d4Y0s3bVJVSEI1cXI2RW5aQ2ZWRFlGOThR?oc=5\" target=\"_blank\">海上自衛隊 横須賀基地 研修ツアー（艦艇見学･体験喫食）東京地方協力本部｜2025年12月3日(水)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2025-12-03 17:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力、見学、体験）を含むため",
       "query": "東京地本 自衛隊"
+    },
+    {
+      "title": "自衛隊東京地本 豊島出張所、3月18日に横須賀基地ツアー開催で参加者事前募集 潜水艦艇内見学も - フネコ - Funeco",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCZmZ0SFpENEdvN0RUTXpITXVJZldBdE9BaUVWTHVIY01pbzJYeS01WlotSWFjLW9JNVEtT1Q4bk9RSXE0T2JINFF3?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCZmZ0SFpENEdvN0RUTXpITXVJZldBdE9BaUVWTHVIY01pbzJYeS01WlotSWFjLW9JNVEtT1Q4bk9RSXE0T2JINFF3?oc=5\" target=\"_blank\">自衛隊東京地本 豊島出張所、3月18日に横須賀基地ツアー開催で参加者事前募集 潜水艦艇内見学も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">フネコ - Funeco</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2025-12-31 17:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（参加、開催、募集）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "陸上自衛隊 練馬駐屯地見学ツアー 新小岩募集案内所｜2026年1月23日(金) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTlUU1F6Mkc4bHVLZkdlSVcwSk4xano2UVhXcWNmQ1E5VjdqeTJORmdMZUVvWTRjd1V3aWtvUHZ4TUR2TkJ1eUI5cUw4dURWT2FaVTJvM0FyQUlaekVfbTdKRTd5czJBTVpvS3hrNUd1QXBWNnlTNzZWWklhTjl3aHo4RGZlYVN2QjlNUGg5UQ?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTlUU1F6Mkc4bHVLZkdlSVcwSk4xano2UVhXcWNmQ1E5VjdqeTJORmdMZUVvWTRjd1V3aWtvUHZ4TUR2TkJ1eUI5cUw4dURWT2FaVTJvM0FyQUlaekVfbTdKRTd5czJBTVpvS3hrNUd1QXBWNnlTNzZWWklhTjl3aHo4RGZlYVN2QjlNUGg5UQ?oc=5\" target=\"_blank\">陸上自衛隊 練馬駐屯地見学ツアー 新小岩募集案内所｜2026年1月23日(金)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-01-23 17:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（募集、見学）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "自衛隊防災フェア2026 in しながわ水族館 東京地方協力本部｜2026年1月25日(日) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS0pCR0pCaEtDamY5ZGFHRzA4SXZqbDlvaFRQTFJQRmpuS2o0UEJnalo5WHNaNkJYdG9OeGExVXhobk51cXJoaWJSRjRlNEpmNlZuMzFfRUJMMlFSOG5FTDNyalVhUFlwc0F4Rkk1UVNRYjFsdUxUT2loZzVvTjlVTE5ySmlRQnF1OVZj?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS0pCR0pCaEtDamY5ZGFHRzA4SXZqbDlvaFRQTFJQRmpuS2o0UEJnalo5WHNaNkJYdG9OeGExVXhobk51cXJoaWJSRjRlNEpmNlZuMzFfRUJMMlFSOG5FTDNyalVhUFlwc0F4Rkk1UVNRYjFsdUxUT2loZzVvTjlVTE5ySmlRQnF1OVZj?oc=5\" target=\"_blank\">自衛隊防災フェア2026 in しながわ水族館 東京地方協力本部｜2026年1月25日(日)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-01-25 17:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "自衛隊東京地本、3月30日に海自 厚木航空基地の見学ツアー開催 参加者を事前募集 - フネコ - Funeco",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yTEhBZ3lfaUFxU1k1Uy02eWVKUGdGNm5sUXgtWC00VU9QYzB1QmthajVFUlBLb2w4S0JCaFVtSE04VFFLYXBRZGlR?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yTEhBZ3lfaUFxU1k1Uy02eWVKUGdGNm5sUXgtWC00VU9QYzB1QmthajVFUlBLb2w4S0JCaFVtSE04VFFLYXBRZGlR?oc=5\" target=\"_blank\">自衛隊東京地本、3月30日に海自 厚木航空基地の見学ツアー開催 参加者を事前募集</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">フネコ - Funeco</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-01-30 17:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（参加、開催、募集）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "陸上自衛隊 小平駐屯地･小平学校見学ツアー 新小岩募集案内所｜2026年2月13日(金) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb3pCTTZJZ1lSOXdUZUdKQnRWam9iZlJvQmxNMUpFRmhiZmtMWFBMMWhhUTRFMTJsSkJqZEhxYmowejZjOGUzTVJRWGRaZVlpc2J5RC0teWxVS25COEZ5V01uNndxajM0SmRzQ0VsYjQzdkR6M1FvRjZiV2RJZnVkNnpEMDVhSmN3M3hsM3pfN1E?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQb3pCTTZJZ1lSOXdUZUdKQnRWam9iZlJvQmxNMUpFRmhiZmtMWFBMMWhhUTRFMTJsSkJqZEhxYmowejZjOGUzTVJRWGRaZVlpc2J5RC0teWxVS25COEZ5V01uNndxajM0SmRzQ0VsYjQzdkR6M1FvRjZiV2RJZnVkNnpEMDVhSmN3M3hsM3pfN1E?oc=5\" target=\"_blank\">陸上自衛隊 小平駐屯地･小平学校見学ツアー 新小岩募集案内所｜2026年2月13日(金)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-02-13 17:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（募集、見学）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "東京地本 渋谷に募集案内を開設 - 朝雲デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15OGFhUW5rVXA0R3ZDWUhPQUxmWHV3NVEwVkdFM2QtSE83YlMxSlpkclFWYzhCbWtBdHBiRXdwaVFKZUZDTkpqTk9Ud3Rnc1VpRHBwOQ?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE15OGFhUW5rVXA0R3ZDWUhPQUxmWHV3NVEwVkdFM2QtSE83YlMxSlpkclFWYzhCbWtBdHBiRXdwaVFKZUZDTkpqTk9Ud3Rnc1VpRHBwOQ?oc=5\" target=\"_blank\">東京地本 渋谷に募集案内を開設</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝雲デジタル</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-02-17 17:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（募集）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "自衛隊東京地方協力本部 - mod.go.jp",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qbkRtOGlCVlU3bU1BZFNEWWZtYlRvbmk4X01EM3ZQREY5NHpYRVQ5RkhwSDVreDRORzJpWENHcW1MMk5wR1ZtUzQ0RjItSUEzZDNMRVpqemUzSWs2eVlqWTBn?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qbkRtOGlCVlU3bU1BZFNEWWZtYlRvbmk4X01EM3ZQREY5NHpYRVQ5RkhwSDVreDRORzJpWENHcW1MMk5wR1ZtUzQ0RjItSUEzZDNMRVpqemUzSWs2eVlqWTBn?oc=5\" target=\"_blank\">自衛隊東京地方協力本部</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mod.go.jp</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-02-25 17:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "自衛隊サテライトブース2026 in WACCA IKEBUKURO 東京地方協力本部｜2026年3月28日(土)･29日(日) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGllXy1lRUpHQnNGTU1RdXBfYjVhR2ZOOWZnWEZMelBTaFdWNllXc3JjRGZCbGUzZS1qVm1PMDFobFlUTTRDdVRLcjlWc2ttekJGRjdjS1NmcG9jbXQ0MTJyVDRUd0QyWDNVV3pOX0hjeTZqZUlKeFJSWi1DUmxjVm5mX2hpVl9EcWRYYlRR?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGllXy1lRUpHQnNGTU1RdXBfYjVhR2ZOOWZnWEZMelBTaFdWNllXc3JjRGZCbGUzZS1qVm1PMDFobFlUTTRDdVRLcjlWc2ttekJGRjdjS1NmcG9jbXQ0MTJyVDRUd0QyWDNVV3pOX0hjeTZqZUlKeFJSWi1DUmxjVm5mX2hpVl9EcWRYYlRR?oc=5\" target=\"_blank\">自衛隊サテライトブース2026 in WACCA IKEBUKURO 東京地方協力本部｜2026年3月28日(土)･29日(日)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-03-28 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "海自 横須賀基地見学ツアー、4月26日に開催 東京地本 西東京地域事務所が4月7日まで参加者募集 - フネコ - Funeco",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81VzhKMXJRLS14WHh4S290U05Ja2RrZ2FWOC16bzd2QnQ3Tmo0Yml2SXdlN0FYNzFaOUJuMktXOGZSZk9yeXNjd0x3?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE81VzhKMXJRLS14WHh4S290U05Ja2RrZ2FWOC16bzd2QnQ3Tmo0Yml2SXdlN0FYNzFaOUJuMktXOGZSZk9yeXNjd0x3?oc=5\" target=\"_blank\">海自 横須賀基地見学ツアー、4月26日に開催 東京地本 西東京地域事務所が4月7日まで参加者募集</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">フネコ - Funeco</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-04-04 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（参加、開催、募集）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "自衛隊東京地本 北地域事務所、5月22日に横須賀基地で「護衛艦乗艦見学と港湾クルーズ」開催 赤羽駅からバス移動 - フネコ - Funeco",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA5a29qcEpFQkRJbmg2LVdBLVpxa3JuSDhBcnhsaTlmWmZPSkRxNjl0Wk9uZWl5OEtXYlNSOUhpTlNNbG5YWC1PbzVB?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFA5a29qcEpFQkRJbmg2LVdBLVpxa3JuSDhBcnhsaTlmWmZPSkRxNjl0Wk9uZWl5OEtXYlNSOUhpTlNNbG5YWC1PbzVB?oc=5\" target=\"_blank\">自衛隊東京地本 北地域事務所、5月22日に横須賀基地で「護衛艦乗艦見学と港湾クルーズ」開催 赤羽駅からバス移動</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">フネコ - Funeco</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-04-13 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（開催、見学）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "自衛隊東京地方協力本部 渋谷募集案内所 ゴールデンウィークイベント2026｜2026年5月3日(日)～5月6日(水･祝) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMV9ROWZhZUVWR3V2ejIxcDBJQXRFTUhyNC1uQTB6SktDd2RWN0tvNjk5aWl1MVM3eURfMFhXVFZwRWsxaGg5eXdmM2lyMTg2Z1hlTmg0NU1pbHZpbldrTVZOXzdheWNScnBFM2RqUW1ldGVaV0xsNUpQRUxEbnhtdlAweDk4Z1dGLWFVeUpwdGc?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNMV9ROWZhZUVWR3V2ejIxcDBJQXRFTUhyNC1uQTB6SktDd2RWN0tvNjk5aWl1MVM3eURfMFhXVFZwRWsxaGg5eXdmM2lyMTg2Z1hlTmg0NU1pbHZpbldrTVZOXzdheWNScnBFM2RqUW1ldGVaV0xsNUpQRUxEbnhtdlAweDk4Z1dGLWFVeUpwdGc?oc=5\" target=\"_blank\">自衛隊東京地方協力本部 渋谷募集案内所 ゴールデンウィークイベント2026｜2026年5月3日(日)～5月6日(水･祝)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-05-03 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（募集、イベント、協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "空自空上げの日企画 航空自衛隊 入間基地見学ツアー 新小岩募集案内所｜2026年7月31日(金) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjY1NjcwMGtpLWxzdm1Qa25mTzVXOVVwOEZ0LThicWlDSWtDQVpjcXZzOFlfa000eENOR0RIUXpNcFFTeFlCZ3NvcmJHazg1RE9Gd2c4THBEcGhJWm9iYnJfWDdBVHM5S1A1clBxbm9MdVZMTDJ5a216UXpmMHROX3dPOTFoSmNHbVlKdmNn?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjY1NjcwMGtpLWxzdm1Qa25mTzVXOVVwOEZ0LThicWlDSWtDQVpjcXZzOFlfa000eENOR0RIUXpNcFFTeFlCZ3NvcmJHazg1RE9Gd2c4THBEcGhJWm9iYnJfWDdBVHM5S1A1clBxbm9MdVZMTDJ5a216UXpmMHROX3dPOTFoSmNHbVlKdmNn?oc=5\" target=\"_blank\">空自空上げの日企画 航空自衛隊 入間基地見学ツアー 新小岩募集案内所｜2026年7月31日(金)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-06-10 21:04",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（募集、見学）を含むため",
+      "query": "自衛隊 東京 募集"
     }
   ]
 }

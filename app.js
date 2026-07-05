@@ -24,10 +24,12 @@ async function loadData(){
     items.filter(i => !q || JSON.stringify(i).includes(q)).forEach(i => {
       const div = document.createElement('div');
       div.className = 'item';
-      div.innerHTML = `<a href="${i.link}" target="_blank" rel="noopener">${i.title}</a>
-        <div class="meta"><span class="badge ${i.sentiment}">${i.sentiment}</span>${i.source || ''} / ${i.date || ''}</div>
-        <p>${i.snippet || ''}</p>
-        <p class="reason">判定理由：${i.sentiment_reason || i.reason || '理由なし'}</p>`;
+      const snippet = i.snippet && i.snippet !== i.title ? i.snippet : '';
+
+div.innerHTML = `<a href="${i.link}" target="_blank" rel="noopener">${i.title}</a>
+  <div class="meta"><span class="badge ${i.sentiment}">${i.sentiment}</span> ${i.source || ''} / ${i.date || ''}</div>
+  ${snippet ? `<p>${snippet}</p>` : ''}
+  <p class="reason">判定理由：${i.sentiment_reason || i.reason || '理由なし'}</p>`;
       box.appendChild(div);
     });
   };

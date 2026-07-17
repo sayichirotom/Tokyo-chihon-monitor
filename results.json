@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-16 15:35",
-  "summary": "直近90日間の公開情報から12件を抽出。肯定10件、中立1件、否定1件。判定理由を各記事に表示します。",
+  "updated": "2026-07-17 15:27",
+  "summary": "直近90日間の公開情報から14件を抽出。肯定12件、中立1件、否定1件。判定理由を各記事に表示します。",
   "keywords": [
-    "font",
     "陸自調査団",
+    "font",
     "href",
     "news",
     "google",
@@ -37,9 +37,9 @@
       "query": "東京地方協力本部"
     },
     {
-      "title": "自衛隊東京地方協力本部 渋谷募集案内所 ゴールデンウィークイベント2026｜2026年5月3日(日)～5月6日(水･祝) - 陸自調査団",
+      "title": "自衛隊東京地方協力本部 渋谷募集案内所ゴールデンウィークイベント2026 - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMV9ROWZhZUVWR3V2ejIxcDBJQXRFTUhyNC1uQTB6SktDd2RWN0tvNjk5aWl1MVM3eURfMFhXVFZwRWsxaGg5eXdmM2lyMTg2Z1hlTmg0NU1pbHZpbldrTVZOXzdheWNScnBFM2RqUW1ldGVaV0xsNUpQRUxEbnhtdlAweDk4Z1dGLWFVeUpwdGc?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNMV9ROWZhZUVWR3V2ejIxcDBJQXRFTUhyNC1uQTB6SktDd2RWN0tvNjk5aWl1MVM3eURfMFhXVFZwRWsxaGg5eXdmM2lyMTg2Z1hlTmg0NU1pbHZpbldrTVZOXzdheWNScnBFM2RqUW1ldGVaV0xsNUpQRUxEbnhtdlAweDk4Z1dGLWFVeUpwdGc?oc=5\" target=\"_blank\">自衛隊東京地方協力本部 渋谷募集案内所 ゴールデンウィークイベント2026｜2026年5月3日(日)～5月6日(水･祝)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNMV9ROWZhZUVWR3V2ejIxcDBJQXRFTUhyNC1uQTB6SktDd2RWN0tvNjk5aWl1MVM3eURfMFhXVFZwRWsxaGg5eXdmM2lyMTg2Z1hlTmg0NU1pbHZpbldrTVZOXzdheWNScnBFM2RqUW1ldGVaV0xsNUpQRUxEbnhtdlAweDk4Z1dGLWFVeUpwdGc?oc=5\" target=\"_blank\">自衛隊東京地方協力本部 渋谷募集案内所ゴールデンウィークイベント2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-05-03 16:00",
       "sentiment": "肯定",
@@ -57,9 +57,19 @@
       "query": "東京地方協力本部"
     },
     {
-      "title": "自衛隊東京地方協力本部 広報イベント＆海上自衛隊 東京音楽隊ライブ in アレアレア2｜2026年6月13日(土) - 陸自調査団",
+      "title": "陸上自衛隊 練馬駐屯地見学会（装備品試乗･体験喫食等） 自衛隊東京地方協力本部 足立地域事務所 - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkN0anU2a3NReERNSjc5Q19qRjNsMms0cTVZOGo3MFl1SGNKWWdod3hzeENmVkZCbUswak92NkJ0ekN3cFZOcG11ZHA5N3IxMl9EVENQVUlmN0hGdFgxUlpFZmRqSlpYMkVzRnZ5WEZ0cm93N21oLVJyczJqNFhqeTlsb293MnpaMTFZ?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkN0anU2a3NReERNSjc5Q19qRjNsMms0cTVZOGo3MFl1SGNKWWdod3hzeENmVkZCbUswak92NkJ0ekN3cFZOcG11ZHA5N3IxMl9EVENQVUlmN0hGdFgxUlpFZmRqSlpYMkVzRnZ5WEZ0cm93N21oLVJyczJqNFhqeTlsb293MnpaMTFZ?oc=5\" target=\"_blank\">陸上自衛隊 練馬駐屯地見学会（装備品試乗･体験喫食等） 自衛隊東京地方協力本部 足立地域事務所</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-06-11 02:40",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力、見学、体験）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "自衛隊東京地方協力本部 広報イベント＆海上自衛隊 東京音楽隊ライブ in アレアレア2｜2026年6月13日(土)｜陸自調査団 - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0ZreWEtdGp5S0dGVjE3YjAyS1ZsRTFlQ1NRdGZlUHlFSFA5aWw5b3d5Q3VwUF94SU5jTzBxblJQT2w5TFdfLThpdm9YdmtOWWlvTnFUZ0NZcExkMGxUQ2JrdS1LczFrU3JxR1hmdEVNdEg5cmVWVEpMS21xd0NWN1J4THI3WXpBTWxsMm9PWFk?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0ZreWEtdGp5S0dGVjE3YjAyS1ZsRTFlQ1NRdGZlUHlFSFA5aWw5b3d5Q3VwUF94SU5jTzBxblJQT2w5TFdfLThpdm9YdmtOWWlvTnFUZ0NZcExkMGxUQ2JrdS1LczFrU3JxR1hmdEVNdEg5cmVWVEpMS21xd0NWN1J4THI3WXpBTWxsMm9PWFk?oc=5\" target=\"_blank\">自衛隊東京地方協力本部 広報イベント＆海上自衛隊 東京音楽隊ライブ in アレアレア2｜2026年6月13日(土)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0ZreWEtdGp5S0dGVjE3YjAyS1ZsRTFlQ1NRdGZlUHlFSFA5aWw5b3d5Q3VwUF94SU5jTzBxblJQT2w5TFdfLThpdm9YdmtOWWlvTnFUZ0NZcExkMGxUQ2JrdS1LczFrU3JxR1hmdEVNdEg5cmVWVEpMS21xd0NWN1J4THI3WXpBTWxsMm9PWFk?oc=5\" target=\"_blank\">自衛隊東京地方協力本部 広報イベント＆海上自衛隊 東京音楽隊ライブ in アレアレア2｜2026年6月13日(土)｜陸自調査団</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-06-13 16:00",
       "sentiment": "肯定",
@@ -134,6 +144,16 @@
       "date": "2026-07-16 00:07",
       "sentiment": "中立",
       "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "陸上自衛隊 富士駐屯地 16式機動戦闘車 体験型見学ツアー 豊島出張所｜2026年9月7日(月)｜陸自調査団 - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1p0a0tfRHFkc2xOalVueW9jQXMtN0VhTGN4ZkNPRjI3TXNER1VzQldFUkVuc0ZhZjJkWEk1NzloMndTTGpVVUNTNi03ejNyUkxjUzZWMUFfd2FEUjhUbjBpcUxuTFBzd2ZZLXhVZHVoLUVYc05TbE8tUVVwdHhmNXV5RF96VEIzSmF2ekF2Wmo?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1p0a0tfRHFkc2xOalVueW9jQXMtN0VhTGN4ZkNPRjI3TXNER1VzQldFUkVuc0ZhZjJkWEk1NzloMndTTGpVVUNTNi03ejNyUkxjUzZWMUFfd2FEUjhUbjBpcUxuTFBzd2ZZLXhVZHVoLUVYc05TbE8tUVVwdHhmNXV5RF96VEIzSmF2ekF2Wmo?oc=5\" target=\"_blank\">陸上自衛隊 富士駐屯地 16式機動戦闘車 体験型見学ツアー 豊島出張所｜2026年9月7日(月)｜陸自調査団</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-07-17 02:44",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
       "query": "東京地方協力本部"
     }
   ]

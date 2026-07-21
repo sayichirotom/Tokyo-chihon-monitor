@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20 17:28",
-  "summary": "直近90日間の公開情報から13件を抽出。肯定11件、中立1件、否定1件。判定理由を各記事に表示します。",
+  "updated": "2026-07-21 16:41",
+  "summary": "直近90日間の公開情報から14件を抽出。肯定12件、中立1件、否定1件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -144,6 +144,16 @@
       "date": "2026-07-17 02:44",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "航空自衛隊 入間基地見学ツアー（航空機見学･空上げ試食等）西東京地域事務所｜2026年8月28日(金) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG9TakI4NUgzdFVtbGszVWkwNEtIS0p2QV9GeFBNN1VxRUltX253R3RnUnhHWXc4VU1tSGVvZUxzWUE0cXhCVFluX1Y3UWJYUlk0N0tfbkdSd0JsR3Y5MWtlRGktVGlCbEQ5OGctMkNrMEJ0QnVaMUcxQTdQN21hZEtyVFRia0tudTdRVkt2cw?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG9TakI4NUgzdFVtbGszVWkwNEtIS0p2QV9GeFBNN1VxRUltX253R3RnUnhHWXc4VU1tSGVvZUxzWUE0cXhCVFluX1Y3UWJYUlk0N0tfbkdSd0JsR3Y5MWtlRGktVGlCbEQ5OGctMkNrMEJ0QnVaMUcxQTdQN21hZEtyVFRia0tudTdRVkt2cw?oc=5\" target=\"_blank\">航空自衛隊 入間基地見学ツアー（航空機見学･空上げ試食等）西東京地域事務所｜2026年8月28日(金)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-07-21 02:40",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
       "query": "東京地方協力本部"
     }
   ]

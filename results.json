@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22 16:42",
-  "summary": "直近90日間の公開情報から14件を抽出。肯定12件、中立1件、否定1件。判定理由を各記事に表示します。",
+  "updated": "2026-07-23 16:43",
+  "summary": "直近90日間の公開情報から15件を抽出。肯定13件、中立1件、否定1件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -32,6 +32,16 @@
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNRkRKMFdjRGM1VGVkaXhxWnlpcElTY2RPV2E5N1FNUFVpcHB3Z1FtMUpkdm1vWkxsWlJGWGtzOEJ0VlF4TDFtelJMaGRpQ0Z0OXMyQm13ZlVVOVpvVmVudlR2Wk5MS0hvRVZYbDdPM3A3bEp0R2JINml5YzhkSGhqZUZyRndsREVhVWlwUmFJSEZOMmc?oc=5\" target=\"_blank\">無料バスで行く！海上自衛隊 横須賀基地見学ツアー 西東京地域事務所｜2026年4月26日(日)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-04-26 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "海上自衛隊 潜水艦艦内見学 in 横須賀基地 豊島出張所｜2026年4月27日(月) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0x0aTN4LWJwc3B6T3Z3WS1UYlJrckZDdTNKakx5ZVg0Rnpwc1d6WWlvMkQxeHgyUHg1dlV2X0RvMDhRYURpUjlrMENrYloxNV9ZZ3Bvb0ZNZkIyVldROE5hYU9VeVVvbjRPbV9xM2tsRFF1WXRCV0R6b0I5LWVNSks0bmJoMG1tWUJaUUVqTmFzYjhrd3c?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0x0aTN4LWJwc3B6T3Z3WS1UYlJrckZDdTNKakx5ZVg0Rnpwc1d6WWlvMkQxeHgyUHg1dlV2X0RvMDhRYURpUjlrMENrYloxNV9ZZ3Bvb0ZNZkIyVldROE5hYU9VeVVvbjRPbV9xM2tsRFF1WXRCV0R6b0I5LWVNSks0bmJoMG1tWUJaUUVqTmFzYjhrd3c?oc=5\" target=\"_blank\">海上自衛隊 潜水艦艦内見学 in 横須賀基地 豊島出張所｜2026年4月27日(月)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-04-27 16:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
       "query": "東京地方協力本部"

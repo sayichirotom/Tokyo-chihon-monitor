@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24 16:40",
-  "summary": "直近90日間の公開情報から15件を抽出。肯定13件、中立1件、否定1件。判定理由を各記事に表示します。",
+  "updated": "2026-07-25 15:36",
+  "summary": "直近90日間の公開情報から16件を抽出。肯定14件、中立1件、否定1件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -164,6 +164,16 @@
       "date": "2026-07-21 02:40",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "陸上自衛隊 立川駐屯地見学ツアー（航空機見学･体験喫食等）立川出張所｜2026年8月25日(火)･26日(水) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkZFT0hYTnQxWjVmOGlvMkJjQXg5OFNnUWVqUVYtUVRYVGUzdkFzdV80WlNuNTZNYmdpOURDUHMtcU44THVxNFp4dEZHd2J5UmFsaWE2WmtpdzhDaGhJdnFtamJGU0Y3VzM4TVNxWXB6WEVsZXhlWGNqRWtFd3VoMTB5MHJyc2NTVHUzaWZ3?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkZFT0hYTnQxWjVmOGlvMkJjQXg5OFNnUWVqUVYtUVRYVGUzdkFzdV80WlNuNTZNYmdpOURDUHMtcU44THVxNFp4dEZHd2J5UmFsaWE2WmtpdzhDaGhJdnFtamJGU0Y3VzM4TVNxWXB6WEVsZXhlWGNqRWtFd3VoMTB5MHJyc2NTVHUzaWZ3?oc=5\" target=\"_blank\">陸上自衛隊 立川駐屯地見学ツアー（航空機見学･体験喫食等）立川出張所｜2026年8月25日(火)･26日(水)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-07-25 02:45",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
       "query": "東京地方協力本部"
     }
   ]

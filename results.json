@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-29 17:01",
-  "summary": "直近90日間の公開情報から14件を抽出。肯定12件、中立1件、否定1件。判定理由を各記事に表示します。",
+  "updated": "2026-07-30 16:41",
+  "summary": "直近90日間の公開情報から14件を抽出。肯定13件、中立0件、否定1件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -107,16 +107,6 @@
       "query": "東京地方協力本部"
     },
     {
-      "title": "ブルーパイロットトークショーで自衛隊理解深める｜東京地本 - 防衛日報デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54SVQ5cUduOW5RbElLLXlVdkZ5Ym5DTTFZaURrVEVhaF9FUjUzMnFSTjZZQWpiZFdqZjNMb05kTm9xQW85VFQza01KWVRtZkpZalRJeHdEMk1BQQ?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE54SVQ5cUduOW5RbElLLXlVdkZ5Ym5DTTFZaURrVEVhaF9FUjUzMnFSTjZZQWpiZFdqZjNMb05kTm9xQW85VFQza01KWVRtZkpZalRJeHdEMk1BQQ?oc=5\" target=\"_blank\">ブルーパイロットトークショーで自衛隊理解深める｜東京地本</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">防衛日報デジタル</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-07-16 00:07",
-      "sentiment": "中立",
-      "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
-      "query": "東京地方協力本部"
-    },
-    {
       "title": "陸上自衛隊 富士駐屯地 16式機動戦闘車 体験型見学ツアー 豊島出張所｜2026年9月7日(月) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1p0a0tfRHFkc2xOalVueW9jQXMtN0VhTGN4ZkNPRjI3TXNER1VzQldFUkVuc0ZhZjJkWEk1NzloMndTTGpVVUNTNi03ejNyUkxjUzZWMUFfd2FEUjhUbjBpcUxuTFBzd2ZZLXhVZHVoLUVYc05TbE8tUVVwdHhmNXV5RF96VEIzSmF2ekF2Wmo?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1p0a0tfRHFkc2xOalVueW9jQXMtN0VhTGN4ZkNPRjI3TXNER1VzQldFUkVuc0ZhZjJkWEk1NzloMndTTGpVVUNTNi03ejNyUkxjUzZWMUFfd2FEUjhUbjBpcUxuTFBzd2ZZLXhVZHVoLUVYc05TbE8tUVVwdHhmNXV5RF96VEIzSmF2ekF2Wmo?oc=5\" target=\"_blank\">陸上自衛隊 富士駐屯地 16式機動戦闘車 体験型見学ツアー 豊島出張所｜2026年9月7日(月)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
@@ -154,6 +144,16 @@
       "date": "2026-07-29 00:48",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "陸上自衛隊 第1空挺団 水上降下訓練見学ツアー 新小岩募集案内所｜2026年8月20日(木) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFJNdS0ycFNSdUlMdWlYZzhmMHRibWI3NFlRYXR6ZFY3S0J0Q1l3VExNYWd6cjVJbFJoTEVWLTRWMDYzT2Q1UkpJZFJoUU4taTY1Z0VhWm9QUUZjOHNKcjdwanl1dVliQ2hQeUdjNWxzZnhZaHFNUjlHZWlqLXRTc25PMUVxbXlIUWVNSnZGTWxRdw?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFJNdS0ycFNSdUlMdWlYZzhmMHRibWI3NFlRYXR6ZFY3S0J0Q1l3VExNYWd6cjVJbFJoTEVWLTRWMDYzT2Q1UkpJZFJoUU4taTY1Z0VhWm9QUUZjOHNKcjdwanl1dVliQ2hQeUdjNWxzZnhZaHFNUjlHZWlqLXRTc25PMUVxbXlIUWVNSnZGTWxRdw?oc=5\" target=\"_blank\">陸上自衛隊 第1空挺団 水上降下訓練見学ツアー 新小岩募集案内所｜2026年8月20日(木)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-07-30 15:05",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（募集、見学）を含むため",
       "query": "東京地方協力本部"
     }
   ]

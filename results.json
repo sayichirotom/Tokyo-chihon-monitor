@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04 07:52",
-  "summary": "直近90日間の公開情報から15件を抽出。肯定14件、中立0件、否定1件。判定理由を各記事に表示します。",
+  "updated": "2026-08-05 07:52",
+  "summary": "直近90日間の公開情報から14件を抽出。肯定13件、中立0件、否定1件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -18,8 +18,8 @@
   "items": [
     {
       "title": "自衛隊が公開『エアコンの節約術』がSNSで話題 公開2週間で1万7000の「いいね」 自衛隊東京地方協力本部 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ejJGdVhwRGJId2hsOU9KN1ViNGlqaUMtaVdsa1p4WlFFaEU3eFVvcUlXaTl5MEtqUlFNc3E5TGMxaWlKQ0xOM2U2bzZHQnUxV1VJdkVmTFZyQQ?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ejJGdVhwRGJId2hsOU9KN1ViNGlqaUMtaVdsa1p4WlFFaEU3eFVvcUlXaTl5MEtqUlFNc3E5TGMxaWlKQ0xOM2U2bzZHQnUxV1VJdkVmTFZyQQ?oc=5\" target=\"_blank\">自衛隊が公開『エアコンの節約術』がSNSで話題 公開2週間で1万7000の「いいね」 自衛隊東京地方協力本部</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CcUJkaEJLTFRuclFFZzVzZnFyTVFsZjVjaTE0bk5KZjFFTEtrc3E2Y1JvNHk5aVZ5T0R6ZGVRRHk1X1dnSGpYS2Vvck51d3hzUFlNaG9zYw?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CcUJkaEJLTFRuclFFZzVzZnFyTVFsZjVjaTE0bk5KZjFFTEtrc3E2Y1JvNHk5aVZ5T0R6ZGVRRHk1X1dnSGpYS2Vvck51d3hzUFlNaG9zYw?oc=5\" target=\"_blank\">自衛隊が公開『エアコンの節約術』がSNSで話題 公開2週間で1万7000の「いいね」 自衛隊東京地方協力本部</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-06-01 16:00",
       "sentiment": "否定",
@@ -65,16 +65,6 @@
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（募集、見学）を含むため",
       "query": "自衛隊 東京 募集"
-    },
-    {
-      "title": "海上自衛隊 下総航空基地の見学ツアー、8月4日開催で東京地本が参加者募集 フライトシミュレーター体験も - フネコ - Funeco",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GbEFIR0tOQzd3TjJGczV6MjM1VGNnUGVFT3ptR0xHZ1VBekJzbnB5aGFDazlobjJTZDhqZmdWRTQ3X3YyeHM5LWFn?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GbEFIR0tOQzd3TjJGczV6MjM1VGNnUGVFT3ptR0xHZ1VBekJzbnB5aGFDazlobjJTZDhqZmdWRTQ3X3YyeHM5LWFn?oc=5\" target=\"_blank\">海上自衛隊 下総航空基地の見学ツアー、8月4日開催で東京地本が参加者募集 フライトシミュレーター体験も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">フネコ - Funeco</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-06-21 16:00",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（参加、開催、募集）を含むため",
-      "query": "東京地方協力本部"
     },
     {
       "title": "戦車を体感！陸上自衛隊 駒門駐屯地見学ツアー 江東出張所｜2026年8月25日(火) - 陸自調査団",

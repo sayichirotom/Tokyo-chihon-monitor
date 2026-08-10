@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-10 07:20",
-  "summary": "直近90日間の公開情報から24件を抽出。肯定18件、中立5件、否定1件。判定理由を各記事に表示します。",
+  "updated": "2026-08-11 07:27",
+  "summary": "直近90日間の公開情報から26件を抽出。肯定20件、中立5件、否定1件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "news",
+    "com",
     "陸自調査団",
     "href",
     "google",
-    "com",
     "rss",
     "articles",
     "oc",
@@ -147,9 +147,19 @@
       "query": "東京地方協力本部"
     },
     {
-      "title": "警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力 - news.yahoo.co.jp",
+      "title": "陸上自衛隊 習志野駐屯地 第1空挺団見学ツアー 江東出張所｜2026年9月29日(火) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzZ4LU1xcGxYWFJEaXdvUXNMd2N6anBDQi1DZmV0N1dsMm5kM184S2JfYlItVV9NVDZkU0wtd3lQNkpRYWcyUU1GYzdPN2FkOFVNV2NkMURzQ2pTVTZGR3QzS2l4Z1JOdDVZa1NqR2xUaEV1THJleGdEb1hwdlF2TFZUSWktNVhZY2w2ZW9Paw?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzZ4LU1xcGxYWFJEaXdvUXNMd2N6anBDQi1DZmV0N1dsMm5kM184S2JfYlItVV9NVDZkU0wtd3lQNkpRYWcyUU1GYzdPN2FkOFVNV2NkMURzQ2pTVTZGR3QzS2l4Z1JOdDVZa1NqR2xUaEV1THJleGdEb1hwdlF2TFZUSWktNVhZY2w2ZW9Paw?oc=5\" target=\"_blank\">陸上自衛隊 習志野駐屯地 第1空挺団見学ツアー 江東出張所｜2026年9月29日(火)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-02 03:59",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力 - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlhUZDZZX3dKeGVBTkgxU1B3U3VTejhZQ0hTZFRNdndRV0dEczlPNGM1U3RTYXJaSTRBMGU0SUhSQ2JWX3RGSHBMN2l1RTB1V3BWWjlMNVFqMVM2RzdwZmdRcUxka01EU1I0Q3pybW5mTnQwbjRXZ3g0Zm1BM2I3NTJCeU5jR0NkZDNKaWdn?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlhUZDZZX3dKeGVBTkgxU1B3U3VTejhZQ0hTZFRNdndRV0dEczlPNGM1U3RTYXJaSTRBMGU0SUhSQ2JWX3RGSHBMN2l1RTB1V3BWWjlMNVFqMVM2RzdwZmdRcUxka01EU1I0Q3pybW5mTnQwbjRXZ3g0Zm1BM2I3NTJCeU5jR0NkZDNKaWdn?oc=5\" target=\"_blank\">警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.yahoo.co.jp</font>",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlhUZDZZX3dKeGVBTkgxU1B3U3VTejhZQ0hTZFRNdndRV0dEczlPNGM1U3RTYXJaSTRBMGU0SUhSQ2JWX3RGSHBMN2l1RTB1V3BWWjlMNVFqMVM2RzdwZmdRcUxka01EU1I0Q3pybW5mTnQwbjRXZ3g0Zm1BM2I3NTJCeU5jR0NkZDNKaWdn?oc=5\" target=\"_blank\">警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-08-05 15:17",
       "sentiment": "肯定",
@@ -177,9 +187,9 @@
       "query": "東京地本 自衛隊"
     },
     {
-      "title": "【画像】警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力 - ライブドアニュース",
+      "title": "【画像】警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力 - news.livedoor.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmTElrWTNSa2NPU3F0U1d1Y2tJRTNuU2I3MlVNeWdSVGkwVm9oRHRXeXZwTEs2N0d0TFU3UExxYjlhcDZQMUwxeWh2QnU1ZW15RFlGVElhbjVvZ3pzYS1jTGJLT3B0QkdrNVBIcXRtYnVnWldIa1dsVFUxN0c?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBmTElrWTNSa2NPU3F0U1d1Y2tJRTNuU2I3MlVNeWdSVGkwVm9oRHRXeXZwTEs2N0d0TFU3UExxYjlhcDZQMUwxeWh2QnU1ZW15RFlGVElhbjVvZ3pzYS1jTGJLT3B0QkdrNVBIcXRtYnVnWldIa1dsVFUxN0c?oc=5\" target=\"_blank\">【画像】警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBmTElrWTNSa2NPU3F0U1d1Y2tJRTNuU2I3MlVNeWdSVGkwVm9oRHRXeXZwTEs2N0d0TFU3UExxYjlhcDZQMUwxeWh2QnU1ZW15RFlGVElhbjVvZ3pzYS1jTGJLT3B0QkdrNVBIcXRtYnVnWldIa1dsVFUxN0c?oc=5\" target=\"_blank\">【画像】警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.livedoor.com</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-08-05 15:18",
       "sentiment": "肯定",
@@ -217,9 +227,9 @@
       "query": "東京地方協力本部"
     },
     {
-      "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（写真・画像 2/2） - 産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzZRcm5VQ2NkN1B2dUVDZDJjTmd0WDdoc3hDV3Iyc2xQTUJaUXhwY1JVRWYzWHdNQU13eTg1bmsxUXdjbWJSZ0FVQk8yQmF6NTdtSkcwbkZ3ZFNsQ09fbC1jNmFpZW00aTFKcEoxRkxJeFFSdkluUlJOcDZJcHp3V2tXY3BGMGhqUFNVV1huNFBDNW8xLTIwYU5MQVo0aDVzNEE?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzZRcm5VQ2NkN1B2dUVDZDJjTmd0WDdoc3hDV3Iyc2xQTUJaUXhwY1JVRWYzWHdNQU13eTg1bmsxUXdjbWJSZ0FVQk8yQmF6NTdtSkcwbkZ3ZFNsQ09fbC1jNmFpZW00aTFKcEoxRkxJeFFSdkluUlJOcDZJcHp3V2tXY3BGMGhqUFNVV1huNFBDNW8xLTIwYU5MQVo0aDVzNEE?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（写真・画像 2/2）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
+      "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（写真・画像 1/2） - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3dWdVFTNldpWHBFd2Q0STRwbURqSHh5aGNRTjV0QjZJUVlKLUJXcmJtQmJlRTU5NV9YWUtRSnhHUHlrZTdxcmFMYkV0MlExNFBDNExxLXYwamp3VTdzUFRqeC1JS18yVzZzbFpEX1lrSVNmX3A2cTVkRjhIei1kc2tybWRPQmZhOVBFMFZPeTRVa2VfUGtyb3BnakY0WEF1OVE?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3dWdVFTNldpWHBFd2Q0STRwbURqSHh5aGNRTjV0QjZJUVlKLUJXcmJtQmJlRTU5NV9YWUtRSnhHUHlrZTdxcmFMYkV0MlExNFBDNExxLXYwamp3VTdzUFRqeC1JS18yVzZzbFpEX1lrSVNmX3A2cTVkRjhIei1kc2tybWRPQmZhOVBFMFZPeTRVa2VfUGtyb3BnakY0WEF1OVE?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（写真・画像 1/2）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-08-05 17:22",
       "sentiment": "中立",
@@ -227,9 +237,9 @@
       "query": "東京地本 自衛隊"
     },
     {
-      "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（写真・画像 1/2） - 産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3dWdVFTNldpWHBFd2Q0STRwbURqSHh5aGNRTjV0QjZJUVlKLUJXcmJtQmJlRTU5NV9YWUtRSnhHUHlrZTdxcmFMYkV0MlExNFBDNExxLXYwamp3VTdzUFRqeC1JS18yVzZzbFpEX1lrSVNmX3A2cTVkRjhIei1kc2tybWRPQmZhOVBFMFZPeTRVa2VfUGtyb3BnakY0WEF1OVE?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3dWdVFTNldpWHBFd2Q0STRwbURqSHh5aGNRTjV0QjZJUVlKLUJXcmJtQmJlRTU5NV9YWUtRSnhHUHlrZTdxcmFMYkV0MlExNFBDNExxLXYwamp3VTdzUFRqeC1JS18yVzZzbFpEX1lrSVNmX3A2cTVkRjhIei1kc2tybWRPQmZhOVBFMFZPeTRVa2VfUGtyb3BnakY0WEF1OVE?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（写真・画像 1/2）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
+      "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（写真・画像 2/2） - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzZRcm5VQ2NkN1B2dUVDZDJjTmd0WDdoc3hDV3Iyc2xQTUJaUXhwY1JVRWYzWHdNQU13eTg1bmsxUXdjbWJSZ0FVQk8yQmF6NTdtSkcwbkZ3ZFNsQ09fbC1jNmFpZW00aTFKcEoxRkxJeFFSdkluUlJOcDZJcHp3V2tXY3BGMGhqUFNVV1huNFBDNW8xLTIwYU5MQVo0aDVzNEE?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzZRcm5VQ2NkN1B2dUVDZDJjTmd0WDdoc3hDV3Iyc2xQTUJaUXhwY1JVRWYzWHdNQU13eTg1bmsxUXdjbWJSZ0FVQk8yQmF6NTdtSkcwbkZ3ZFNsQ09fbC1jNmFpZW00aTFKcEoxRkxJeFFSdkluUlJOcDZJcHp3V2tXY3BGMGhqUFNVV1huNFBDNW8xLTIwYU5MQVo0aDVzNEE?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（写真・画像 2/2）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-08-05 17:22",
       "sentiment": "中立",
@@ -247,14 +257,24 @@
       "query": "自衛隊 東京 募集"
     },
     {
-      "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供 (産経新聞) - news.yahoo.co.jp",
+      "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供 (産経新聞) - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkQ1UHo5SlNwcHR5VGxqYWxOTjcyUlhOaVljZU1OOGNQNU9DZHA3TFB6YzVIc3hQY3JGRDBtNy1scmUtV2pzYUdwa2ZtcloydXZlaXBJQnNJdUZZNDJvM0F2emNPYTdKeHhJYTZWVHQtZHBXLWZXNTRQNXdnZVlXWms3cjV4VUEzMjBnZDBn?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkQ1UHo5SlNwcHR5VGxqYWxOTjcyUlhOaVljZU1OOGNQNU9DZHA3TFB6YzVIc3hQY3JGRDBtNy1scmUtV2pzYUdwa2ZtcloydXZlaXBJQnNJdUZZNDJvM0F2emNPYTdKeHhJYTZWVHQtZHBXLWZXNTRQNXdnZVlXWms3cjV4VUEzMjBnZDBn?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供 (産経新聞)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.yahoo.co.jp</font>",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkQ1UHo5SlNwcHR5VGxqYWxOTjcyUlhOaVljZU1OOGNQNU9DZHA3TFB6YzVIc3hQY3JGRDBtNy1scmUtV2pzYUdwa2ZtcloydXZlaXBJQnNJdUZZNDJvM0F2emNPYTdKeHhJYTZWVHQtZHBXLWZXNTRQNXdnZVlXWms3cjV4VUEzMjBnZDBn?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供 (産経新聞)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-08-05 17:25",
       "sentiment": "中立",
       "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
       "query": "東京地本 自衛隊"
+    },
+    {
+      "title": "地域イベントで魅力発信 自衛隊理解深める｜東京地本 - 防衛日報デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IS2YwR08zMDBXRzZQbmN0WXFXY0FVSGFPSF8zblRCT0h3WGRxTlg2cmRFQnI2RFh2ajhjanVBajY2aV9BMkNOcWNBWlNUa2xaT0FaMkpzR09TUQ?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IS2YwR08zMDBXRzZQbmN0WXFXY0FVSGFPSF8zblRCT0h3WGRxTlg2cmRFQnI2RFh2ajhjanVBajY2aV9BMkNOcWNBWlNUa2xaT0FaMkpzR09TUQ?oc=5\" target=\"_blank\">地域イベントで魅力発信 自衛隊理解深める｜東京地本</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">防衛日報デジタル</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-11 00:04",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（イベント）を含むため",
+      "query": "東京地方協力本部"
     }
   ]
 }

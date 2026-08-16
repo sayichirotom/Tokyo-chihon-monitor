@@ -1,8 +1,9 @@
 {
-  "updated": "2026-08-16 07:11",
-  "summary": "直近90日間の公開情報から22件を抽出。肯定16件、中立5件、否定1件。判定理由を各記事に表示します。",
+  "updated": "2026-08-17 07:11",
+  "summary": "直近90日間の公開情報から20件を抽出。肯定14件、中立5件、否定1件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
+    "陸自調査団",
     "href",
     "news",
     "google",
@@ -12,8 +13,7 @@
     "oc",
     "target",
     "blank",
-    "color",
-    "6f6f6f"
+    "color"
   ],
   "items": [
     {
@@ -77,6 +77,16 @@
       "query": "東京地方協力本部"
     },
     {
+      "title": "陸上自衛隊 富士駐屯地 16式機動戦闘車 体験型見学ツアー 豊島出張所｜2026年9月7日(月) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1p0a0tfRHFkc2xOalVueW9jQXMtN0VhTGN4ZkNPRjI3TXNER1VzQldFUkVuc0ZhZjJkWEk1NzloMndTTGpVVUNTNi03ejNyUkxjUzZWMUFfd2FEUjhUbjBpcUxuTFBzd2ZZLXhVZHVoLUVYc05TbE8tUVVwdHhmNXV5RF96VEIzSmF2ekF2Wmo?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1p0a0tfRHFkc2xOalVueW9jQXMtN0VhTGN4ZkNPRjI3TXNER1VzQldFUkVuc0ZhZjJkWEk1NzloMndTTGpVVUNTNi03ejNyUkxjUzZWMUFfd2FEUjhUbjBpcUxuTFBzd2ZZLXhVZHVoLUVYc05TbE8tUVVwdHhmNXV5RF96VEIzSmF2ekF2Wmo?oc=5\" target=\"_blank\">陸上自衛隊 富士駐屯地 16式機動戦闘車 体験型見学ツアー 豊島出張所｜2026年9月7日(月)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-07-17 02:44",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
       "title": "航空自衛隊 入間基地見学ツアー（航空機見学･空上げ試食等）西東京地域事務所｜2026年8月28日(金) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG9TakI4NUgzdFVtbGszVWkwNEtIS0p2QV9GeFBNN1VxRUltX253R3RnUnhHWXc4VU1tSGVvZUxzWUE0cXhCVFluX1Y3UWJYUlk0N0tfbkdSd0JsR3Y5MWtlRGktVGlCbEQ5OGctMkNrMEJ0QnVaMUcxQTdQN21hZEtyVFRia0tudTdRVkt2cw?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG9TakI4NUgzdFVtbGszVWkwNEtIS0p2QV9GeFBNN1VxRUltX253R3RnUnhHWXc4VU1tSGVvZUxzWUE0cXhCVFluX1Y3UWJYUlk0N0tfbkdSd0JsR3Y5MWtlRGktVGlCbEQ5OGctMkNrMEJ0QnVaMUcxQTdQN21hZEtyVFRia0tudTdRVkt2cw?oc=5\" target=\"_blank\">航空自衛隊 入間基地見学ツアー（航空機見学･空上げ試食等）西東京地域事務所｜2026年8月28日(金)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
@@ -84,16 +94,6 @@
       "date": "2026-07-21 02:40",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
-      "query": "東京地方協力本部"
-    },
-    {
-      "title": "陸上自衛隊 立川駐屯地見学ツアー（航空機見学･体験喫食等）立川出張所｜2026年8月25日(火)･26日(水) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkZFT0hYTnQxWjVmOGlvMkJjQXg5OFNnUWVqUVYtUVRYVGUzdkFzdV80WlNuNTZNYmdpOURDUHMtcU44THVxNFp4dEZHd2J5UmFsaWE2WmtpdzhDaGhJdnFtamJGU0Y3VzM4TVNxWXB6WEVsZXhlWGNqRWtFd3VoMTB5MHJyc2NTVHUzaWZ3?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkZFT0hYTnQxWjVmOGlvMkJjQXg5OFNnUWVqUVYtUVRYVGUzdkFzdV80WlNuNTZNYmdpOURDUHMtcU44THVxNFp4dEZHd2J5UmFsaWE2WmtpdzhDaGhJdnFtamJGU0Y3VzM4TVNxWXB6WEVsZXhlWGNqRWtFd3VoMTB5MHJyc2NTVHUzaWZ3?oc=5\" target=\"_blank\">陸上自衛隊 立川駐屯地見学ツアー（航空機見学･体験喫食等）立川出張所｜2026年8月25日(火)･26日(水)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-07-25 02:45",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
       "query": "東京地方協力本部"
     },
     {
@@ -135,26 +135,6 @@
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
       "query": "東京地方協力本部"
-    },
-    {
-      "title": "警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlhUZDZZX3dKeGVBTkgxU1B3U3VTejhZQ0hTZFRNdndRV0dEczlPNGM1U3RTYXJaSTRBMGU0SUhSQ2JWX3RGSHBMN2l1RTB1V3BWWjlMNVFqMVM2RzdwZmdRcUxka01EU1I0Q3pybW5mTnQwbjRXZ3g0Zm1BM2I3NTJCeU5jR0NkZDNKaWdn?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlhUZDZZX3dKeGVBTkgxU1B3U3VTejhZQ0hTZFRNdndRV0dEczlPNGM1U3RTYXJaSTRBMGU0SUhSQ2JWX3RGSHBMN2l1RTB1V3BWWjlMNVFqMVM2RzdwZmdRcUxka01EU1I0Q3pybW5mTnQwbjRXZ3g0Zm1BM2I3NTJCeU5jR0NkZDNKaWdn?oc=5\" target=\"_blank\">警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-08-05 15:17",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（開催、募集、協力）を含むため",
-      "query": "東京地方協力本部"
-    },
-    {
-      "title": "【画像】警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力 - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmTElrWTNSa2NPU3F0U1d1Y2tJRTNuU2I3MlVNeWdSVGkwVm9oRHRXeXZwTEs2N0d0TFU3UExxYjlhcDZQMUwxeWh2QnU1ZW15RFlGVElhbjVvZ3pzYS1jTGJLT3B0QkdrNVBIcXRtYnVnWldIa1dsVFUxN0c?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBmTElrWTNSa2NPU3F0U1d1Y2tJRTNuU2I3MlVNeWdSVGkwVm9oRHRXeXZwTEs2N0d0TFU3UExxYjlhcDZQMUwxeWh2QnU1ZW15RFlGVElhbjVvZ3pzYS1jTGJLT3B0QkdrNVBIcXRtYnVnWldIa1dsVFUxN0c?oc=5\" target=\"_blank\">【画像】警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-08-05 15:18",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（開催、募集、協力）を含むため",
-      "query": "自衛隊 東京 募集"
     },
     {
       "title": "警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力 - TBS NEWS DIG",

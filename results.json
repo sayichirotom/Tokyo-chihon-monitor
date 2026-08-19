@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19 07:12",
-  "summary": "直近90日間の公開情報から22件を抽出。肯定16件、中立5件、否定1件。判定理由を各記事に表示します。",
+  "updated": "2026-08-20 07:14",
+  "summary": "直近90日間の公開情報から23件を抽出。肯定16件、中立6件、否定1件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -67,9 +67,9 @@
       "query": "自衛隊 東京 募集"
     },
     {
-      "title": "海上自衛隊 下総航空基地の見学ツアー、8月4日開催で東京地本が参加者募集 フライトシミュレーター体験も - funeco.jp",
+      "title": "海上自衛隊 下総航空基地の見学ツアー、8月4日開催で東京地本が参加者募集 フライトシミュレーター体験も - Funeco",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GbEFIR0tOQzd3TjJGczV6MjM1VGNnUGVFT3ptR0xHZ1VBekJzbnB5aGFDazlobjJTZDhqZmdWRTQ3X3YyeHM5LWFn?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GbEFIR0tOQzd3TjJGczV6MjM1VGNnUGVFT3ptR0xHZ1VBekJzbnB5aGFDazlobjJTZDhqZmdWRTQ3X3YyeHM5LWFn?oc=5\" target=\"_blank\">海上自衛隊 下総航空基地の見学ツアー、8月4日開催で東京地本が参加者募集 フライトシミュレーター体験も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">funeco.jp</font>",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GbEFIR0tOQzd3TjJGczV6MjM1VGNnUGVFT3ptR0xHZ1VBekJzbnB5aGFDazlobjJTZDhqZmdWRTQ3X3YyeHM5LWFn?oc=5\" target=\"_blank\">海上自衛隊 下総航空基地の見学ツアー、8月4日開催で東京地本が参加者募集 フライトシミュレーター体験も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Funeco</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-06-21 16:00",
       "sentiment": "肯定",
@@ -124,7 +124,7 @@
       "date": "2026-07-31 16:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（募集、見学）を含むため",
-      "query": "東京地方協力本部"
+      "query": "自衛隊 東京 募集"
     },
     {
       "title": "自衛隊体験フェア2026summer in ひばりが丘PARCO 西東京地域事務所｜2026年9月5日(土) - 陸自調査団",
@@ -177,6 +177,16 @@
       "query": "東京地本 自衛隊"
     },
     {
+      "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供｜Infoseekニュース - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmQ4TFluNUc2VzJFNUlCb1FhN0Zpb2R4MWZfczN2ZzFoZEY1aGNzU0d0bHBKcmxobjBzNXl4SzFuOC1acXFFdWRockEzNlRXUVdtZEhGZFlGX1ltX3pkNExINWdBdFVmOWd2Q1dpNXdqRll1Y3VlaGVnVWgtTkJMNTkwMHpnOWJybVFF?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmQ4TFluNUc2VzJFNUlCb1FhN0Zpb2R4MWZfczN2ZzFoZEY1aGNzU0d0bHBKcmxobjBzNXl4SzFuOC1acXFFdWRockEzNlRXUVdtZEhGZFlGX1ltX3pkNExINWdBdFVmOWd2Q1dpNXdqRll1Y3VlaGVnVWgtTkJMNTkwMHpnOWJybVFF?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供｜Infoseekニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-05 16:00",
+      "sentiment": "中立",
+      "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
+      "query": "東京地本 自衛隊"
+    },
+    {
       "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（写真・画像 2/2） - 産経ニュース",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzZRcm5VQ2NkN1B2dUVDZDJjTmd0WDdoc3hDV3Iyc2xQTUJaUXhwY1JVRWYzWHdNQU13eTg1bmsxUXdjbWJSZ0FVQk8yQmF6NTdtSkcwbkZ3ZFNsQ09fbC1jNmFpZW00aTFKcEoxRkxJeFFSdkluUlJOcDZJcHp3V2tXY3BGMGhqUFNVV1huNFBDNW8xLTIwYU5MQVo0aDVzNEE?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzZRcm5VQ2NkN1B2dUVDZDJjTmd0WDdoc3hDV3Iyc2xQTUJaUXhwY1JVRWYzWHdNQU13eTg1bmsxUXdjbWJSZ0FVQk8yQmF6NTdtSkcwbkZ3ZFNsQ09fbC1jNmFpZW00aTFKcEoxRkxJeFFSdkluUlJOcDZJcHp3V2tXY3BGMGhqUFNVV1huNFBDNW8xLTIwYU5MQVo0aDVzNEE?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（写真・画像 2/2）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
@@ -197,6 +207,16 @@
       "query": "東京地本 自衛隊"
     },
     {
+      "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（産経新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52aTBWR1RDN0NNQl9ibDg4UW1haUxSRlB2NDhsNURCbWNTeElfY3gxa1liUDlNWmxKREVrOHFjN1J6RHljTGJHNDdaZ19WVTU4QjN3V2pMUkNhOEx1MjFUaXN6VTBBU0NKOTJVc0Y2WWVHeEkwQ3RlZHdwNlhTSDg?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE52aTBWR1RDN0NNQl9ibDg4UW1haUxSRlB2NDhsNURCbWNTeElfY3gxa1liUDlNWmxKREVrOHFjN1J6RHljTGJHNDdaZ19WVTU4QjN3V2pMUkNhOEx1MjFUaXN6VTBBU0NKOTJVc0Y2WWVHeEkwQ3RlZHdwNlhTSDg?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（産経新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-05 16:00",
+      "sentiment": "中立",
+      "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
+      "query": "自衛隊 東京 募集"
+    },
+    {
       "title": "自衛隊サマーフェア2026 in イオンモール日の出 福生募集案内所｜2026年8月5日(水) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWhKbUduY2hCVmY5TFlTMnlOQVlaU3F4UjF6QUdOWXhpNUJLaTlkU2tCX3A2ZkhSWDhvSmRKRTl5LTNzeFFpalBGMGVrNUNJalFWd3lTUmZfamxkWE9tMkZlOU9LSGJyVUlYVDR2YWhzMmY5OHhabEpkeXR6Q3ZOY0FxRURVdjZJ?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWhKbUduY2hCVmY5TFlTMnlOQVlaU3F4UjF6QUdOWXhpNUJLaTlkU2tCX3A2ZkhSWDhvSmRKRTl5LTNzeFFpalBGMGVrNUNJalFWd3lTUmZfamxkWE9tMkZlOU9LSGJyVUlYVDR2YWhzMmY5OHhabEpkeXR6Q3ZOY0FxRURVdjZJ?oc=5\" target=\"_blank\">自衛隊サマーフェア2026 in イオンモール日の出 福生募集案内所｜2026年8月5日(水)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
@@ -204,16 +224,6 @@
       "date": "2026-08-05 16:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（募集）を含むため",
-      "query": "自衛隊 東京 募集"
-    },
-    {
-      "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供 - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmQ4TFluNUc2VzJFNUlCb1FhN0Zpb2R4MWZfczN2ZzFoZEY1aGNzU0d0bHBKcmxobjBzNXl4SzFuOC1acXFFdWRockEzNlRXUVdtZEhGZFlGX1ltX3pkNExINWdBdFVmOWd2Q1dpNXdqRll1Y3VlaGVnVWgtTkJMNTkwMHpnOWJybVFF0gGQAUFVX3lxTE83dkdQUmwydlR0Ulo3eThyNUJ0V09MMDJBU3lPZV8ydTVrY3RLbFlmc2s0UF83c1RZeUh4UGNZY1k2akNtTVc5Q01NVlFJVnpMYXptZHQxMGVOQUZhWUUtVF9TcVVDaF9TUXc3NGNCMG03MHZURFo5SmhYbzJZaTllZzJOTlpkc18tSDI0OWFNZQ?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmQ4TFluNUc2VzJFNUlCb1FhN0Zpb2R4MWZfczN2ZzFoZEY1aGNzU0d0bHBKcmxobjBzNXl4SzFuOC1acXFFdWRockEzNlRXUVdtZEhGZFlGX1ltX3pkNExINWdBdFVmOWd2Q1dpNXdqRll1Y3VlaGVnVWgtTkJMNTkwMHpnOWJybVFF0gGQAUFVX3lxTE83dkdQUmwydlR0Ulo3eThyNUJ0V09MMDJBU3lPZV8ydTVrY3RLbFlmc2s0UF83c1RZeUh4UGNZY1k2akNtTVc5Q01NVlFJVnpMYXptZHQxMGVOQUZhWUUtVF9TcVVDaF9TUXc3NGNCMG03MHZURFo5SmhYbzJZaTllZzJOTlpkc18tSDI0OWFNZQ?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-08-05 17:22",
-      "sentiment": "中立",
-      "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
       "query": "自衛隊 東京 募集"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21 07:16",
-  "summary": "直近90日間の公開情報から21件を抽出。肯定14件、中立6件、否定1件。判定理由を各記事に表示します。",
+  "updated": "2026-08-22 07:13",
+  "summary": "直近90日間の公開情報から20件を抽出。肯定14件、中立5件、否定1件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "href",
@@ -185,16 +185,6 @@
       "sentiment": "中立",
       "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
       "query": "東京地本 自衛隊"
-    },
-    {
-      "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（産経新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52aTBWR1RDN0NNQl9ibDg4UW1haUxSRlB2NDhsNURCbWNTeElfY3gxa1liUDlNWmxKREVrOHFjN1J6RHljTGJHNDdaZ19WVTU4QjN3V2pMUkNhOEx1MjFUaXN6VTBBU0NKOTJVc0Y2WWVHeEkwQ3RlZHdwNlhTSDg?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE52aTBWR1RDN0NNQl9ibDg4UW1haUxSRlB2NDhsNURCbWNTeElfY3gxa1liUDlNWmxKREVrOHFjN1J6RHljTGJHNDdaZ19WVTU4QjN3V2pMUkNhOEx1MjFUaXN6VTBBU0NKOTJVc0Y2WWVHeEkwQ3RlZHdwNlhTSDg?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（産経新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-08-05 16:00",
-      "sentiment": "中立",
-      "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
-      "query": "自衛隊 東京 募集"
     },
     {
       "title": "自衛隊サマーフェア2026 in イオンモール日の出 福生募集案内所｜2026年8月5日(水) - 陸自調査団",

@@ -1,8 +1,9 @@
 {
-  "updated": "2026-08-22 07:13",
-  "summary": "直近90日間の公開情報から20件を抽出。肯定14件、中立5件、否定1件。判定理由を各記事に表示します。",
+  "updated": "2026-08-23 07:12",
+  "summary": "直近90日間の公開情報から21件を抽出。肯定15件、中立5件、否定1件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
+    "陸自調査団",
     "href",
     "news",
     "google",
@@ -12,8 +13,7 @@
     "oc",
     "target",
     "blank",
-    "color",
-    "6f6f6f"
+    "color"
   ],
   "items": [
     {
@@ -124,6 +124,16 @@
       "date": "2026-08-01 04:08",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（体験）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "陸上自衛隊 習志野駐屯地 第1空挺団見学ツアー 江東出張所｜2026年9月29日(火) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzZ4LU1xcGxYWFJEaXdvUXNMd2N6anBDQi1DZmV0N1dsMm5kM184S2JfYlItVV9NVDZkU0wtd3lQNkpRYWcyUU1GYzdPN2FkOFVNV2NkMURzQ2pTVTZGR3QzS2l4Z1JOdDVZa1NqR2xUaEV1THJleGdEb1hwdlF2TFZUSWktNVhZY2w2ZW9Paw?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzZ4LU1xcGxYWFJEaXdvUXNMd2N6anBDQi1DZmV0N1dsMm5kM184S2JfYlItVV9NVDZkU0wtd3lQNkpRYWcyUU1GYzdPN2FkOFVNV2NkMURzQ2pTVTZGR3QzS2l4Z1JOdDVZa1NqR2xUaEV1THJleGdEb1hwdlF2TFZUSWktNVhZY2w2ZW9Paw?oc=5\" target=\"_blank\">陸上自衛隊 習志野駐屯地 第1空挺団見学ツアー 江東出張所｜2026年9月29日(火)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-02 03:59",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
       "query": "東京地方協力本部"
     },
     {

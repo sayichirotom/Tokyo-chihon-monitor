@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26 07:16",
+  "updated": "2026-08-27 11:25",
   "summary": "直近90日間の公開情報から19件を抽出。肯定14件、中立4件、否定1件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
@@ -201,7 +201,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEJiYS0xcEc2cDQ4WEEyWVNEU3NXMFRndnJQaUhkdkZmQ3FOdnRISnlvQkdyc1FaOE5kNlk0bGJTV2xRS0QwRTV0QjlVUnhmTEktUkxsM1E1V0V3U3lQTHd4c0gwM2VBeF9PMnBZMGd0Q1pfd3BZXzQ4b3d0ai1aRUhMSi1IWEJqZzBZQzRR?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEJiYS0xcEc2cDQ4WEEyWVNEU3NXMFRndnJQaUhkdkZmQ3FOdnRISnlvQkdyc1FaOE5kNlk0bGJTV2xRS0QwRTV0QjlVUnhmTEktUkxsM1E1V0V3U3lQTHd4c0gwM2VBeF9PMnBZMGd0Q1pfd3BZXzQ4b3d0ai1aRUhMSi1IWEJqZzBZQzRR?oc=5\" target=\"_blank\">戦車を体感！陸上自衛隊 駒門駐屯地見学ツアー 江東出張所｜2026年8月25日(火)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
-      "date": "2026-08-25 09:53",
+      "date": "2026-08-26 19:27",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
       "query": "東京地方協力本部"

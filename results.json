@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27 11:25",
-  "summary": "直近90日間の公開情報から19件を抽出。肯定14件、中立4件、否定1件。判定理由を各記事に表示します。",
+  "updated": "2026-08-28 14:52",
+  "summary": "直近90日間の公開情報から20件を抽出。肯定16件、中立3件、否定1件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -67,9 +67,9 @@
       "query": "自衛隊 東京 募集"
     },
     {
-      "title": "海上自衛隊 下総航空基地の見学ツアー、8月4日開催で東京地本が参加者募集 フライトシミュレーター体験も - Funeco",
+      "title": "海上自衛隊 下総航空基地の見学ツアー、8月4日開催で東京地本が参加者募集 フライトシミュレーター体験も - フネコ - Funeco",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GbEFIR0tOQzd3TjJGczV6MjM1VGNnUGVFT3ptR0xHZ1VBekJzbnB5aGFDazlobjJTZDhqZmdWRTQ3X3YyeHM5LWFn?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GbEFIR0tOQzd3TjJGczV6MjM1VGNnUGVFT3ptR0xHZ1VBekJzbnB5aGFDazlobjJTZDhqZmdWRTQ3X3YyeHM5LWFn?oc=5\" target=\"_blank\">海上自衛隊 下総航空基地の見学ツアー、8月4日開催で東京地本が参加者募集 フライトシミュレーター体験も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Funeco</font>",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GbEFIR0tOQzd3TjJGczV6MjM1VGNnUGVFT3ptR0xHZ1VBekJzbnB5aGFDazlobjJTZDhqZmdWRTQ3X3YyeHM5LWFn?oc=5\" target=\"_blank\">海上自衛隊 下総航空基地の見学ツアー、8月4日開催で東京地本が参加者募集 フライトシミュレーター体験も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">フネコ - Funeco</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-06-21 16:00",
       "sentiment": "肯定",
@@ -84,16 +84,6 @@
       "date": "2026-07-17 02:44",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
-      "query": "東京地方協力本部"
-    },
-    {
-      "title": "航空自衛隊 入間基地見学ツアー（航空機見学･空上げ試食等）西東京地域事務所｜2026年8月28日(金) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG9TakI4NUgzdFVtbGszVWkwNEtIS0p2QV9GeFBNN1VxRUltX253R3RnUnhHWXc4VU1tSGVvZUxzWUE0cXhCVFluX1Y3UWJYUlk0N0tfbkdSd0JsR3Y5MWtlRGktVGlCbEQ5OGctMkNrMEJ0QnVaMUcxQTdQN21hZEtyVFRia0tudTdRVkt2cw?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG9TakI4NUgzdFVtbGszVWkwNEtIS0p2QV9GeFBNN1VxRUltX253R3RnUnhHWXc4VU1tSGVvZUxzWUE0cXhCVFluX1Y3UWJYUlk0N0tfbkdSd0JsR3Y5MWtlRGktVGlCbEQ5OGctMkNrMEJ0QnVaMUcxQTdQN21hZEtyVFRia0tudTdRVkt2cw?oc=5\" target=\"_blank\">航空自衛隊 入間基地見学ツアー（航空機見学･空上げ試食等）西東京地域事務所｜2026年8月28日(金)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-07-21 02:40",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
       "query": "東京地方協力本部"
     },
     {
@@ -127,6 +117,16 @@
       "query": "東京地方協力本部"
     },
     {
+      "title": "陸上自衛隊 習志野駐屯地 第1空挺団見学ツアー 江東出張所｜2026年9月29日(火) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzZ4LU1xcGxYWFJEaXdvUXNMd2N6anBDQi1DZmV0N1dsMm5kM184S2JfYlItVV9NVDZkU0wtd3lQNkpRYWcyUU1GYzdPN2FkOFVNV2NkMURzQ2pTVTZGR3QzS2l4Z1JOdDVZa1NqR2xUaEV1THJleGdEb1hwdlF2TFZUSWktNVhZY2w2ZW9Paw?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzZ4LU1xcGxYWFJEaXdvUXNMd2N6anBDQi1DZmV0N1dsMm5kM184S2JfYlItVV9NVDZkU0wtd3lQNkpRYWcyUU1GYzdPN2FkOFVNV2NkMURzQ2pTVTZGR3QzS2l4Z1JOdDVZa1NqR2xUaEV1THJleGdEb1hwdlF2TFZUSWktNVhZY2w2ZW9Paw?oc=5\" target=\"_blank\">陸上自衛隊 習志野駐屯地 第1空挺団見学ツアー 江東出張所｜2026年9月29日(火)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-02 03:59",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
       "title": "警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力 - TBS NEWS DIG",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WdFk5eG9PRGI4VlRjeU8yNzFpUVJYRmdWQlhGelE3c0dVTUpSM19kT1dkOFAwR01FUVk2Y3dFb3ViR2dQXzlkbXlQWUdzOTQ3a3FrMTFRVQ?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WdFk5eG9PRGI4VlRjeU8yNzFpUVJYRmdWQlhGelE3c0dVTUpSM19kT1dkOFAwR01FUVk2Y3dFb3ViR2dQXzlkbXlQWUdzOTQ3a3FrMTFRVQ?oc=5\" target=\"_blank\">警視庁と自衛隊東京地方協力本部が職員の募集採用活動で協定締結 合同説明会も開催 人材確保へ組織の垣根越え協力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
@@ -140,16 +140,6 @@
       "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供 - 産経ニュース",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkejNqOGxiZDJEVVpzTkt4alRFWWJuSTVFQ3QySFpxdlNvNzl3S1dHVmhsZFBJMkNBRUw0NkJlVm1LYm15em42eHQ4U2xZTV9xUkFCaXlyaWZsakRydV9TamlpYTZQVHFXMEM5eVhGZHVUSWpuamc?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBkejNqOGxiZDJEVVpzTkt4alRFWWJuSTVFQ3QySFpxdlNvNzl3S1dHVmhsZFBJMkNBRUw0NkJlVm1LYm15em42eHQ4U2xZTV9xUkFCaXlyaWZsakRydV9TamlpYTZQVHFXMEM5eVhGZHVUSWpuamc?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-08-05 16:00",
-      "sentiment": "中立",
-      "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
-      "query": "東京地方協力本部"
-    },
-    {
-      "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供｜Infoseekニュース - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmQ4TFluNUc2VzJFNUlCb1FhN0Zpb2R4MWZfczN2ZzFoZEY1aGNzU0d0bHBKcmxobjBzNXl4SzFuOC1acXFFdWRockEzNlRXUVdtZEhGZFlGX1ltX3pkNExINWdBdFVmOWd2Q1dpNXdqRll1Y3VlaGVnVWgtTkJMNTkwMHpnOWJybVFF?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmQ4TFluNUc2VzJFNUlCb1FhN0Zpb2R4MWZfczN2ZzFoZEY1aGNzU0d0bHBKcmxobjBzNXl4SzFuOC1acXFFdWRockEzNlRXUVdtZEhGZFlGX1ltX3pkNExINWdBdFVmOWd2Q1dpNXdqRll1Y3VlaGVnVWgtTkJMNTkwMHpnOWJybVFF?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供｜Infoseekニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-08-05 16:00",
       "sentiment": "中立",
@@ -197,11 +187,31 @@
       "query": "東京地方協力本部"
     },
     {
+      "title": "陸上自衛隊 立川駐屯地見学ツアー（航空機見学･体験喫食等）立川出張所｜2026年8月25日(火)･26日(水) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkZFT0hYTnQxWjVmOGlvMkJjQXg5OFNnUWVqUVYtUVRYVGUzdkFzdV80WlNuNTZNYmdpOURDUHMtcU44THVxNFp4dEZHd2J5UmFsaWE2WmtpdzhDaGhJdnFtamJGU0Y3VzM4TVNxWXB6WEVsZXhlWGNqRWtFd3VoMTB5MHJyc2NTVHUzaWZ3?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkZFT0hYTnQxWjVmOGlvMkJjQXg5OFNnUWVqUVYtUVRYVGUzdkFzdV80WlNuNTZNYmdpOURDUHMtcU44THVxNFp4dEZHd2J5UmFsaWE2WmtpdzhDaGhJdnFtamJGU0Y3VzM4TVNxWXB6WEVsZXhlWGNqRWtFd3VoMTB5MHJyc2NTVHUzaWZ3?oc=5\" target=\"_blank\">陸上自衛隊 立川駐屯地見学ツアー（航空機見学･体験喫食等）立川出張所｜2026年8月25日(火)･26日(水)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-25 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
       "title": "戦車を体感！陸上自衛隊 駒門駐屯地見学ツアー 江東出張所｜2026年8月25日(火) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEJiYS0xcEc2cDQ4WEEyWVNEU3NXMFRndnJQaUhkdkZmQ3FOdnRISnlvQkdyc1FaOE5kNlk0bGJTV2xRS0QwRTV0QjlVUnhmTEktUkxsM1E1V0V3U3lQTHd4c0gwM2VBeF9PMnBZMGd0Q1pfd3BZXzQ4b3d0ai1aRUhMSi1IWEJqZzBZQzRR?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEJiYS0xcEc2cDQ4WEEyWVNEU3NXMFRndnJQaUhkdkZmQ3FOdnRISnlvQkdyc1FaOE5kNlk0bGJTV2xRS0QwRTV0QjlVUnhmTEktUkxsM1E1V0V3U3lQTHd4c0gwM2VBeF9PMnBZMGd0Q1pfd3BZXzQ4b3d0ai1aRUhMSi1IWEJqZzBZQzRR?oc=5\" target=\"_blank\">戦車を体感！陸上自衛隊 駒門駐屯地見学ツアー 江東出張所｜2026年8月25日(火)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-08-26 19:27",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "航空自衛隊 入間基地見学ツアー（航空機見学･空上げ試食等）西東京地域事務所｜2026年8月28日(金) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG9TakI4NUgzdFVtbGszVWkwNEtIS0p2QV9GeFBNN1VxRUltX253R3RnUnhHWXc4VU1tSGVvZUxzWUE0cXhCVFluX1Y3UWJYUlk0N0tfbkdSd0JsR3Y5MWtlRGktVGlCbEQ5OGctMkNrMEJ0QnVaMUcxQTdQN21hZEtyVFRia0tudTdRVkt2cw?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG9TakI4NUgzdFVtbGszVWkwNEtIS0p2QV9GeFBNN1VxRUltX253R3RnUnhHWXc4VU1tSGVvZUxzWUE0cXhCVFluX1Y3UWJYUlk0N0tfbkdSd0JsR3Y5MWtlRGktVGlCbEQ5OGctMkNrMEJ0QnVaMUcxQTdQN21hZEtyVFRia0tudTdRVkt2cw?oc=5\" target=\"_blank\">航空自衛隊 入間基地見学ツアー（航空機見学･空上げ試食等）西東京地域事務所｜2026年8月28日(金)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-28 09:39",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
       "query": "東京地方協力本部"

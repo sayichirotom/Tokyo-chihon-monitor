@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30 08:43",
-  "summary": "直近90日間の公開情報から20件を抽出。肯定16件、中立3件、否定1件。判定理由を各記事に表示します。",
+  "updated": "2026-08-31 09:02",
+  "summary": "直近90日間の公開情報から19件を抽出。肯定16件、中立3件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -16,16 +16,6 @@
     "color"
   ],
   "items": [
-    {
-      "title": "自衛隊が公開『エアコンの節約術』がSNSで話題 公開2週間で1万7000の「いいね」 自衛隊東京地方協力本部 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ejJGdVhwRGJId2hsOU9KN1ViNGlqaUMtaVdsa1p4WlFFaEU3eFVvcUlXaTl5MEtqUlFNc3E5TGMxaWlKQ0xOM2U2bzZHQnUxV1VJdkVmTFZyQQ?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ejJGdVhwRGJId2hsOU9KN1ViNGlqaUMtaVdsa1p4WlFFaEU3eFVvcUlXaTl5MEtqUlFNc3E5TGMxaWlKQ0xOM2U2bzZHQnUxV1VJdkVmTFZyQQ?oc=5\" target=\"_blank\">自衛隊が公開『エアコンの節約術』がSNSで話題 公開2週間で1万7000の「いいね」 自衛隊東京地方協力本部</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-06-01 16:00",
-      "sentiment": "否定",
-      "sentiment_reason": "否定語・リスク語（SNS）を含むため",
-      "query": "東京地方協力本部"
-    },
     {
       "title": "自衛隊東京地方協力本部 広報イベント＆海上自衛隊 東京音楽隊ライブ in アレアレア2｜2026年6月13日(土) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0ZreWEtdGp5S0dGVjE3YjAyS1ZsRTFlQ1NRdGZlUHlFSFA5aWw5b3d5Q3VwUF94SU5jTzBxblJQT2w5TFdfLThpdm9YdmtOWWlvTnFUZ0NZcExkMGxUQ2JrdS1LczFrU3JxR1hmdEVNdEg5cmVWVEpMS21xd0NWN1J4THI3WXpBTWxsMm9PWFk?oc=5",

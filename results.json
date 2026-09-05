@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05 08:34",
-  "summary": "直近90日間の公開情報から17件を抽出。肯定15件、中立2件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-09-06 08:27",
+  "summary": "直近90日間の公開情報から19件を抽出。肯定16件、中立3件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -67,13 +67,13 @@
       "query": "東京地方協力本部"
     },
     {
-      "title": "陸上自衛隊 富士駐屯地 16式機動戦闘車 体験型見学ツアー 豊島出張所｜2026年9月7日(月) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1p0a0tfRHFkc2xOalVueW9jQXMtN0VhTGN4ZkNPRjI3TXNER1VzQldFUkVuc0ZhZjJkWEk1NzloMndTTGpVVUNTNi03ejNyUkxjUzZWMUFfd2FEUjhUbjBpcUxuTFBzd2ZZLXhVZHVoLUVYc05TbE8tUVVwdHhmNXV5RF96VEIzSmF2ekF2Wmo?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1p0a0tfRHFkc2xOalVueW9jQXMtN0VhTGN4ZkNPRjI3TXNER1VzQldFUkVuc0ZhZjJkWEk1NzloMndTTGpVVUNTNi03ejNyUkxjUzZWMUFfd2FEUjhUbjBpcUxuTFBzd2ZZLXhVZHVoLUVYc05TbE8tUVVwdHhmNXV5RF96VEIzSmF2ekF2Wmo?oc=5\" target=\"_blank\">陸上自衛隊 富士駐屯地 16式機動戦闘車 体験型見学ツアー 豊島出張所｜2026年9月7日(月)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "title": "陸上自衛隊 第1空挺団 水上降下訓練見学ツアー 新小岩募集案内所｜2026年8月20日(木) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFJNdS0ycFNSdUlMdWlYZzhmMHRibWI3NFlRYXR6ZFY3S0J0Q1l3VExNYWd6cjVJbFJoTEVWLTRWMDYzT2Q1UkpJZFJoUU4taTY1Z0VhWm9QUUZjOHNKcjdwanl1dVliQ2hQeUdjNWxzZnhZaHFNUjlHZWlqLXRTc25PMUVxbXlIUWVNSnZGTWxRdw?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFJNdS0ycFNSdUlMdWlYZzhmMHRibWI3NFlRYXR6ZFY3S0J0Q1l3VExNYWd6cjVJbFJoTEVWLTRWMDYzT2Q1UkpJZFJoUU4taTY1Z0VhWm9QUUZjOHNKcjdwanl1dVliQ2hQeUdjNWxzZnhZaHFNUjlHZWlqLXRTc25PMUVxbXlIUWVNSnZGTWxRdw?oc=5\" target=\"_blank\">陸上自衛隊 第1空挺団 水上降下訓練見学ツアー 新小岩募集案内所｜2026年8月20日(木)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
-      "date": "2026-07-17 02:44",
+      "date": "2026-07-30 15:05",
       "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
+      "sentiment_reason": "募集・イベント等の肯定語（募集、見学）を含むため",
       "query": "東京地方協力本部"
     },
     {
@@ -100,6 +100,16 @@
       "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供 - 産経ニュース",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkejNqOGxiZDJEVVpzTkt4alRFWWJuSTVFQ3QySFpxdlNvNzl3S1dHVmhsZFBJMkNBRUw0NkJlVm1LYm15em42eHQ4U2xZTV9xUkFCaXlyaWZsakRydV9TamlpYTZQVHFXMEM5eVhGZHVUSWpuamc?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBkejNqOGxiZDJEVVpzTkt4alRFWWJuSTVFQ3QySFpxdlNvNzl3S1dHVmhsZFBJMkNBRUw0NkJlVm1LYm15em42eHQ4U2xZTV9xUkFCaXlyaWZsakRydV9TamlpYTZQVHFXMEM5eVhGZHVUSWpuamc?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-05 16:00",
+      "sentiment": "中立",
+      "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（写真・画像 2/2） - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzZRcm5VQ2NkN1B2dUVDZDJjTmd0WDdoc3hDV3Iyc2xQTUJaUXhwY1JVRWYzWHdNQU13eTg1bmsxUXdjbWJSZ0FVQk8yQmF6NTdtSkcwbkZ3ZFNsQ09fbC1jNmFpZW00aTFKcEoxRkxJeFFSdkluUlJOcDZJcHp3V2tXY3BGMGhqUFNVV1huNFBDNW8xLTIwYU5MQVo0aDVzNEE?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzZRcm5VQ2NkN1B2dUVDZDJjTmd0WDdoc3hDV3Iyc2xQTUJaUXhwY1JVRWYzWHdNQU13eTg1bmsxUXdjbWJSZ0FVQk8yQmF6NTdtSkcwbkZ3ZFNsQ09fbC1jNmFpZW00aTFKcEoxRkxJeFFSdkluUlJOcDZJcHp3V2tXY3BGMGhqUFNVV1huNFBDNW8xLTIwYU5MQVo0aDVzNEE?oc=5\" target=\"_blank\">採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（写真・画像 2/2）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-08-05 16:00",
       "sentiment": "中立",
@@ -137,6 +147,16 @@
       "query": "東京地方協力本部"
     },
     {
+      "title": "戦車を体感！陸上自衛隊 駒門駐屯地見学ツアー 江東出張所｜2026年8月25日(火) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEJiYS0xcEc2cDQ4WEEyWVNEU3NXMFRndnJQaUhkdkZmQ3FOdnRISnlvQkdyc1FaOE5kNlk0bGJTV2xRS0QwRTV0QjlVUnhmTEktUkxsM1E1V0V3U3lQTHd4c0gwM2VBeF9PMnBZMGd0Q1pfd3BZXzQ4b3d0ai1aRUhMSi1IWEJqZzBZQzRR?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEJiYS0xcEc2cDQ4WEEyWVNEU3NXMFRndnJQaUhkdkZmQ3FOdnRISnlvQkdyc1FaOE5kNlk0bGJTV2xRS0QwRTV0QjlVUnhmTEktUkxsM1E1V0V3U3lQTHd4c0gwM2VBeF9PMnBZMGd0Q1pfd3BZXzQ4b3d0ai1aRUhMSi1IWEJqZzBZQzRR?oc=5\" target=\"_blank\">戦車を体感！陸上自衛隊 駒門駐屯地見学ツアー 江東出張所｜2026年8月25日(火)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-25 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
       "title": "陸上自衛隊 立川駐屯地見学ツアー（航空機見学･体験喫食等）立川出張所｜2026年8月25日(火)･26日(水) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkZFT0hYTnQxWjVmOGlvMkJjQXg5OFNnUWVqUVYtUVRYVGUzdkFzdV80WlNuNTZNYmdpOURDUHMtcU44THVxNFp4dEZHd2J5UmFsaWE2WmtpdzhDaGhJdnFtamJGU0Y3VzM4TVNxWXB6WEVsZXhlWGNqRWtFd3VoMTB5MHJyc2NTVHUzaWZ3?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkZFT0hYTnQxWjVmOGlvMkJjQXg5OFNnUWVqUVYtUVRYVGUzdkFzdV80WlNuNTZNYmdpOURDUHMtcU44THVxNFp4dEZHd2J5UmFsaWE2WmtpdzhDaGhJdnFtamJGU0Y3VzM4TVNxWXB6WEVsZXhlWGNqRWtFd3VoMTB5MHJyc2NTVHUzaWZ3?oc=5\" target=\"_blank\">陸上自衛隊 立川駐屯地見学ツアー（航空機見学･体験喫食等）立川出張所｜2026年8月25日(火)･26日(水)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
@@ -144,16 +164,6 @@
       "date": "2026-08-25 16:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
-      "query": "東京地方協力本部"
-    },
-    {
-      "title": "戦車を体感！陸上自衛隊 駒門駐屯地見学ツアー 江東出張所｜2026年8月25日(火) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEJiYS0xcEc2cDQ4WEEyWVNEU3NXMFRndnJQaUhkdkZmQ3FOdnRISnlvQkdyc1FaOE5kNlk0bGJTV2xRS0QwRTV0QjlVUnhmTEktUkxsM1E1V0V3U3lQTHd4c0gwM2VBeF9PMnBZMGd0Q1pfd3BZXzQ4b3d0ai1aRUhMSi1IWEJqZzBZQzRR?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEJiYS0xcEc2cDQ4WEEyWVNEU3NXMFRndnJQaUhkdkZmQ3FOdnRISnlvQkdyc1FaOE5kNlk0bGJTV2xRS0QwRTV0QjlVUnhmTEktUkxsM1E1V0V3U3lQTHd4c0gwM2VBeF9PMnBZMGd0Q1pfd3BZXzQ4b3d0ai1aRUhMSi1IWEJqZzBZQzRR?oc=5\" target=\"_blank\">戦車を体感！陸上自衛隊 駒門駐屯地見学ツアー 江東出張所｜2026年8月25日(火)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-08-26 19:27",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
       "query": "東京地方協力本部"
     },
     {
@@ -184,6 +194,16 @@
       "date": "2026-09-04 23:08",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（体験）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "陸上自衛隊 富士駐屯地 16式機動戦闘車 体験型見学ツアー 豊島出張所｜2026年9月7日(月) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1p0a0tfRHFkc2xOalVueW9jQXMtN0VhTGN4ZkNPRjI3TXNER1VzQldFUkVuc0ZhZjJkWEk1NzloMndTTGpVVUNTNi03ejNyUkxjUzZWMUFfd2FEUjhUbjBpcUxuTFBzd2ZZLXhVZHVoLUVYc05TbE8tUVVwdHhmNXV5RF96VEIzSmF2ekF2Wmo?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1p0a0tfRHFkc2xOalVueW9jQXMtN0VhTGN4ZkNPRjI3TXNER1VzQldFUkVuc0ZhZjJkWEk1NzloMndTTGpVVUNTNi03ejNyUkxjUzZWMUFfd2FEUjhUbjBpcUxuTFBzd2ZZLXhVZHVoLUVYc05TbE8tUVVwdHhmNXV5RF96VEIzSmF2ekF2Wmo?oc=5\" target=\"_blank\">陸上自衛隊 富士駐屯地 16式機動戦闘車 体験型見学ツアー 豊島出張所｜2026年9月7日(月)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-09-05 21:36",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
       "query": "東京地方協力本部"
     }
   ]

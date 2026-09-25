@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24 09:07",
+  "updated": "2026-09-25 09:10",
   "summary": "直近90日間の公開情報から16件を抽出。肯定13件、中立3件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
@@ -87,9 +87,9 @@
       "query": "自衛隊 東京 募集"
     },
     {
-      "title": "氷の作り方(【公式】自衛隊東京地方協力本部のX@tokyo_pcoより) - 暑い夏、氷を長持ちさせるには……？⇒自衛隊が教える〝驚きのライフハック〟に「知らなかった！」「早速実践してみます」 - 写真・画像(1/1) - nishinippon.co.jp",
+      "title": "氷の作り方(【公式】自衛隊東京地方協力本部のX@tokyo_pcoより) - 暑い夏、氷を長持ちさせるには……？⇒自衛隊が教える〝驚きのライフハック〟に「知らなかった！」「早速実践してみます」 - 写真・画像(1/1) - 西日本新聞me",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90b3J1SWdoeTNTRzZYVGd1bkpreHl3Vkhqdkg5OEhndGJvbkdWS3kyNTdFUGNLWllFVkFoUHl6eHdQQVhubGZmR284MFFDSVgzeWhucF9udw?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE90b3J1SWdoeTNTRzZYVGd1bkpreHl3Vkhqdkg5OEhndGJvbkdWS3kyNTdFUGNLWllFVkFoUHl6eHdQQVhubGZmR284MFFDSVgzeWhucF9udw?oc=5\" target=\"_blank\">氷の作り方(【公式】自衛隊東京地方協力本部のX@tokyo_pcoより) - 暑い夏、氷を長持ちさせるには……？⇒自衛隊が教える〝驚きのライフハック〟に「知らなかった！」「早速実践してみます」 - 写真・画像(1/1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nishinippon.co.jp</font>",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE90b3J1SWdoeTNTRzZYVGd1bkpreHl3Vkhqdkg5OEhndGJvbkdWS3kyNTdFUGNLWllFVkFoUHl6eHdQQVhubGZmR284MFFDSVgzeWhucF9udw?oc=5\" target=\"_blank\">氷の作り方(【公式】自衛隊東京地方協力本部のX@tokyo_pcoより) - 暑い夏、氷を長持ちさせるには……？⇒自衛隊が教える〝驚きのライフハック〟に「知らなかった！」「早速実践してみます」 - 写真・画像(1/1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-08-18 10:24",
       "sentiment": "肯定",
@@ -147,16 +147,6 @@
       "query": "東京地方協力本部"
     },
     {
-      "title": "第13回 東京拘置所矯正展 自衛隊東京地方協力本部 広報展示ブース｜2026年9月26日(土) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUhLSkZscGU2Qy1SOWh3T1BIZC1hdEROTndMMjNabkI0MTVBTnhqc3NvNFFTUWtBVUwtZEVuc2ZockFWay0tbTZNVXdZM0ZKVWxEdHJhb2pLQ21nR1lsX3pFY0tVNE9idXlZUWpWTThQekFpWmpMNHN3VnByeDFGWERuZk9ZaWlRMk9zX01n?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUhLSkZscGU2Qy1SOWh3T1BIZC1hdEROTndMMjNabkI0MTVBTnhqc3NvNFFTUWtBVUwtZEVuc2ZockFWay0tbTZNVXdZM0ZKVWxEdHJhb2pLQ21nR1lsX3pFY0tVNE9idXlZUWpWTThQekFpWmpMNHN3VnByeDFGWERuZk9ZaWlRMk9zX01n?oc=5\" target=\"_blank\">第13回 東京拘置所矯正展 自衛隊東京地方協力本部 広報展示ブース｜2026年9月26日(土)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-09-12 03:45",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
-      "query": "東京地方協力本部"
-    },
-    {
       "title": "陸上自衛隊 宇都宮駐屯地 中央即応連隊見学ツアー 江東出張所｜2026年10月19日(月) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd0d0WDJmVmxMWjA1aTFnbUt2NkdJYWdhcW9Jb1dScE9oZ1JqY2RvYXYtbVQtZUVhU2FfdGFXUUpGZ1BBTzAxaTZNWWU0eGhIeTlCTnVFcTd2eEltSjlmZE93SXJwRmg2TlBaTkhWUUxKX1ZmTEEwOWlmQWVvSDFvTllwRzZpTlVBZm9aUU9pVDA?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPd0d0WDJmVmxMWjA1aTFnbUt2NkdJYWdhcW9Jb1dScE9oZ1JqY2RvYXYtbVQtZUVhU2FfdGFXUUpGZ1BBTzAxaTZNWWU0eGhIeTlCTnVFcTd2eEltSjlmZE93SXJwRmg2TlBaTkhWUUxKX1ZmTEEwOWlmQWVvSDFvTllwRzZpTlVBZm9aUU9pVDA?oc=5\" target=\"_blank\">陸上自衛隊 宇都宮駐屯地 中央即応連隊見学ツアー 江東出張所｜2026年10月19日(月)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
@@ -174,6 +164,16 @@
       "date": "2026-09-24 02:04",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（イベント、協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "第13回 東京拘置所矯正展 自衛隊東京地方協力本部 広報展示ブース｜2026年9月26日(土) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUhLSkZscGU2Qy1SOWh3T1BIZC1hdEROTndMMjNabkI0MTVBTnhqc3NvNFFTUWtBVUwtZEVuc2ZockFWay0tbTZNVXdZM0ZKVWxEdHJhb2pLQ21nR1lsX3pFY0tVNE9idXlZUWpWTThQekFpWmpMNHN3VnByeDFGWERuZk9ZaWlRMk9zX01n?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUhLSkZscGU2Qy1SOWh3T1BIZC1hdEROTndMMjNabkI0MTVBTnhqc3NvNFFTUWtBVUwtZEVuc2ZockFWay0tbTZNVXdZM0ZKVWxEdHJhb2pLQ21nR1lsX3pFY0tVNE9idXlZUWpWTThQekFpWmpMNHN3VnByeDFGWERuZk9ZaWlRMk9zX01n?oc=5\" target=\"_blank\">第13回 東京拘置所矯正展 自衛隊東京地方協力本部 広報展示ブース｜2026年9月26日(土)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-09-25 01:32",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
       "query": "東京地方協力本部"
     }
   ]

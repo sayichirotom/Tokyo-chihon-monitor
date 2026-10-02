@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01 09:55",
-  "summary": "直近90日間の公開情報から16件を抽出。肯定13件、中立3件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-10-02 10:12",
+  "summary": "直近90日間の公開情報から17件を抽出。肯定14件、中立3件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -161,7 +161,7 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzZ4LU1xcGxYWFJEaXdvUXNMd2N6anBDQi1DZmV0N1dsMm5kM184S2JfYlItVV9NVDZkU0wtd3lQNkpRYWcyUU1GYzdPN2FkOFVNV2NkMURzQ2pTVTZGR3QzS2l4Z1JOdDVZa1NqR2xUaEV1THJleGdEb1hwdlF2TFZUSWktNVhZY2w2ZW9Paw?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzZ4LU1xcGxYWFJEaXdvUXNMd2N6anBDQi1DZmV0N1dsMm5kM184S2JfYlItVV9NVDZkU0wtd3lQNkpRYWcyUU1GYzdPN2FkOFVNV2NkMURzQ2pTVTZGR3QzS2l4Z1JOdDVZa1NqR2xUaEV1THJleGdEb1hwdlF2TFZUSWktNVhZY2w2ZW9Paw?oc=5\" target=\"_blank\">陸上自衛隊 習志野駐屯地 第1空挺団見学ツアー 江東出張所｜2026年9月29日(火)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
-      "date": "2026-09-29 15:18",
+      "date": "2026-09-29 16:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
       "query": "東京地方協力本部"
@@ -171,9 +171,19 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOemxYc0VqZFBfZURJVmhoSGhCeERQbm9WQzlEdEhhVHFScE5UWGVRdVV3clVvUWtMdmFyalR5dFZLR1JFSHJvdkQ2eExCUEotQzJGckVMTEVaQUJaWHJCUGdCem8wSWxhMDF5a20wRktONm95NEpZaGFod2tvdV9QdGVJQUR6eGxKY3hfWFZ3?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOemxYc0VqZFBfZURJVmhoSGhCeERQbm9WQzlEdEhhVHFScE5UWGVRdVV3clVvUWtMdmFyalR5dFZLR1JFSHJvdkQ2eExCUEotQzJGckVMTEVaQUJaWHJCUGdCem8wSWxhMDF5a20wRktONm95NEpZaGFod2tvdV9QdGVJQUR6eGxKY3hfWFZ3?oc=5\" target=\"_blank\">自衛隊 ✕ 東京タワー コラボ広報イベント2026 東京地方協力本部｜2026年10月1日(木)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
-      "date": "2026-09-30 21:35",
+      "date": "2026-10-01 09:56",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（イベント、協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "海上自衛隊 潜水艦艦内見学＆体験喫食 in 横須賀基地 江東出張所｜2026年11月20日(金) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFlGQ0JpUWEtWFZiMy14ZGhHU1R5NjVyVGxONFdxd3hZS2hnZEVkNW4yOHNVdEJCV0RTOGtYQVBDZklwZGdOZVh4RV82OWtxaWtOUFdYelpXTV8zNmtCUzFSTzBGUjU4TmlacG1reDZfS21SWnlLN2t3Z3ZSQ0hpWW1wSExUWkV4TldjU1lR?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFlGQ0JpUWEtWFZiMy14ZGhHU1R5NjVyVGxONFdxd3hZS2hnZEVkNW4yOHNVdEJCV0RTOGtYQVBDZklwZGdOZVh4RV82OWtxaWtOUFdYelpXTV8zNmtCUzFSTzBGUjU4TmlacG1reDZfS21SWnlLN2t3Z3ZSQ0hpWW1wSExUWkV4TldjU1lR?oc=5\" target=\"_blank\">海上自衛隊 潜水艦艦内見学＆体験喫食 in 横須賀基地 江東出張所｜2026年11月20日(金)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-10-01 21:44",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
       "query": "東京地方協力本部"
     }
   ]

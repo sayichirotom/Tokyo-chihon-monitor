@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 10:12",
+  "updated": "2026-10-03 09:49",
   "summary": "直近90日間の公開情報から17件を抽出。肯定14件、中立3件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
@@ -171,7 +171,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOemxYc0VqZFBfZURJVmhoSGhCeERQbm9WQzlEdEhhVHFScE5UWGVRdVV3clVvUWtMdmFyalR5dFZLR1JFSHJvdkQ2eExCUEotQzJGckVMTEVaQUJaWHJCUGdCem8wSWxhMDF5a20wRktONm95NEpZaGFod2tvdV9QdGVJQUR6eGxKY3hfWFZ3?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOemxYc0VqZFBfZURJVmhoSGhCeERQbm9WQzlEdEhhVHFScE5UWGVRdVV3clVvUWtMdmFyalR5dFZLR1JFSHJvdkQ2eExCUEotQzJGckVMTEVaQUJaWHJCUGdCem8wSWxhMDF5a20wRktONm95NEpZaGFod2tvdV9QdGVJQUR6eGxKY3hfWFZ3?oc=5\" target=\"_blank\">自衛隊 ✕ 東京タワー コラボ広報イベント2026 東京地方協力本部｜2026年10月1日(木)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
-      "date": "2026-10-01 09:56",
+      "date": "2026-10-01 16:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（イベント、協力）を含むため",
       "query": "東京地方協力本部"

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09 10:34",
-  "summary": "直近90日間の公開情報から15件を抽出。肯定12件、中立3件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-10-10 10:24",
+  "summary": "直近90日間の公開情報から16件を抽出。肯定13件、中立3件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -165,6 +165,16 @@
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
       "query": "東京地方協力本部"
+    },
+    {
+      "title": "【公式】自衛隊東京地方協力本部 - Howl.Link",
+      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE81ZzI2bnRJM0FEVHBUY3hOWXhFTGtFZXA0aDRUcDZyM0ZKRVR5UENtRGF2OVljYThkalpB?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE81ZzI2bnRJM0FEVHBUY3hOWXhFTGtFZXA0aDRUcDZyM0ZKRVR5UENtRGF2OVljYThkalpB?oc=5\" target=\"_blank\">【公式】自衛隊東京地方協力本部</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Howl.Link</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-10-09 18:11",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地本 自衛隊"
     }
   ]
 }

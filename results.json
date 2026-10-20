@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19 08:48",
-  "summary": "直近90日間の公開情報から17件を抽出。肯定14件、中立3件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-10-20 09:49",
+  "summary": "直近90日間の公開情報から19件を抽出。肯定15件、中立4件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -75,6 +75,16 @@
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（募集）を含むため",
       "query": "自衛隊 東京 募集"
+    },
+    {
+      "title": "氷の作り方(【公式】自衛隊東京地方協力本部のX@tokyo_pcoより) - 暑い夏、氷を長持ちさせるには……？⇒自衛隊が教える〝驚きのライフハック〟に「知らなかった！」「早速実践してみます」 - 写真・画像(1/1) - 西日本新聞me",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90b3J1SWdoeTNTRzZYVGd1bkpreHl3Vkhqdkg5OEhndGJvbkdWS3kyNTdFUGNLWllFVkFoUHl6eHdQQVhubGZmR284MFFDSVgzeWhucF9udw?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE90b3J1SWdoeTNTRzZYVGd1bkpreHl3Vkhqdkg5OEhndGJvbkdWS3kyNTdFUGNLWllFVkFoUHl6eHdQQVhubGZmR284MFFDSVgzeWhucF9udw?oc=5\" target=\"_blank\">氷の作り方(【公式】自衛隊東京地方協力本部のX@tokyo_pcoより) - 暑い夏、氷を長持ちさせるには……？⇒自衛隊が教える〝驚きのライフハック〟に「知らなかった！」「早速実践してみます」 - 写真・画像(1/1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-18 10:24",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地方協力本部"
     },
     {
       "title": "戦車を体感！陸上自衛隊 駒門駐屯地見学ツアー 江東出張所｜2026年8月25日(火) - 陸自調査団",
@@ -157,16 +167,6 @@
       "query": "東京地方協力本部"
     },
     {
-      "title": "ネクタイの〝爆速〟結び方(自衛隊東京地方協力本部のX@tokyo_pcoより) - 「ネクタイも結び方忘れてない？」自衛隊公式が〝爆速〟の方法を披露 ⇒ 見てみると……「すげぇぇぇぇぇ！！」 - 写真・画像(1/1) - 西日本新聞me",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zTGI3QWtNejZ2aWJHczllV1ZRcW40TGdHb1kwNjduZ1NfeVdtb083bnNEb290bDZfXzgtNDRHek5KYVg2R1JOSjNoaU9CRFhmRHRNdG4wVQ?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zTGI3QWtNejZ2aWJHczllV1ZRcW40TGdHb1kwNjduZ1NfeVdtb083bnNEb290bDZfXzgtNDRHek5KYVg2R1JOSjNoaU9CRFhmRHRNdG4wVQ?oc=5\" target=\"_blank\">ネクタイの〝爆速〟結び方(自衛隊東京地方協力本部のX@tokyo_pcoより) - 「ネクタイも結び方忘れてない？」自衛隊公式が〝爆速〟の方法を披露 ⇒ 見てみると……「すげぇぇぇぇぇ！！」 - 写真・画像(1/1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-10-15 00:49",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
-      "query": "東京地方協力本部"
-    },
-    {
       "title": "航空自衛隊 百里基地見学ツアー（航空機見学･体験喫食等）新小岩募集案内所｜2026年12月14日(月) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXI5RDJ3ZG9MbEtXWWxWN0tCbDFOVTdrSjdNMS1WOHVmeXRuWVZCTGpzUFUySWFmc1B4TnBob3BQVjRTdm1yQmRYUEE3UUU3dWEyNkE4U0gxZXRGSU5PRWRBcW5IeUNuTlpBcEVlT0xEVUJxRU9PejZLc0lyWU5aRE5uS1JYUERqcWlkSGFuQVo?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXI5RDJ3ZG9MbEtXWWxWN0tCbDFOVTdrSjdNMS1WOHVmeXRuWVZCTGpzUFUySWFmc1B4TnBob3BQVjRTdm1yQmRYUEE3UUU3dWEyNkE4U0gxZXRGSU5PRWRBcW5IeUNuTlpBcEVlT0xEVUJxRU9PejZLc0lyWU5aRE5uS1JYUERqcWlkSGFuQVo?oc=5\" target=\"_blank\">航空自衛隊 百里基地見学ツアー（航空機見学･体験喫食等）新小岩募集案内所｜2026年12月14日(月)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
@@ -184,6 +184,26 @@
       "date": "2026-10-16 02:10",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（イベント、協力、体験）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "ネクタイの〝爆速〟結び方(自衛隊東京地方協力本部のX@tokyo_pcoより) - 「ネクタイも結び方忘れてない？」自衛隊公式が〝爆速〟の方法を披露 ⇒ 見てみると……「すげぇぇぇぇぇ！！」 - 写真・画像(1/1) - 西日本新聞me",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zTGI3QWtNejZ2aWJHczllV1ZRcW40TGdHb1kwNjduZ1NfeVdtb083bnNEb290bDZfXzgtNDRHek5KYVg2R1JOSjNoaU9CRFhmRHRNdG4wVQ?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zTGI3QWtNejZ2aWJHczllV1ZRcW40TGdHb1kwNjduZ1NfeVdtb083bnNEb290bDZfXzgtNDRHek5KYVg2R1JOSjNoaU9CRFhmRHRNdG4wVQ?oc=5\" target=\"_blank\">ネクタイの〝爆速〟結び方(自衛隊東京地方協力本部のX@tokyo_pcoより) - 「ネクタイも結び方忘れてない？」自衛隊公式が〝爆速〟の方法を披露 ⇒ 見てみると……「すげぇぇぇぇぇ！！」 - 写真・画像(1/1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-10-17 16:36",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "「お台場BOUSAIDAY2026」大人だって自衛隊を楽しみたい！｜東京地本 - 防衛日報デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5saURQX3o1NGtpSXUzOWJobURUZW4tRE5Xd2xhOC1JWU8wYmQ4eGJCVE5BTkIxSjRtVk9EdmVTQ3pnWFJzNmZXT1YzcUpTV1JaMDhFVlRnY1hBQQ?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5saURQX3o1NGtpSXUzOWJobURUZW4tRE5Xd2xhOC1JWU8wYmQ4eGJCVE5BTkIxSjRtVk9EdmVTQ3pnWFJzNmZXT1YzcUpTV1JaMDhFVlRnY1hBQQ?oc=5\" target=\"_blank\">「お台場BOUSAIDAY2026」大人だって自衛隊を楽しみたい！｜東京地本</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">防衛日報デジタル</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-10-20 00:02",
+      "sentiment": "中立",
+      "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
       "query": "東京地方協力本部"
     }
   ]

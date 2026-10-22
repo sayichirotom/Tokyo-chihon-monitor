@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 09:14",
+  "updated": "2026-10-22 09:19",
   "summary": "直近90日間の公開情報から19件を抽出。肯定15件、中立4件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
@@ -75,16 +75,6 @@
       "sentiment": "中立",
       "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
       "query": "東京地本 自衛隊"
-    },
-    {
-      "title": "自衛隊サマーフェア2026 in イオンモール日の出 福生募集案内所｜2026年8月5日(水) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWhKbUduY2hCVmY5TFlTMnlOQVlaU3F4UjF6QUdOWXhpNUJLaTlkU2tCX3A2ZkhSWDhvSmRKRTl5LTNzeFFpalBGMGVrNUNJalFWd3lTUmZfamxkWE9tMkZlOU9LSGJyVUlYVDR2YWhzMmY5OHhabEpkeXR6Q3ZOY0FxRURVdjZJ?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWhKbUduY2hCVmY5TFlTMnlOQVlaU3F4UjF6QUdOWXhpNUJLaTlkU2tCX3A2ZkhSWDhvSmRKRTl5LTNzeFFpalBGMGVrNUNJalFWd3lTUmZfamxkWE9tMkZlOU9LSGJyVUlYVDR2YWhzMmY5OHhabEpkeXR6Q3ZOY0FxRURVdjZJ?oc=5\" target=\"_blank\">自衛隊サマーフェア2026 in イオンモール日の出 福生募集案内所｜2026年8月5日(水)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-08-05 16:00",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（募集）を含むため",
-      "query": "自衛隊 東京 募集"
     },
     {
       "title": "氷の作り方(【公式】自衛隊東京地方協力本部のX@tokyo_pcoより) - 暑い夏、氷を長持ちさせるには……？⇒自衛隊が教える〝驚きのライフハック〟に「知らなかった！」「早速実践してみます」 - 写真・画像(1/1) - 西日本新聞me",
@@ -204,6 +194,16 @@
       "date": "2026-10-20 00:02",
       "sentiment": "中立",
       "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "令和8年度 百里基地航空祭 事前予行訓練見学ツアー 江東出張所｜2026年12月5日(土) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjNBWnI4UlJOejBleGNVaURVeUIxYTBDNDQyT3lhYjQ2MWZSTllrS2MyU3E3WEpZMWstVWlyNWY3dG95WG53eHNlcS15cVNIZ04yZXB2M3NhRFFHZ3VCRnRvTWxZcjZZZ3JDdEV2NGxXUFEwRmRmYnBQWnlQN3Y4c29VNENhQlp2WFZVTThmdHZKNEVE?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjNBWnI4UlJOejBleGNVaURVeUIxYTBDNDQyT3lhYjQ2MWZSTllrS2MyU3E3WEpZMWstVWlyNWY3dG95WG53eHNlcS15cVNIZ04yZXB2M3NhRFFHZ3VCRnRvTWxZcjZZZ3JDdEV2NGxXUFEwRmRmYnBQWnlQN3Y4c29VNENhQlp2WFZVTThmdHZKNEVE?oc=5\" target=\"_blank\">令和8年度 百里基地航空祭 事前予行訓練見学ツアー 江東出張所｜2026年12月5日(土)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-10-22 00:58",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
       "query": "東京地方協力本部"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22 09:19",
-  "summary": "直近90日間の公開情報から19件を抽出。肯定15件、中立4件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-10-23 09:15",
+  "summary": "直近90日間の公開情報から20件を抽出。肯定16件、中立4件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -75,6 +75,16 @@
       "sentiment": "中立",
       "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
       "query": "東京地本 自衛隊"
+    },
+    {
+      "title": "自衛隊サマーフェア2026 in イオンモール日の出 福生募集案内所｜2026年8月5日(水) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWhKbUduY2hCVmY5TFlTMnlOQVlaU3F4UjF6QUdOWXhpNUJLaTlkU2tCX3A2ZkhSWDhvSmRKRTl5LTNzeFFpalBGMGVrNUNJalFWd3lTUmZfamxkWE9tMkZlOU9LSGJyVUlYVDR2YWhzMmY5OHhabEpkeXR6Q3ZOY0FxRURVdjZJ?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWhKbUduY2hCVmY5TFlTMnlOQVlaU3F4UjF6QUdOWXhpNUJLaTlkU2tCX3A2ZkhSWDhvSmRKRTl5LTNzeFFpalBGMGVrNUNJalFWd3lTUmZfamxkWE9tMkZlOU9LSGJyVUlYVDR2YWhzMmY5OHhabEpkeXR6Q3ZOY0FxRURVdjZJ?oc=5\" target=\"_blank\">自衛隊サマーフェア2026 in イオンモール日の出 福生募集案内所｜2026年8月5日(水)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-05 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（募集）を含むため",
+      "query": "自衛隊 東京 募集"
     },
     {
       "title": "氷の作り方(【公式】自衛隊東京地方協力本部のX@tokyo_pcoより) - 暑い夏、氷を長持ちさせるには……？⇒自衛隊が教える〝驚きのライフハック〟に「知らなかった！」「早速実践してみます」 - 写真・画像(1/1) - 西日本新聞me",

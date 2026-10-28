@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27 10:00",
-  "summary": "直近90日間の公開情報から12件を抽出。肯定9件、中立3件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-10-28 09:49",
+  "summary": "直近90日間の公開情報から19件を抽出。肯定16件、中立3件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -54,7 +54,7 @@
       "date": "2026-08-05 16:00",
       "sentiment": "中立",
       "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
-      "query": "東京地本 自衛隊"
+      "query": "東京地方協力本部"
     },
     {
       "title": "採用活動で警視庁と自衛隊東京地本が協定 任期付き自衛官に警視庁採用情報を提供（写真・画像 2/2） - 産経ニュース",
@@ -64,7 +64,37 @@
       "date": "2026-08-05 16:00",
       "sentiment": "中立",
       "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
-      "query": "東京地本 自衛隊"
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "自衛隊サマーフェア2026 in イオンモール日の出 福生募集案内所｜2026年8月5日(水) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWhKbUduY2hCVmY5TFlTMnlOQVlaU3F4UjF6QUdOWXhpNUJLaTlkU2tCX3A2ZkhSWDhvSmRKRTl5LTNzeFFpalBGMGVrNUNJalFWd3lTUmZfamxkWE9tMkZlOU9LSGJyVUlYVDR2YWhzMmY5OHhabEpkeXR6Q3ZOY0FxRURVdjZJ?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWhKbUduY2hCVmY5TFlTMnlOQVlaU3F4UjF6QUdOWXhpNUJLaTlkU2tCX3A2ZkhSWDhvSmRKRTl5LTNzeFFpalBGMGVrNUNJalFWd3lTUmZfamxkWE9tMkZlOU9LSGJyVUlYVDR2YWhzMmY5OHhabEpkeXR6Q3ZOY0FxRURVdjZJ?oc=5\" target=\"_blank\">自衛隊サマーフェア2026 in イオンモール日の出 福生募集案内所｜2026年8月5日(水)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-05 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（募集）を含むため",
+      "query": "自衛隊 東京 募集"
+    },
+    {
+      "title": "氷の作り方(【公式】自衛隊東京地方協力本部のX@tokyo_pcoより) - 暑い夏、氷を長持ちさせるには……？⇒自衛隊が教える〝驚きのライフハック〟に「知らなかった！」「早速実践してみます」 - 写真・画像(1/1) - 西日本新聞me",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90b3J1SWdoeTNTRzZYVGd1bkpreHl3Vkhqdkg5OEhndGJvbkdWS3kyNTdFUGNLWllFVkFoUHl6eHdQQVhubGZmR284MFFDSVgzeWhucF9udw?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE90b3J1SWdoeTNTRzZYVGd1bkpreHl3Vkhqdkg5OEhndGJvbkdWS3kyNTdFUGNLWllFVkFoUHl6eHdQQVhubGZmR284MFFDSVgzeWhucF9udw?oc=5\" target=\"_blank\">氷の作り方(【公式】自衛隊東京地方協力本部のX@tokyo_pcoより) - 暑い夏、氷を長持ちさせるには……？⇒自衛隊が教える〝驚きのライフハック〟に「知らなかった！」「早速実践してみます」 - 写真・画像(1/1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-18 10:24",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "戦車を体感！陸上自衛隊 駒門駐屯地見学ツアー 江東出張所｜2026年8月25日(火) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEJiYS0xcEc2cDQ4WEEyWVNEU3NXMFRndnJQaUhkdkZmQ3FOdnRISnlvQkdyc1FaOE5kNlk0bGJTV2xRS0QwRTV0QjlVUnhmTEktUkxsM1E1V0V3U3lQTHd4c0gwM2VBeF9PMnBZMGd0Q1pfd3BZXzQ4b3d0ai1aRUhMSi1IWEJqZzBZQzRR?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEJiYS0xcEc2cDQ4WEEyWVNEU3NXMFRndnJQaUhkdkZmQ3FOdnRISnlvQkdyc1FaOE5kNlk0bGJTV2xRS0QwRTV0QjlVUnhmTEktUkxsM1E1V0V3U3lQTHd4c0gwM2VBeF9PMnBZMGd0Q1pfd3BZXzQ4b3d0ai1aRUhMSi1IWEJqZzBZQzRR?oc=5\" target=\"_blank\">戦車を体感！陸上自衛隊 駒門駐屯地見学ツアー 江東出張所｜2026年8月25日(火)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-25 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
+      "query": "東京地方協力本部"
     },
     {
       "title": "自衛隊体験フェア2026summer in ひばりが丘PARCO 西東京地域事務所｜2026年9月5日(土) - 陸自調査団",
@@ -77,6 +107,16 @@
       "query": "東京地方協力本部"
     },
     {
+      "title": "第13回 東京拘置所矯正展 自衛隊東京地方協力本部 広報展示ブース｜2026年9月26日(土) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUhLSkZscGU2Qy1SOWh3T1BIZC1hdEROTndMMjNabkI0MTVBTnhqc3NvNFFTUWtBVUwtZEVuc2ZockFWay0tbTZNVXdZM0ZKVWxEdHJhb2pLQ21nR1lsX3pFY0tVNE9idXlZUWpWTThQekFpWmpMNHN3VnByeDFGWERuZk9ZaWlRMk9zX01n?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUhLSkZscGU2Qy1SOWh3T1BIZC1hdEROTndMMjNabkI0MTVBTnhqc3NvNFFTUWtBVUwtZEVuc2ZockFWay0tbTZNVXdZM0ZKVWxEdHJhb2pLQ21nR1lsX3pFY0tVNE9idXlZUWpWTThQekFpWmpMNHN3VnByeDFGWERuZk9ZaWlRMk9zX01n?oc=5\" target=\"_blank\">第13回 東京拘置所矯正展 自衛隊東京地方協力本部 広報展示ブース｜2026年9月26日(土)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-09-26 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
       "title": "陸上自衛隊 習志野駐屯地 第1空挺団見学ツアー 江東出張所｜2026年9月29日(火) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzZ4LU1xcGxYWFJEaXdvUXNMd2N6anBDQi1DZmV0N1dsMm5kM184S2JfYlItVV9NVDZkU0wtd3lQNkpRYWcyUU1GYzdPN2FkOFVNV2NkMURzQ2pTVTZGR3QzS2l4Z1JOdDVZa1NqR2xUaEV1THJleGdEb1hwdlF2TFZUSWktNVhZY2w2ZW9Paw?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzZ4LU1xcGxYWFJEaXdvUXNMd2N6anBDQi1DZmV0N1dsMm5kM184S2JfYlItVV9NVDZkU0wtd3lQNkpRYWcyUU1GYzdPN2FkOFVNV2NkMURzQ2pTVTZGR3QzS2l4Z1JOdDVZa1NqR2xUaEV1THJleGdEb1hwdlF2TFZUSWktNVhZY2w2ZW9Paw?oc=5\" target=\"_blank\">陸上自衛隊 習志野駐屯地 第1空挺団見学ツアー 江東出張所｜2026年9月29日(火)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
@@ -84,7 +124,7 @@
       "date": "2026-09-29 16:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
-      "query": "東京地本 自衛隊"
+      "query": "東京地方協力本部"
     },
     {
       "title": "自衛隊 ✕ 東京タワー コラボ広報イベント2026 東京地方協力本部｜2026年10月1日(木) - 陸自調査団",
@@ -97,6 +137,16 @@
       "query": "東京地方協力本部"
     },
     {
+      "title": "海上自衛隊 潜水艦艦内見学＆体験喫食 in 横須賀基地 江東出張所｜2026年11月20日(金) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFlGQ0JpUWEtWFZiMy14ZGhHU1R5NjVyVGxONFdxd3hZS2hnZEVkNW4yOHNVdEJCV0RTOGtYQVBDZklwZGdOZVh4RV82OWtxaWtOUFdYelpXTV8zNmtCUzFSTzBGUjU4TmlacG1reDZfS21SWnlLN2t3Z3ZSQ0hpWW1wSExUWkV4TldjU1lR?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFlGQ0JpUWEtWFZiMy14ZGhHU1R5NjVyVGxONFdxd3hZS2hnZEVkNW4yOHNVdEJCV0RTOGtYQVBDZklwZGdOZVh4RV82OWtxaWtOUFdYelpXTV8zNmtCUzFSTzBGUjU4TmlacG1reDZfS21SWnlLN2t3Z3ZSQ0hpWW1wSExUWkV4TldjU1lR?oc=5\" target=\"_blank\">海上自衛隊 潜水艦艦内見学＆体験喫食 in 横須賀基地 江東出張所｜2026年11月20日(金)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-10-01 21:44",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
       "title": "航空自衛隊 百里基地見学ツアー（航空機見学･体験喫食等）新小岩募集案内所｜2026年12月14日(月) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXI5RDJ3ZG9MbEtXWWxWN0tCbDFOVTdrSjdNMS1WOHVmeXRuWVZCTGpzUFUySWFmc1B4TnBob3BQVjRTdm1yQmRYUEE3UUU3dWEyNkE4U0gxZXRGSU5PRWRBcW5IeUNuTlpBcEVlT0xEVUJxRU9PejZLc0lyWU5aRE5uS1JYUERqcWlkSGFuQVo?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXI5RDJ3ZG9MbEtXWWxWN0tCbDFOVTdrSjdNMS1WOHVmeXRuWVZCTGpzUFUySWFmc1B4TnBob3BQVjRTdm1yQmRYUEE3UUU3dWEyNkE4U0gxZXRGSU5PRWRBcW5IeUNuTlpBcEVlT0xEVUJxRU9PejZLc0lyWU5aRE5uS1JYUERqcWlkSGFuQVo?oc=5\" target=\"_blank\">航空自衛隊 百里基地見学ツアー（航空機見学･体験喫食等）新小岩募集案内所｜2026年12月14日(月)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
@@ -104,7 +154,7 @@
       "date": "2026-10-15 08:03",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（募集、見学、体験）を含むため",
-      "query": "自衛隊 東京 募集"
+      "query": "東京地方協力本部"
     },
     {
       "title": "自衛官体験イベント2026 in ヨドバシカメラ吉祥寺 東京地方協力本部｜2026年11月7日(土)･8日(日) - 陸自調査団",
@@ -117,6 +167,16 @@
       "query": "東京地方協力本部"
     },
     {
+      "title": "ネクタイの〝爆速〟結び方(自衛隊東京地方協力本部のX@tokyo_pcoより) - 「ネクタイも結び方忘れてない？」自衛隊公式が〝爆速〟の方法を披露 ⇒ 見てみると……「すげぇぇぇぇぇ！！」 - 写真・画像(1/1) - 西日本新聞me",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zTGI3QWtNejZ2aWJHczllV1ZRcW40TGdHb1kwNjduZ1NfeVdtb083bnNEb290bDZfXzgtNDRHek5KYVg2R1JOSjNoaU9CRFhmRHRNdG4wVQ?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zTGI3QWtNejZ2aWJHczllV1ZRcW40TGdHb1kwNjduZ1NfeVdtb083bnNEb290bDZfXzgtNDRHek5KYVg2R1JOSjNoaU9CRFhmRHRNdG4wVQ?oc=5\" target=\"_blank\">ネクタイの〝爆速〟結び方(自衛隊東京地方協力本部のX@tokyo_pcoより) - 「ネクタイも結び方忘れてない？」自衛隊公式が〝爆速〟の方法を披露 ⇒ 見てみると……「すげぇぇぇぇぇ！！」 - 写真・画像(1/1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-10-17 16:36",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
       "title": "「お台場BOUSAIDAY2026」大人だって自衛隊を楽しみたい！｜東京地本 - 防衛日報デジタル",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5saURQX3o1NGtpSXUzOWJobURUZW4tRE5Xd2xhOC1JWU8wYmQ4eGJCVE5BTkIxSjRtVk9EdmVTQ3pnWFJzNmZXT1YzcUpTV1JaMDhFVlRnY1hBQQ?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5saURQX3o1NGtpSXUzOWJobURUZW4tRE5Xd2xhOC1JWU8wYmQ4eGJCVE5BTkIxSjRtVk9EdmVTQ3pnWFJzNmZXT1YzcUpTV1JaMDhFVlRnY1hBQQ?oc=5\" target=\"_blank\">「お台場BOUSAIDAY2026」大人だって自衛隊を楽しみたい！｜東京地本</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">防衛日報デジタル</font>",
@@ -124,7 +184,17 @@
       "date": "2026-10-20 00:02",
       "sentiment": "中立",
       "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
-      "query": "東京地本 自衛隊"
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "令和8年度 百里基地航空祭 事前予行訓練見学ツアー 江東出張所｜2026年12月5日(土) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjNBWnI4UlJOejBleGNVaURVeUIxYTBDNDQyT3lhYjQ2MWZSTllrS2MyU3E3WEpZMWstVWlyNWY3dG95WG53eHNlcS15cVNIZ04yZXB2M3NhRFFHZ3VCRnRvTWxZcjZZZ3JDdEV2NGxXUFEwRmRmYnBQWnlQN3Y4c29VNENhQlp2WFZVTThmdHZKNEVE?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjNBWnI4UlJOejBleGNVaURVeUIxYTBDNDQyT3lhYjQ2MWZSTllrS2MyU3E3WEpZMWstVWlyNWY3dG95WG53eHNlcS15cVNIZ04yZXB2M3NhRFFHZ3VCRnRvTWxZcjZZZ3JDdEV2NGxXUFEwRmRmYnBQWnlQN3Y4c29VNENhQlp2WFZVTThmdHZKNEVE?oc=5\" target=\"_blank\">令和8年度 百里基地航空祭 事前予行訓練見学ツアー 江東出張所｜2026年12月5日(土)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-10-22 00:58",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
+      "query": "東京地方協力本部"
     },
     {
       "title": "【画像】自衛隊東京地本が紹介したネクタイを爆速で結ぶ時短テクに反響 - ライブドアニュース",
@@ -134,7 +204,7 @@
       "date": "2026-10-26 10:10",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（紹介）を含むため",
-      "query": "東京地方協力本部"
+      "query": "東京地本 採用"
     }
   ]
 }

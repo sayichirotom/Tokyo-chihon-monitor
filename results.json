@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30 10:26",
-  "summary": "直近90日間の公開情報から14件を抽出。肯定11件、中立3件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-10-31 10:15",
+  "summary": "直近90日間の公開情報から12件を抽出。肯定9件、中立3件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -45,16 +45,6 @@
       "sentiment": "中立",
       "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
       "query": "東京地本 自衛隊"
-    },
-    {
-      "title": "自衛隊サマーフェア2026 in イオンモール日の出 福生募集案内所｜2026年8月5日(水) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWhKbUduY2hCVmY5TFlTMnlOQVlaU3F4UjF6QUdOWXhpNUJLaTlkU2tCX3A2ZkhSWDhvSmRKRTl5LTNzeFFpalBGMGVrNUNJalFWd3lTUmZfamxkWE9tMkZlOU9LSGJyVUlYVDR2YWhzMmY5OHhabEpkeXR6Q3ZOY0FxRURVdjZJ?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWhKbUduY2hCVmY5TFlTMnlOQVlaU3F4UjF6QUdOWXhpNUJLaTlkU2tCX3A2ZkhSWDhvSmRKRTl5LTNzeFFpalBGMGVrNUNJalFWd3lTUmZfamxkWE9tMkZlOU9LSGJyVUlYVDR2YWhzMmY5OHhabEpkeXR6Q3ZOY0FxRURVdjZJ?oc=5\" target=\"_blank\">自衛隊サマーフェア2026 in イオンモール日の出 福生募集案内所｜2026年8月5日(水)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-08-05 16:00",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（募集）を含むため",
-      "query": "自衛隊 東京 募集"
     },
     {
       "title": "航空自衛隊 入間基地見学ツアー（航空機見学･空上げ試食等）西東京地域事務所｜2026年8月28日(金) - 陸自調査団",
@@ -137,19 +127,9 @@
       "query": "東京地本 自衛隊"
     },
     {
-      "title": "令和8年度 百里基地航空祭 事前予行訓練見学ツアー 江東出張所｜2026年12月5日(土) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjNBWnI4UlJOejBleGNVaURVeUIxYTBDNDQyT3lhYjQ2MWZSTllrS2MyU3E3WEpZMWstVWlyNWY3dG95WG53eHNlcS15cVNIZ04yZXB2M3NhRFFHZ3VCRnRvTWxZcjZZZ3JDdEV2NGxXUFEwRmRmYnBQWnlQN3Y4c29VNENhQlp2WFZVTThmdHZKNEVE?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjNBWnI4UlJOejBleGNVaURVeUIxYTBDNDQyT3lhYjQ2MWZSTllrS2MyU3E3WEpZMWstVWlyNWY3dG95WG53eHNlcS15cVNIZ04yZXB2M3NhRFFHZ3VCRnRvTWxZcjZZZ3JDdEV2NGxXUFEwRmRmYnBQWnlQN3Y4c29VNENhQlp2WFZVTThmdHZKNEVE?oc=5\" target=\"_blank\">令和8年度 百里基地航空祭 事前予行訓練見学ツアー 江東出張所｜2026年12月5日(土)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-10-22 00:58",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
-      "query": "東京地方協力本部"
-    },
-    {
-      "title": "【画像】自衛隊東京地本が紹介したネクタイを爆速で結ぶ時短テクに反響 - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4LVJCLUpaRlZLR0x6QUwtaGFoLTNRQW16WngyQmNwOGllSEFhQ2Z0SzIzbHhRYy03WHU3eGVURkF1VkxwRHhWQWFTMks0Y1BObVpsbUl6MnJFWE82Sm5KeVZ2YXhDSWllNUJoeHY1SXB4dmtYaVU0Z1NDNXo?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA4LVJCLUpaRlZLR0x6QUwtaGFoLTNRQW16WngyQmNwOGllSEFhQ2Z0SzIzbHhRYy03WHU3eGVURkF1VkxwRHhWQWFTMks0Y1BObVpsbUl6MnJFWE82Sm5KeVZ2YXhDSWllNUJoeHY1SXB4dmtYaVU0Z1NDNXo?oc=5\" target=\"_blank\">【画像】自衛隊東京地本が紹介したネクタイを爆速で結ぶ時短テクに反響</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
+      "title": "自衛隊東京地本が紹介したネクタイを爆速で結ぶ時短テクに反響 (2026年10月26日掲載) - ライブドアニュース",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aNmNBTndYTXlJMjdtZVM4QVZFUVN3ak5NaXJXMVlRX1duYmIxTm5tc3I1eEk5OVlmSGJzRElnUDFib0JiWEgxeG03U1k3RjU4cHNHTmI1V0NidHROZEE?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aNmNBTndYTXlJMjdtZVM4QVZFUVN3ak5NaXJXMVlRX1duYmIxTm5tc3I1eEk5OVlmSGJzRElnUDFib0JiWEgxeG03U1k3RjU4cHNHTmI1V0NidHROZEE?oc=5\" target=\"_blank\">自衛隊東京地本が紹介したネクタイを爆速で結ぶ時短テクに反響 (2026年10月26日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
       "source": "GoogleニュースRSS",
       "date": "2026-10-26 06:20",
       "sentiment": "肯定",

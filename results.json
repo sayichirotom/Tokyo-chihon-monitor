@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31 10:15",
-  "summary": "直近90日間の公開情報から12件を抽出。肯定9件、中立3件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-11-01 09:33",
+  "summary": "直近90日間の公開情報から11件を抽出。肯定8件、中立3件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -124,16 +124,6 @@
       "date": "2026-10-20 00:02",
       "sentiment": "中立",
       "sentiment_reason": "肯定語・否定語が明確でなく、事実紹介中心のため",
-      "query": "東京地本 自衛隊"
-    },
-    {
-      "title": "自衛隊東京地本が紹介したネクタイを爆速で結ぶ時短テクに反響 (2026年10月26日掲載) - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aNmNBTndYTXlJMjdtZVM4QVZFUVN3ak5NaXJXMVlRX1duYmIxTm5tc3I1eEk5OVlmSGJzRElnUDFib0JiWEgxeG03U1k3RjU4cHNHTmI1V0NidHROZEE?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aNmNBTndYTXlJMjdtZVM4QVZFUVN3ak5NaXJXMVlRX1duYmIxTm5tc3I1eEk5OVlmSGJzRElnUDFib0JiWEgxeG03U1k3RjU4cHNHTmI1V0NidHROZEE?oc=5\" target=\"_blank\">自衛隊東京地本が紹介したネクタイを爆速で結ぶ時短テクに反響 (2026年10月26日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-10-26 06:20",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（紹介）を含むため",
       "query": "東京地本 自衛隊"
     }
   ]

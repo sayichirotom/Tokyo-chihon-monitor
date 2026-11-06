@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05 10:53",
-  "summary": "直近90日間の公開情報から9件を抽出。肯定9件、中立0件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-11-06 10:55",
+  "summary": "直近90日間の公開情報から10件を抽出。肯定10件、中立0件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -67,16 +67,6 @@
       "query": "東京地方協力本部"
     },
     {
-      "title": "自衛官体験イベント2026 in ヨドバシカメラ吉祥寺 東京地方協力本部｜2026年11月7日(土)･8日(日) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHNuUHZHblNhWjRERndQcmdSTVlHNXZoX0o1SEd1RG5QV3NFVnBfVFFaS3VUUzdPOElSTjQ4aWY3MGp3cl90VHQ3SEJ3eXYzbURuSUljYmhkRkFaS1NyRGlIZkYyN1lESFpsM2otbi1XdUwyR0NkSkpYaHExeDY1QWhtXzRCcWZNY0tvWnhJUXFYN3FIRmRLYnlHbw?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHNuUHZHblNhWjRERndQcmdSTVlHNXZoX0o1SEd1RG5QV3NFVnBfVFFaS3VUUzdPOElSTjQ4aWY3MGp3cl90VHQ3SEJ3eXYzbURuSUljYmhkRkFaS1NyRGlIZkYyN1lESFpsM2otbi1XdUwyR0NkSkpYaHExeDY1QWhtXzRCcWZNY0tvWnhJUXFYN3FIRmRLYnlHbw?oc=5\" target=\"_blank\">自衛官体験イベント2026 in ヨドバシカメラ吉祥寺 東京地方協力本部｜2026年11月7日(土)･8日(日)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-10-16 02:10",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（イベント、協力、体験）を含むため",
-      "query": "東京地方協力本部"
-    },
-    {
       "title": "令和8年度 百里基地航空祭 事前予行訓練見学ツアー 江東出張所｜2026年12月5日(土) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjNBWnI4UlJOejBleGNVaURVeUIxYTBDNDQyT3lhYjQ2MWZSTllrS2MyU3E3WEpZMWstVWlyNWY3dG95WG53eHNlcS15cVNIZ04yZXB2M3NhRFFHZ3VCRnRvTWxZcjZZZ3JDdEV2NGxXUFEwRmRmYnBQWnlQN3Y4c29VNENhQlp2WFZVTThmdHZKNEVE?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjNBWnI4UlJOejBleGNVaURVeUIxYTBDNDQyT3lhYjQ2MWZSTllrS2MyU3E3WEpZMWstVWlyNWY3dG95WG53eHNlcS15cVNIZ04yZXB2M3NhRFFHZ3VCRnRvTWxZcjZZZ3JDdEV2NGxXUFEwRmRmYnBQWnlQN3Y4c29VNENhQlp2WFZVTThmdHZKNEVE?oc=5\" target=\"_blank\">令和8年度 百里基地航空祭 事前予行訓練見学ツアー 江東出張所｜2026年12月5日(土)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
@@ -104,6 +94,26 @@
       "date": "2026-11-03 07:28",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（開催、募集、見学）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "航空自衛隊 入間基地 部隊見学ツアー（警備犬･輸送機見学等）豊島出張所｜2026年11月25日(水) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUjI5RHJ1RVVReWEyZU43NTBGUlNzZFdVRGdCQVpxaWh0MTM3aEFHQnVhMUJ3Z3FQUEplQkU1TEF2WS1PNURFaW84ZnhGX0RsVkFSMC1yS2gxbE1VVU9OSmpzdzdWRWVSX25pTmlORjBZdGRNRTAzamZ1cDgtOTJjUGR3U0V3UERYTW5v?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUjI5RHJ1RVVReWEyZU43NTBGUlNzZFdVRGdCQVpxaWh0MTM3aEFHQnVhMUJ3Z3FQUEplQkU1TEF2WS1PNURFaW84ZnhGX0RsVkFSMC1yS2gxbE1VVU9OSmpzdzdWRWVSX25pTmlORjBZdGRNRTAzamZ1cDgtOTJjUGR3U0V3UERYTW5v?oc=5\" target=\"_blank\">航空自衛隊 入間基地 部隊見学ツアー（警備犬･輸送機見学等）豊島出張所｜2026年11月25日(水)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-11-06 01:57",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "自衛官体験イベント2026 in ヨドバシカメラ吉祥寺 東京地方協力本部｜2026年11月7日(土)･8日(日) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHNuUHZHblNhWjRERndQcmdSTVlHNXZoX0o1SEd1RG5QV3NFVnBfVFFaS3VUUzdPOElSTjQ4aWY3MGp3cl90VHQ3SEJ3eXYzbURuSUljYmhkRkFaS1NyRGlIZkYyN1lESFpsM2otbi1XdUwyR0NkSkpYaHExeDY1QWhtXzRCcWZNY0tvWnhJUXFYN3FIRmRLYnlHbw?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHNuUHZHblNhWjRERndQcmdSTVlHNXZoX0o1SEd1RG5QV3NFVnBfVFFaS3VUUzdPOElSTjQ4aWY3MGp3cl90VHQ3SEJ3eXYzbURuSUljYmhkRkFaS1NyRGlIZkYyN1lESFpsM2otbi1XdUwyR0NkSkpYaHExeDY1QWhtXzRCcWZNY0tvWnhJUXFYN3FIRmRLYnlHbw?oc=5\" target=\"_blank\">自衛官体験イベント2026 in ヨドバシカメラ吉祥寺 東京地方協力本部｜2026年11月7日(土)･8日(日)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-11-06 08:05",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（イベント、協力、体験）を含むため",
       "query": "東京地方協力本部"
     }
   ]

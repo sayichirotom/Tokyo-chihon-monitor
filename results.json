@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07 10:27",
-  "summary": "直近90日間の公開情報から9件を抽出。肯定9件、中立0件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-11-08 09:58",
+  "summary": "直近90日間の公開情報から7件を抽出。肯定7件、中立0件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -47,16 +47,6 @@
       "query": "東京地方協力本部"
     },
     {
-      "title": "海上自衛隊 潜水艦艦内見学＆体験喫食 in 横須賀基地 江東出張所｜2026年11月20日(金) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFlGQ0JpUWEtWFZiMy14ZGhHU1R5NjVyVGxONFdxd3hZS2hnZEVkNW4yOHNVdEJCV0RTOGtYQVBDZklwZGdOZVh4RV82OWtxaWtOUFdYelpXTV8zNmtCUzFSTzBGUjU4TmlacG1reDZfS21SWnlLN2t3Z3ZSQ0hpWW1wSExUWkV4TldjU1lR?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFlGQ0JpUWEtWFZiMy14ZGhHU1R5NjVyVGxONFdxd3hZS2hnZEVkNW4yOHNVdEJCV0RTOGtYQVBDZklwZGdOZVh4RV82OWtxaWtOUFdYelpXTV8zNmtCUzFSTzBGUjU4TmlacG1reDZfS21SWnlLN2t3Z3ZSQ0hpWW1wSExUWkV4TldjU1lR?oc=5\" target=\"_blank\">海上自衛隊 潜水艦艦内見学＆体験喫食 in 横須賀基地 江東出張所｜2026年11月20日(金)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-10-01 21:44",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
-      "query": "東京地方協力本部"
-    },
-    {
       "title": "航空自衛隊 百里基地見学ツアー（航空機見学･体験喫食等）新小岩募集案内所｜2026年12月14日(月) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXI5RDJ3ZG9MbEtXWWxWN0tCbDFOVTdrSjdNMS1WOHVmeXRuWVZCTGpzUFUySWFmc1B4TnBob3BQVjRTdm1yQmRYUEE3UUU3dWEyNkE4U0gxZXRGSU5PRWRBcW5IeUNuTlpBcEVlT0xEVUJxRU9PejZLc0lyWU5aRE5uS1JYUERqcWlkSGFuQVo?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXI5RDJ3ZG9MbEtXWWxWN0tCbDFOVTdrSjdNMS1WOHVmeXRuWVZCTGpzUFUySWFmc1B4TnBob3BQVjRTdm1yQmRYUEE3UUU3dWEyNkE4U0gxZXRGSU5PRWRBcW5IeUNuTlpBcEVlT0xEVUJxRU9PejZLc0lyWU5aRE5uS1JYUERqcWlkSGFuQVo?oc=5\" target=\"_blank\">航空自衛隊 百里基地見学ツアー（航空機見学･体験喫食等）新小岩募集案内所｜2026年12月14日(月)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
@@ -64,16 +54,6 @@
       "date": "2026-10-15 08:03",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（募集、見学、体験）を含むため",
-      "query": "東京地方協力本部"
-    },
-    {
-      "title": "令和8年度 百里基地航空祭 事前予行訓練見学ツアー 江東出張所｜2026年12月5日(土) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjNBWnI4UlJOejBleGNVaURVeUIxYTBDNDQyT3lhYjQ2MWZSTllrS2MyU3E3WEpZMWstVWlyNWY3dG95WG53eHNlcS15cVNIZ04yZXB2M3NhRFFHZ3VCRnRvTWxZcjZZZ3JDdEV2NGxXUFEwRmRmYnBQWnlQN3Y4c29VNENhQlp2WFZVTThmdHZKNEVE?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjNBWnI4UlJOejBleGNVaURVeUIxYTBDNDQyT3lhYjQ2MWZSTllrS2MyU3E3WEpZMWstVWlyNWY3dG95WG53eHNlcS15cVNIZ04yZXB2M3NhRFFHZ3VCRnRvTWxZcjZZZ3JDdEV2NGxXUFEwRmRmYnBQWnlQN3Y4c29VNENhQlp2WFZVTThmdHZKNEVE?oc=5\" target=\"_blank\">令和8年度 百里基地航空祭 事前予行訓練見学ツアー 江東出張所｜2026年12月5日(土)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-10-22 00:58",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
       "query": "東京地方協力本部"
     },
     {
@@ -87,13 +67,13 @@
       "query": "東京地本 自衛隊"
     },
     {
-      "title": "令和8年度 航空自衛隊 百里基地航空祭 見学バスツアー自衛隊東京地方協力本部 2026年12月6日(日) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVZqZmcxUVNFWVhYZkplMjZDNmo5czQ2MnhtdlBNakpSa3ExY0FIUHdjSHV2ZWhJMENaR19ZWTdab1Nta3V2N3lqRFhBalNhRS1RblY2T0d6WEdDMnJsOXczZ0FLQS1DZHVnMGw0azZfZ05YWEVjOUg1SU5tMDIyNU1SN2JXWXZPaFhaOHBIYw?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVZqZmcxUVNFWVhYZkplMjZDNmo5czQ2MnhtdlBNakpSa3ExY0FIUHdjSHV2ZWhJMENaR19ZWTdab1Nta3V2N3lqRFhBalNhRS1RblY2T0d6WEdDMnJsOXczZ0FLQS1DZHVnMGw0azZfZ05YWEVjOUg1SU5tMDIyNU1SN2JXWXZPaFhaOHBIYw?oc=5\" target=\"_blank\">令和8年度 航空自衛隊 百里基地航空祭 見学バスツアー自衛隊東京地方協力本部 2026年12月6日(日)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "title": "海自 横須賀基地で11月20日に潜水艦の艦内見学会開催 自衛隊東京地本 江東出張所が15〜32歳を対象に募集 体験喫食も - Funeco",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RYW9ZUDFmX3lWQUllc09TVzZtSWtWejlyU3BnTVJ1T253aHNxRW1hcWFNcXgxUWN4b21HZE5iMko1U3VZT0RURVln?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RYW9ZUDFmX3lWQUllc09TVzZtSWtWejlyU3BnTVJ1T253aHNxRW1hcWFNcXgxUWN4b21HZE5iMko1U3VZT0RURVln?oc=5\" target=\"_blank\">海自 横須賀基地で11月20日に潜水艦の艦内見学会開催 自衛隊東京地本 江東出張所が15〜32歳を対象に募集 体験喫食も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Funeco</font>",
       "source": "GoogleニュースRSS",
-      "date": "2026-10-28 14:31",
+      "date": "2026-11-03 07:28",
       "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（協力、見学）を含むため",
+      "sentiment_reason": "募集・イベント等の肯定語（開催、募集、見学）を含むため",
       "query": "東京地方協力本部"
     },
     {

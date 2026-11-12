@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 10:36",
+  "updated": "2026-11-12 11:36",
   "summary": "直近90日間の公開情報から8件を抽出。肯定8件、中立0件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
@@ -91,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHNuUHZHblNhWjRERndQcmdSTVlHNXZoX0o1SEd1RG5QV3NFVnBfVFFaS3VUUzdPOElSTjQ4aWY3MGp3cl90VHQ3SEJ3eXYzbURuSUljYmhkRkFaS1NyRGlIZkYyN1lESFpsM2otbi1XdUwyR0NkSkpYaHExeDY1QWhtXzRCcWZNY0tvWnhJUXFYN3FIRmRLYnlHbw?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHNuUHZHblNhWjRERndQcmdSTVlHNXZoX0o1SEd1RG5QV3NFVnBfVFFaS3VUUzdPOElSTjQ4aWY3MGp3cl90VHQ3SEJ3eXYzbURuSUljYmhkRkFaS1NyRGlIZkYyN1lESFpsM2otbi1XdUwyR0NkSkpYaHExeDY1QWhtXzRCcWZNY0tvWnhJUXFYN3FIRmRLYnlHbw?oc=5\" target=\"_blank\">自衛官体験イベント2026 in ヨドバシカメラ吉祥寺 東京地方協力本部｜2026年11月7日(土)･8日(日)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
       "source": "GoogleニュースRSS",
-      "date": "2026-11-08 18:41",
+      "date": "2026-11-07 17:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（イベント、協力、体験）を含むため",
       "query": "東京地方協力本部"

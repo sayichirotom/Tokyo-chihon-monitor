@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13 11:16",
-  "summary": "直近90日間の公開情報から7件を抽出。肯定7件、中立0件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-11-14 10:54",
+  "summary": "直近90日間の公開情報から6件を抽出。肯定6件、中立0件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -54,16 +54,6 @@
       "date": "2026-10-01 16:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（イベント、協力）を含むため",
-      "query": "東京地方協力本部"
-    },
-    {
-      "title": "航空自衛隊 百里基地見学ツアー（航空機見学･体験喫食等）新小岩募集案内所｜2026年12月14日(月) - 陸自調査団",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXI5RDJ3ZG9MbEtXWWxWN0tCbDFOVTdrSjdNMS1WOHVmeXRuWVZCTGpzUFUySWFmc1B4TnBob3BQVjRTdm1yQmRYUEE3UUU3dWEyNkE4U0gxZXRGSU5PRWRBcW5IeUNuTlpBcEVlT0xEVUJxRU9PejZLc0lyWU5aRE5uS1JYUERqcWlkSGFuQVo?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXI5RDJ3ZG9MbEtXWWxWN0tCbDFOVTdrSjdNMS1WOHVmeXRuWVZCTGpzUFUySWFmc1B4TnBob3BQVjRTdm1yQmRYUEE3UUU3dWEyNkE4U0gxZXRGSU5PRWRBcW5IeUNuTlpBcEVlT0xEVUJxRU9PejZLc0lyWU5aRE5uS1JYUERqcWlkSGFuQVo?oc=5\" target=\"_blank\">航空自衛隊 百里基地見学ツアー（航空機見学･体験喫食等）新小岩募集案内所｜2026年12月14日(月)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-10-15 08:03",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（募集、見学、体験）を含むため",
       "query": "東京地方協力本部"
     },
     {

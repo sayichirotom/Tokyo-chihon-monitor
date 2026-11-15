@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14 10:54",
-  "summary": "直近90日間の公開情報から6件を抽出。肯定6件、中立0件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-11-15 10:26",
+  "summary": "直近90日間の公開情報から7件を抽出。肯定7件、中立0件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -64,6 +64,16 @@
       "date": "2026-10-26 16:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（紹介）を含むため",
+      "query": "東京地本 自衛隊"
+    },
+    {
+      "title": "令和8年度 航空自衛隊 百里基地航空祭 見学バスツアー自衛隊東京地方協力本部 2026年12月6日(日) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVZqZmcxUVNFWVhYZkplMjZDNmo5czQ2MnhtdlBNakpSa3ExY0FIUHdjSHV2ZWhJMENaR19ZWTdab1Nta3V2N3lqRFhBalNhRS1RblY2T0d6WEdDMnJsOXczZ0FLQS1DZHVnMGw0azZfZ05YWEVjOUg1SU5tMDIyNU1SN2JXWXZPaFhaOHBIYw?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVZqZmcxUVNFWVhYZkplMjZDNmo5czQ2MnhtdlBNakpSa3ExY0FIUHdjSHV2ZWhJMENaR19ZWTdab1Nta3V2N3lqRFhBalNhRS1RblY2T0d6WEdDMnJsOXczZ0FLQS1DZHVnMGw0azZfZ05YWEVjOUg1SU5tMDIyNU1SN2JXWXZPaFhaOHBIYw?oc=5\" target=\"_blank\">令和8年度 航空自衛隊 百里基地航空祭 見学バスツアー自衛隊東京地方協力本部 2026年12月6日(日)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-10-28 14:31",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力、見学）を含むため",
       "query": "東京地本 自衛隊"
     },
     {

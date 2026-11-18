@@ -1,21 +1,31 @@
 {
-  "updated": "2026-11-17 13:15",
-  "summary": "直近90日間の公開情報から2件を抽出。肯定2件、中立0件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-11-18 12:14",
+  "summary": "直近90日間の公開情報から5件を抽出。肯定5件、中立0件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
-    "東京タワー",
-    "コラボ広報イベント2026",
-    "東京地方協力本部",
-    "2026年10月1日",
     "陸自調査団",
     "href",
     "news",
     "google",
     "com",
     "rss",
-    "articles"
+    "articles",
+    "oc",
+    "target",
+    "blank",
+    "color"
   ],
   "items": [
+    {
+      "title": "陸上自衛隊 立川駐屯地見学ツアー（航空機見学･体験喫食等）立川出張所｜2026年8月25日(火)･26日(水) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkZFT0hYTnQxWjVmOGlvMkJjQXg5OFNnUWVqUVYtUVRYVGUzdkFzdV80WlNuNTZNYmdpOURDUHMtcU44THVxNFp4dEZHd2J5UmFsaWE2WmtpdzhDaGhJdnFtamJGU0Y3VzM4TVNxWXB6WEVsZXhlWGNqRWtFd3VoMTB5MHJyc2NTVHUzaWZ3?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkZFT0hYTnQxWjVmOGlvMkJjQXg5OFNnUWVqUVYtUVRYVGUzdkFzdV80WlNuNTZNYmdpOURDUHMtcU44THVxNFp4dEZHd2J5UmFsaWE2WmtpdzhDaGhJdnFtamJGU0Y3VzM4TVNxWXB6WEVsZXhlWGNqRWtFd3VoMTB5MHJyc2NTVHUzaWZ3?oc=5\" target=\"_blank\">陸上自衛隊 立川駐屯地見学ツアー（航空機見学･体験喫食等）立川出張所｜2026年8月25日(火)･26日(水)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-08-25 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
+      "query": "東京地方協力本部"
+    },
     {
       "title": "自衛隊 ✕ 東京タワー コラボ広報イベント2026 東京地方協力本部｜2026年10月1日(木) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOemxYc0VqZFBfZURJVmhoSGhCeERQbm9WQzlEdEhhVHFScE5UWGVRdVV3clVvUWtMdmFyalR5dFZLR1JFSHJvdkQ2eExCUEotQzJGckVMTEVaQUJaWHJCUGdCem8wSWxhMDF5a20wRktONm95NEpZaGFod2tvdV9QdGVJQUR6eGxKY3hfWFZ3?oc=5",
@@ -24,7 +34,17 @@
       "date": "2026-10-01 16:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（イベント、協力）を含むため",
-      "query": "東京地本 自衛隊"
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "ネクタイの〝爆速〟結び方(自衛隊東京地方協力本部のX@tokyo_pcoより) - 「ネクタイも結び方忘れてない？」自衛隊公式が〝爆速〟の方法を披露 ⇒ 見てみると……「すげぇぇぇぇぇ！！」 - 写真・画像(1/1) - 西日本新聞me",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zTGI3QWtNejZ2aWJHczllV1ZRcW40TGdHb1kwNjduZ1NfeVdtb083bnNEb290bDZfXzgtNDRHek5KYVg2R1JOSjNoaU9CRFhmRHRNdG4wVQ?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zTGI3QWtNejZ2aWJHczllV1ZRcW40TGdHb1kwNjduZ1NfeVdtb083bnNEb290bDZfXzgtNDRHek5KYVg2R1JOSjNoaU9CRFhmRHRNdG4wVQ?oc=5\" target=\"_blank\">ネクタイの〝爆速〟結び方(自衛隊東京地方協力本部のX@tokyo_pcoより) - 「ネクタイも結び方忘れてない？」自衛隊公式が〝爆速〟の方法を披露 ⇒ 見てみると……「すげぇぇぇぇぇ！！」 - 写真・画像(1/1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-10-17 16:36",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地方協力本部"
     },
     {
       "title": "自衛隊東京地本が紹介したネクタイを爆速で結ぶ時短テクに反響 (2026年10月26日掲載) - ライブドアニュース",
@@ -35,6 +55,16 @@
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（紹介）を含むため",
       "query": "東京地本 自衛隊"
+    },
+    {
+      "title": "自衛官体験イベント2026 in ヨドバシカメラ吉祥寺 東京地方協力本部｜2026年11月7日(土)･8日(日) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHNuUHZHblNhWjRERndQcmdSTVlHNXZoX0o1SEd1RG5QV3NFVnBfVFFaS3VUUzdPOElSTjQ4aWY3MGp3cl90VHQ3SEJ3eXYzbURuSUljYmhkRkFaS1NyRGlIZkYyN1lESFpsM2otbi1XdUwyR0NkSkpYaHExeDY1QWhtXzRCcWZNY0tvWnhJUXFYN3FIRmRLYnlHbw?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHNuUHZHblNhWjRERndQcmdSTVlHNXZoX0o1SEd1RG5QV3NFVnBfVFFaS3VUUzdPOElSTjQ4aWY3MGp3cl90VHQ3SEJ3eXYzbURuSUljYmhkRkFaS1NyRGlIZkYyN1lESFpsM2otbi1XdUwyR0NkSkpYaHExeDY1QWhtXzRCcWZNY0tvWnhJUXFYN3FIRmRLYnlHbw?oc=5\" target=\"_blank\">自衛官体験イベント2026 in ヨドバシカメラ吉祥寺 東京地方協力本部｜2026年11月7日(土)･8日(日)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-11-07 17:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（イベント、協力、体験）を含むため",
+      "query": "東京地方協力本部"
     }
   ]
 }

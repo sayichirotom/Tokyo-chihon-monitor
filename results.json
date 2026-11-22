@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21 11:55",
-  "summary": "直近90日間の公開情報から6件を抽出。肯定6件、中立0件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-11-22 10:47",
+  "summary": "直近90日間の公開情報から5件を抽出。肯定5件、中立0件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -44,16 +44,6 @@
       "date": "2026-10-01 16:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（イベント、協力）を含むため",
-      "query": "東京地方協力本部"
-    },
-    {
-      "title": "ネクタイの〝爆速〟結び方(自衛隊東京地方協力本部のX@tokyo_pcoより) - 「ネクタイも結び方忘れてない？」自衛隊公式が〝爆速〟の方法を披露 ⇒ 見てみると……「すげぇぇぇぇぇ！！」 - 写真・画像(1/1) - 西日本新聞me",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zTGI3QWtNejZ2aWJHczllV1ZRcW40TGdHb1kwNjduZ1NfeVdtb083bnNEb290bDZfXzgtNDRHek5KYVg2R1JOSjNoaU9CRFhmRHRNdG4wVQ?oc=5",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zTGI3QWtNejZ2aWJHczllV1ZRcW40TGdHb1kwNjduZ1NfeVdtb083bnNEb290bDZfXzgtNDRHek5KYVg2R1JOSjNoaU9CRFhmRHRNdG4wVQ?oc=5\" target=\"_blank\">ネクタイの〝爆速〟結び方(自衛隊東京地方協力本部のX@tokyo_pcoより) - 「ネクタイも結び方忘れてない？」自衛隊公式が〝爆速〟の方法を披露 ⇒ 見てみると……「すげぇぇぇぇぇ！！」 - 写真・画像(1/1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
-      "source": "GoogleニュースRSS",
-      "date": "2026-10-17 16:36",
-      "sentiment": "肯定",
-      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
       "query": "東京地方協力本部"
     },
     {

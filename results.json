@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23 11:04",
-  "summary": "直近90日間の公開情報から5件を抽出。肯定5件、中立0件、否定0件。判定理由を各記事に表示します。",
+  "updated": "2026-11-24 14:40",
+  "summary": "直近90日間の公開情報から10件を抽出。肯定10件、中立0件、否定0件。判定理由を各記事に表示します。",
   "keywords": [
     "font",
     "陸自調査団",
@@ -27,6 +27,16 @@
       "query": "東京地方協力本部"
     },
     {
+      "title": "第13回 東京拘置所矯正展 自衛隊東京地方協力本部 広報展示ブース｜2026年9月26日(土) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUhLSkZscGU2Qy1SOWh3T1BIZC1hdEROTndMMjNabkI0MTVBTnhqc3NvNFFTUWtBVUwtZEVuc2ZockFWay0tbTZNVXdZM0ZKVWxEdHJhb2pLQ21nR1lsX3pFY0tVNE9idXlZUWpWTThQekFpWmpMNHN3VnByeDFGWERuZk9ZaWlRMk9zX01n?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUhLSkZscGU2Qy1SOWh3T1BIZC1hdEROTndMMjNabkI0MTVBTnhqc3NvNFFTUWtBVUwtZEVuc2ZockFWay0tbTZNVXdZM0ZKVWxEdHJhb2pLQ21nR1lsX3pFY0tVNE9idXlZUWpWTThQekFpWmpMNHN3VnByeDFGWERuZk9ZaWlRMk9zX01n?oc=5\" target=\"_blank\">第13回 東京拘置所矯正展 自衛隊東京地方協力本部 広報展示ブース｜2026年9月26日(土)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-09-26 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
       "title": "陸上自衛隊 習志野駐屯地 第1空挺団見学ツアー 江東出張所｜2026年9月29日(火) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzZ4LU1xcGxYWFJEaXdvUXNMd2N6anBDQi1DZmV0N1dsMm5kM184S2JfYlItVV9NVDZkU0wtd3lQNkpRYWcyUU1GYzdPN2FkOFVNV2NkMURzQ2pTVTZGR3QzS2l4Z1JOdDVZa1NqR2xUaEV1THJleGdEb1hwdlF2TFZUSWktNVhZY2w2ZW9Paw?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzZ4LU1xcGxYWFJEaXdvUXNMd2N6anBDQi1DZmV0N1dsMm5kM184S2JfYlItVV9NVDZkU0wtd3lQNkpRYWcyUU1GYzdPN2FkOFVNV2NkMURzQ2pTVTZGR3QzS2l4Z1JOdDVZa1NqR2xUaEV1THJleGdEb1hwdlF2TFZUSWktNVhZY2w2ZW9Paw?oc=5\" target=\"_blank\">陸上自衛隊 習志野駐屯地 第1空挺団見学ツアー 江東出張所｜2026年9月29日(火)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
@@ -34,7 +44,7 @@
       "date": "2026-09-29 16:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
-      "query": "東京地本 自衛隊"
+      "query": "東京地方協力本部"
     },
     {
       "title": "自衛隊 ✕ 東京タワー コラボ広報イベント2026 東京地方協力本部｜2026年10月1日(木) - 陸自調査団",
@@ -44,6 +54,16 @@
       "date": "2026-10-01 16:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（イベント、協力）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "陸上自衛隊 宇都宮駐屯地 中央即応連隊見学ツアー 江東出張所｜2026年10月19日(月) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd0d0WDJmVmxMWjA1aTFnbUt2NkdJYWdhcW9Jb1dScE9oZ1JqY2RvYXYtbVQtZUVhU2FfdGFXUUpGZ1BBTzAxaTZNWWU0eGhIeTlCTnVFcTd2eEltSjlmZE93SXJwRmg2TlBaTkhWUUxKX1ZmTEEwOWlmQWVvSDFvTllwRzZpTlVBZm9aUU9pVDA?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPd0d0WDJmVmxMWjA1aTFnbUt2NkdJYWdhcW9Jb1dScE9oZ1JqY2RvYXYtbVQtZUVhU2FfdGFXUUpGZ1BBTzAxaTZNWWU0eGhIeTlCTnVFcTd2eEltSjlmZE93SXJwRmg2TlBaTkhWUUxKX1ZmTEEwOWlmQWVvSDFvTllwRzZpTlVBZm9aUU9pVDA?oc=5\" target=\"_blank\">陸上自衛隊 宇都宮駐屯地 中央即応連隊見学ツアー 江東出張所｜2026年10月19日(月)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-10-19 16:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学）を含むため",
       "query": "東京地方協力本部"
     },
     {
@@ -57,6 +77,16 @@
       "query": "東京地本 自衛隊"
     },
     {
+      "title": "海自 横須賀基地で11月20日に潜水艦の艦内見学会開催 自衛隊東京地本 江東出張所が15〜32歳を対象に募集 体験喫食も - Funeco",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RYW9ZUDFmX3lWQUllc09TVzZtSWtWejlyU3BnTVJ1T253aHNxRW1hcWFNcXgxUWN4b21HZE5iMko1U3VZT0RURVln?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RYW9ZUDFmX3lWQUllc09TVzZtSWtWejlyU3BnTVJ1T253aHNxRW1hcWFNcXgxUWN4b21HZE5iMko1U3VZT0RURVln?oc=5\" target=\"_blank\">海自 横須賀基地で11月20日に潜水艦の艦内見学会開催 自衛隊東京地本 江東出張所が15〜32歳を対象に募集 体験喫食も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Funeco</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-11-03 17:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（開催、募集、見学）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
       "title": "自衛官体験イベント2026 in ヨドバシカメラ吉祥寺 東京地方協力本部｜2026年11月7日(土)･8日(日) - 陸自調査団",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHNuUHZHblNhWjRERndQcmdSTVlHNXZoX0o1SEd1RG5QV3NFVnBfVFFaS3VUUzdPOElSTjQ4aWY3MGp3cl90VHQ3SEJ3eXYzbURuSUljYmhkRkFaS1NyRGlIZkYyN1lESFpsM2otbi1XdUwyR0NkSkpYaHExeDY1QWhtXzRCcWZNY0tvWnhJUXFYN3FIRmRLYnlHbw?oc=5",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHNuUHZHblNhWjRERndQcmdSTVlHNXZoX0o1SEd1RG5QV3NFVnBfVFFaS3VUUzdPOElSTjQ4aWY3MGp3cl90VHQ3SEJ3eXYzbURuSUljYmhkRkFaS1NyRGlIZkYyN1lESFpsM2otbi1XdUwyR0NkSkpYaHExeDY1QWhtXzRCcWZNY0tvWnhJUXFYN3FIRmRLYnlHbw?oc=5\" target=\"_blank\">自衛官体験イベント2026 in ヨドバシカメラ吉祥寺 東京地方協力本部｜2026年11月7日(土)･8日(日)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
@@ -64,6 +94,26 @@
       "date": "2026-11-07 17:00",
       "sentiment": "肯定",
       "sentiment_reason": "募集・イベント等の肯定語（イベント、協力、体験）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "海上自衛隊 潜水艦艦内見学＆体験喫食 in 横須賀基地 江東出張所｜2026年11月20日(金) - 陸自調査団",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFlGQ0JpUWEtWFZiMy14ZGhHU1R5NjVyVGxONFdxd3hZS2hnZEVkNW4yOHNVdEJCV0RTOGtYQVBDZklwZGdOZVh4RV82OWtxaWtOUFdYelpXTV8zNmtCUzFSTzBGUjU4TmlacG1reDZfS21SWnlLN2t3Z3ZSQ0hpWW1wSExUWkV4TldjU1lR?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFlGQ0JpUWEtWFZiMy14ZGhHU1R5NjVyVGxONFdxd3hZS2hnZEVkNW4yOHNVdEJCV0RTOGtYQVBDZklwZGdOZVh4RV82OWtxaWtOUFdYelpXTV8zNmtCUzFSTzBGUjU4TmlacG1reDZfS21SWnlLN2t3Z3ZSQ0hpWW1wSExUWkV4TldjU1lR?oc=5\" target=\"_blank\">海上自衛隊 潜水艦艦内見学＆体験喫食 in 横須賀基地 江東出張所｜2026年11月20日(金)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">陸自調査団</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-11-20 17:00",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（見学、体験）を含むため",
+      "query": "東京地方協力本部"
+    },
+    {
+      "title": "自衛隊東京地方協力本部創立70周年記念式典に列席しました - 選挙ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uOWpWTHllbGtnNHRpdWpqVHdHMUFvXzFnZlNzVXJfNkZsVDUwdTVBUWdrT3V0aFZDZTNHZlh3c1Jsd0ZOZDVCUllXMmRMWDFVRHhaVjJYMVZRT3lyUlE?oc=5",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uOWpWTHllbGtnNHRpdWpqVHdHMUFvXzFnZlNzVXJfNkZsVDUwdTVBUWdrT3V0aFZDZTNHZlh3c1Jsd0ZOZDVCUllXMmRMWDFVRHhaVjJYMVZRT3lyUlE?oc=5\" target=\"_blank\">自衛隊東京地方協力本部創立70周年記念式典に列席しました</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">選挙ドットコム</font>",
+      "source": "GoogleニュースRSS",
+      "date": "2026-11-23 18:36",
+      "sentiment": "肯定",
+      "sentiment_reason": "募集・イベント等の肯定語（協力）を含むため",
       "query": "東京地方協力本部"
     }
   ]
